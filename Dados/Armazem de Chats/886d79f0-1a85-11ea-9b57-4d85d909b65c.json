@@ -1,0 +1,139 @@
+{
+  "id": "886d79f0-1a85-11ea-9b57-4d85d909b65c",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Leticia",
+    "id": "18350ebfda08cc0819f9e505d8ce5b135fbd1e5c46bbc6eb1941cb6f8e27ce77",
+    "email": "Maceio@cavernadodino.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Maceió"
+  },
+  "messageCount": 13,
+  "chatDuration": 910,
+  "rating": 0,
+  "createdOn": "2019-12-09T13:12:35.864Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:12:35.864Z",
+      "msg": "Nome : Leticia\r\nE-mail/Usuário : Maceio@cavernadodino.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:12:35.876Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:13:49.847Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:14:13.388Z",
+      "msg": "bom  dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:14:42.809Z",
+      "msg": "o meu sistema nao ta imprimindo a nota fiscal"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:15:41.325Z",
+      "msg": "Pode me passar um acesso do team viewer, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:16:05.242Z",
+      "msg": "ele mostra como se estivesse imprimindo so que nao sai papel"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:16:58.656Z",
+      "msg": "1 296 628 293"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:17:16.799Z",
+      "msg": "228pus"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:17:31.390Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:21:13.765Z",
+      "msg": "Verificamos que a sua impressora esta com documentos travados na fila de impressão"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:21:27.373Z",
+      "msg": "Neste caso, você consegue entrar em contato com a TI da Estrela, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:21:39.943Z",
+      "msg": "Para que eles possam arrumar a sua impressora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:27:46.337Z",
+      "msg": "ok"
+    }
+  ],
+  "domain": "tawk.to"
+}

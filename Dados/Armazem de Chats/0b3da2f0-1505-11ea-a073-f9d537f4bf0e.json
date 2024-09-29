@@ -1,0 +1,189 @@
+{
+  "id": "0b3da2f0-1505-11ea-a073-f9d537f4bf0e",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "jean",
+    "id": "57601f7542ea96df49ddc36da6b265939490f6ee1540ed9c14eae211aec9629b",
+    "email": "jean.vargas19@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 19,
+  "chatDuration": 2563,
+  "rating": 0,
+  "createdOn": "2019-12-02T13:10:03.633Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:10:03.633Z",
+      "msg": "Nome : jean\r\nE-mail/Usuário : jean.vargas19@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:10:03.649Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:11:44.443Z",
+      "msg": "bom dia! sabado foi nossa inauguração e nao consegui finalizar uma venda no pdv, pois o mesmo ao finalizar a venda, apresentou msg de erro no certificado raiz do sistema"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:14:43.598Z",
+      "msg": "Bom dia, Jean!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:14:50.082Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:14:54.483Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:18:05.176Z",
+      "msg": "Você consegue tentar importar o Certificado novamente, por favor? Acredito que deu uma mensagem de erro na tela no momento de importar, então, embora mostre na tela do Certificado, ele não ficou corretamente importado.\nVou lhe passar um passo a passo para auxiliar com a importação:\nhttps://suporte. erp.com/portal/kb/articles/como-importar-o-certificado-digital\n\nEm caso de erro, pode seguir esse passo a passo antes:\nhttps://suporte. erp.com/portal/kb/articles/deu-erro-na-importa%C3%A7%C3%A3o-do-certificado-digital-o-que-fazer"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:19:56.006Z",
+      "msg": "acho que vocês podem acessar a maquina e realizar o processo."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:22:28.983Z",
+      "msg": "Pode me passar o seu arquivo de extensão OFX e a senha do Certificado, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:23:38.181Z",
+      "msg": "o arquivo gerado pelo certificado é um PFX e não OFX"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:28:04.726Z",
+      "msg": "Isso, PFX, desculpe"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:28:34.340Z",
+      "msg": "que tal acessar a minh amaquina e ai precisar da senha digito aqui ..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:28:40.573Z",
+      "msg": "quero ver o procedimento."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:29:34.169Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:33:07.258Z",
+      "msg": "Pode me passar um acesso do team viewer versão 12 ou Anydesk, por favor? Para o técnico poder conectar."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:33:21.155Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:37:25.980Z",
+      "msg": "1 471 136 250"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:37:31.386Z",
+      "msg": "czfafa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:37:42.073Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:37:47.726Z",
+      "msg": "OK"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "4b261830-1531-11ea-92d6-bf42d7229d60",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "WILLIAN",
+    "id": "8a18eba0272c84edb1e1a2bc6b2c7edbbe83c4cfbe2618803adf4714560acfb5",
+    "email": "willian.paraiso@movecaosmeticos.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 15,
+  "chatDuration": 795,
+  "rating": 0,
+  "createdOn": "2019-12-02T18:26:48.713Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:26:48.713Z",
+      "msg": "Nome : WILLIAN\r\nE-mail/Usuário : willian.paraiso@movecosmeticos.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:26:48.771Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:26:54.019Z",
+      "msg": "OLA"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:26:58.278Z",
+      "msg": "VOLTANDO"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:27:27.897Z",
+      "msg": "A BONIFICAÇÃO NÃO TEM COMO SALVAR ELA SEM EMITIR A NF???"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:28:17.668Z",
+      "msg": "Você pode marcar a opção NÃO, em \"Gerar Nfe?\", então ele salva sem emitir a nota. Depois você pode clicar no botão Gerar NFe, que terá ao lado dela na Tela do Outras Notas."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:28:46.833Z",
+      "msg": "NÃO ESTÁ DANDO CERTO, ESTÁ PEDIDO NUMERO DE SERIE"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:28:56.403Z",
+      "msg": "NÚMERO E SÉRIE"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:29:25.566Z",
+      "msg": "CHAVE DE ACESSO"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:29:31.231Z",
+      "msg": "EU SÓ QUERIA SALVAR"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:31:20.905Z",
+      "msg": "Por favor, deixe em branco essa Aba. Se o campo Modelo Fiscal estiver preenchido com o modelo de nota fiscal, por favor, volte para a opção \"Selecione\""
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:31:36.407Z",
+      "msg": "A Aba de Documento referenciado no caso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:32:20.751Z",
+      "msg": "BLZA"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:37:24.720Z",
+      "msg": "SE EU CADASTRAR TODOS OS CUSTOS O SISTEMA ATUALIZA DEPOIS ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:37:40.211Z",
+      "msg": "No relatório de Lucratividade, isso?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:40:03.979Z",
+      "msg": "Entrará somente para as novas vendas, pois nas vendas anteriores o valor estava zerado para o campo de Custo do item."
+    }
+  ],
+  "domain": "tawk.to"
+}

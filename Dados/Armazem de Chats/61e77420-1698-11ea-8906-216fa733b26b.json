@@ -1,0 +1,165 @@
+{
+  "id": "61e77420-1698-11ea-8906-216fa733b26b",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "lilian",
+    "id": "349d639222b80c3f729175b69fb009397f099e834697b8e1c7f97de25a42dd3c",
+    "email": "loja@foli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 16,
+  "chatDuration": 670,
+  "rating": 0,
+  "createdOn": "2019-12-04T13:17:16.193Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:17:16.193Z",
+      "msg": "Nome : lilian\r\nE-mail/Usuário : loja@foli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:17:16.210Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:17:27.227Z",
+      "msg": "Oi bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:17:32.147Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:17:41.035Z",
+      "msg": "tentando faturar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:17:48.869Z",
+      "msg": "mas esta dando erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:18:02.235Z",
+      "msg": "Pode me passar o print do erro, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:20:37.813Z",
+      "msg": "Erro: 500 / Internal Server Error / error"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:21:16.099Z",
+      "msg": "Pode me passar o número do pedido, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:23:15.306Z",
+      "msg": "1388"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:23:56.658Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:26:19.745Z",
+      "msg": "Prontinho! Esta fataturado já"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:26:23.561Z",
+      "msg": "*faturado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:26:31.665Z",
+      "msg": "Já pode realizar a emissão da nota"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:27:23.280Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:27:31.215Z",
+      "msg": "obrigada Ana"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:27:37.348Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quarta-feira e uma boa semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

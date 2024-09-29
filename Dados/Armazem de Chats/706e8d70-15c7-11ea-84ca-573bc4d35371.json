@@ -1,0 +1,188 @@
+{
+  "id": "706e8d70-15c7-11ea-84ca-573bc4d35371",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Yasmim",
+    "id": "aff33780095caeb3780fc38f99d34390325e7c5361325c1f52f31c57515e0885",
+    "email": "samirstorerosul@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rosario do Sul"
+  },
+  "messageCount": 18,
+  "chatDuration": 860,
+  "rating": 0,
+  "createdOn": "2019-12-03T12:21:34.724Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:21:34.724Z",
+      "msg": "Nome : Yasmim\r\nE-mail/Usuário : samirstorerosul@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:21:34.738Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:21:47.147Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:22:27.818Z",
+      "msg": "Bom dia, ontem fiz uma pergunta só que não consegui ver a resposta"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:23:03.359Z",
+      "msg": "Queria saber se quando está assim a venda é gerado imposto ou não"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:23:03.837Z",
+      "msg": "?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T12:23:06.321Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:23:51.886Z",
+      "msg": "Assim ainda não é gerado os impostos, apenas quando você emitir a nota fiscal."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:24:04.829Z",
+      "msg": "Ah bom, muito obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:24:09.355Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa terça-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:27:22.866Z",
+      "msg": "Outra coisa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:27:43.905Z",
+      "msg": "Paguei o boleto ontem, hoje estou sem permissão de acesso, teria como liberar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:27:44.268Z",
+      "msg": "?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T12:27:54.630Z",
+      "data": {
+        "uri": "https",
+        "name": "77384533_440609599959178_8372429330642370560_n.jpg",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:30:28.287Z",
+      "msg": "No usuário do   Web ou no PDV da Loja do usuários samirsul@gmail.com?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:30:45.426Z",
+      "msg": "Acessei o usuário e entrou nomal já"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:30:48.155Z",
+      "msg": "*normal"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:34:51.808Z",
+      "msg": "PDV"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:35:55.133Z",
+      "msg": "Pode por favor, fechar o PDV, abrir novamente e aguardar uns minutinhos ele sincronizar o pagamento, então você já vai conseguir acessar ele com sucesso."
+    }
+  ],
+  "domain": "tawk.to"
+}

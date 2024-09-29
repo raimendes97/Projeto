@@ -1,0 +1,195 @@
+{
+  "id": "7f8c44c0-1854-11ea-ac12-8b2d57969953",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Bety",
+    "id": "1f7402e30d92e63b9f15a34b99fb9d29a3f8e63594680f48be5b082c4fadd35b",
+    "email": "contabil@tecnology.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 20,
+  "chatDuration": 1444,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:16:21.009Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:16:21.009Z",
+      "msg": "Nome : Bety\r\nE-mail/Usuário : contabil@tecnology.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:16:20.984Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:16:35.011Z",
+      "msg": "Olá, Bety"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:16:37.603Z",
+      "msg": "caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:16:54.984Z",
+      "msg": "Sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:17:14.819Z",
+      "msg": "algum retorno?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:18:11.914Z",
+      "msg": "Infelizmente o João teve um imprevisto mas já esta chegando na empresa.\nVocê consegue nos passar o problema, por favor? Então vamos verificando para você até que ele chegue."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:18:43.574Z",
+      "msg": "O João já está ciente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:18:49.546Z",
+      "msg": "falei com ele ontem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:18:59.498Z",
+      "msg": "me disse que conversaria com o Vinicius"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:19:22.186Z",
+      "msg": "agora o escritório está cobrando um retorno pois precisam ver o que é possível fazer"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:20:12.330Z",
+      "msg": "Infelizmente ele ainda não conseguiu conversar com o Vinicius para repassar o caso, pois ele não veio para empresa na parte da manhã, mas se você nos passar, podemos verificar a questão, enquanto ele não chega na empresa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:34:13.179Z",
+      "msg": "Bety, o João esta lhe encaminhando o email agora mesmo, você consegue verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:36:36.584Z",
+      "msg": "não recebi o e-mail"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:37:03.470Z",
+      "msg": "a questão é que as NF de Remessa de entrega futura emitidas mês passado estão com CFOP errado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:37:12.238Z",
+      "msg": "o correto é o 5117"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:37:29.454Z",
+      "msg": "o escritório precisa conversar com alguém do   para ver os ajustes"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:37:36.022Z",
+      "msg": "tenho notas para emitir também"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:37:53.507Z",
+      "msg": "e o escritório tem prazo para finalizar a escrituração correta das notas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:38:00.475Z",
+      "msg": "nem o imposto o sistema destacou"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:40:24.840Z",
+      "msg": "Ele esta finalizando o email com as instruções, para lhe passar, mais uns 2 ou 3 minutinhos, você já deve estar recebendo ele ali."
+    }
+  ],
+  "domain": "tawk.to"
+}

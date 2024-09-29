@@ -1,0 +1,275 @@
+{
+  "id": "00596a40-1523-11ea-a694-43e91d620b93",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "graci",
+    "id": "7c2c22b4f6535b7daf5133f21aac590584cdce7a8bd8fa787d5a9f1964131480",
+    "email": "michelle.scalon@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Cachoeirinha"
+  },
+  "messageCount": 28,
+  "chatDuration": 5109,
+  "rating": 0,
+  "createdOn": "2019-12-02T16:44:37.398Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:44:37.398Z",
+      "msg": "Nome : graci\r\nE-mail/Usuário : michelle.scalon@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:44:37.422Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:44:45.791Z",
+      "msg": "Boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:44:48.445Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:44:57.929Z",
+      "msg": "estamos com duvidas sobre as trocas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:46:52.006Z",
+      "msg": "ta ficando nfe terceiros"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:48:46.822Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:50:43.831Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:54:59.599Z",
+      "msg": "Graci, por favor, observar quando for emitir as notas de troca/devolução, que deve ser usada as Opções Não, ou Sim, no campo \"Gerar NF-e?\" . A opção \"NF-e já emitida\" só deve ser usada quando seu Cliente emitir a nota por você, se marcar essa opção vai ficar NFE DE TERCEIROS, pois ele não chega a emitir a nota fiscal, ele apenas vai ajustar estoque e gerar financeiro."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-02T16:55:03.051Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:58:47.557Z",
+      "msg": "está dando erro ao emitir a nota colocando no sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:59:16.384Z",
+      "msg": "por isso coloquei no nota emitida pra ver se lançava"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:01:40.289Z",
+      "msg": "Entendi. Pode me passar o print do erro, por favor? Para que possamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:05:30.873Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T17:06:17.128Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:07:55.420Z",
+      "msg": "Me confirma, por favor, qual o email de acesso a loja que você esta usando? Não estou conseguindo encontrar o usuário michelle@gmail.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:15:57.488Z",
+      "msg": "ZONASUL@verdeb.COM.BR"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:17:19.931Z",
+      "msg": "Perfeito! Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:18:57.992Z",
+      "msg": "Mais um momento, por favor, a Equipe Técnica, já esta verificando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:24:11.631Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:33:40.537Z",
+      "msg": "Você esta tentando Trocar todos os itens da nota 12712/1?\nPode nos passar o item que você precisa trocar para que possamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:37:15.698Z",
+      "msg": "não é apenas um chapéu de 69,99"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:39:11.775Z",
+      "msg": "Podemos tentar por aqui?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:39:31.980Z",
+      "msg": "claro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:39:40.309Z",
+      "msg": "Você tem outra tela?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:42:46.591Z",
+      "msg": "Desculpa Graci, respondei para a pessoa errada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:42:55.248Z",
+      "msg": "um momento, por favor, estamos simulando aqui"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:50:39.986Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:09:46.577Z",
+      "msg": "Me confirma, por favor, qual a Vendedora da Troca?"
+    }
+  ],
+  "domain": "tawk.to"
+}

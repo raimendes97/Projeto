@@ -1,0 +1,72 @@
+{
+  "id": "8c5e57a0-1a8f-11ea-a3b1-57633db5454e",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Livia",
+    "id": "8576d14f1fe3e0862d814fa3164267ea3b90b6de23943bfe18112aa368b14229",
+    "email": "cruzalta@cavernadodino.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Cruz Alta"
+  },
+  "messageCount": 5,
+  "chatDuration": 123,
+  "rating": 0,
+  "createdOn": "2019-12-09T14:33:12.872Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:33:12.872Z",
+      "msg": "Nome : Livia\r\nE-mail/Usuário : cruzalta@cavernadodino.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:33:12.890Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:33:35.419Z",
+      "msg": "Caiu o nosso acesso."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:33:45.167Z",
+      "msg": "Pode nos passar um novo acesso do team viewer, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:33:57.533Z",
+      "msg": "413 395 372"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:35:15.896Z",
+      "msg": "Vamos conectar"
+    }
+  ],
+  "domain": "tawk.to"
+}

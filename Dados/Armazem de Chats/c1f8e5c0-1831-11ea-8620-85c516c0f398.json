@@ -1,0 +1,233 @@
+{
+  "id": "c1f8e5c0-1831-11ea-8620-85c516c0f398",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "LeoNeffa",
+    "id": "04329ebe65729c273c337fbc30ad348c989c253a244f683f95bc0fa7e54dbf9c",
+    "email": "leonardoneffa@pax.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rio de Janeiro"
+  },
+  "messageCount": 22,
+  "chatDuration": 1447,
+  "rating": 1,
+  "createdOn": "2019-12-06T14:07:44.772Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:07:44.772Z",
+      "msg": "Nome : LeoNeffa\r\nE-mail/Usuário : leonardoneffa@pax.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:07:44.822Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:07:53.417Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:07:53.605Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:08:21.120Z",
+      "msg": "na Charlote, quando vamos adicionar um pedido, em Ação da lista de Preço, quando escolhemos Lista de Preço Específica, o campo Lista de Preço, que fica ao lado não funciona, está travado (opaco), poderia nos ajudar nesta questão?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:08:50.613Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:08:58.475Z",
+      "msg": "ok, obrigado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:13:35.287Z",
+      "msg": "para a sua informação: ontem e antes de ontem os preços de todos os produtos e também dos produtos de todas as Listas de Preços foram alterados.  Sofreram um aumento.  Foi a única alteração que eu fiz."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:23:12.381Z",
+      "msg": "Identificamos um problema aqui no  , a Equipe Técnica já esta ajustando, acredito que em uns 10 minutinhos já estará normalizado. Pedimos desculpas pelo transtorno!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:25:20.923Z",
+      "msg": "ah, ok!  muito obrigado!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:25:36.318Z",
+      "msg": "bom trabalho!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:25:44.788Z",
+      "msg": "Imagina! Assim que entrar, eu já lhe aviso aqui no chat."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:26:08.813Z",
+      "msg": "blz, vou deixar o chat aberto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:26:14.171Z",
+      "msg": "Certo, combinado!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-06T14:26:17.204Z",
+      "data": {
+        "rating": 1
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:28:00.996Z",
+      "msg": "Prontinho! Por favor, atualizar a página com um CTRL + F5, então já vai estar normalizado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:28:09.737Z",
+      "msg": "pedimos desculpas pelo transtorno!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:29:22.798Z",
+      "msg": "perfeito! checado e tudo ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:29:30.158Z",
+      "msg": "muito obrigado!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:30:34.656Z",
+      "msg": ":grinning:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:30:56.889Z",
+      "msg": "Imagina! :blush:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:30:59.889Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:31:26.886Z",
+      "msg": "Obrigado!  Para vcs também!"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:31:26.881Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:31:43.818Z",
+      "msg": "Obrigada!:grin:"
+    }
+  ],
+  "domain": "tawk.to"
+}

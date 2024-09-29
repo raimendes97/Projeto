@@ -1,0 +1,71 @@
+{
+  "id": "ef433a40-15f6-11ea-a6af-73dc755b26e1",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Carla",
+    "id": "846daa160100fc9cbe47389cbc944932b6327a4015f5033758f21aa66d20cd3e",
+    "email": "edson@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 5,
+  "chatDuration": 28,
+  "rating": 0,
+  "createdOn": "2019-12-03T18:01:33.437Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:01:33.437Z",
+      "msg": "Nome : Carla\r\nE-mail/Usuário : edson@paypet.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:01:33.460Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:01:43.638Z",
+      "msg": "Desculpe, caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:01:56.789Z",
+      "msg": "e não vi sua última resposta"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:02:00.601Z",
+      "msg": "Certo, não tem problema."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:02:01.482Z",
+      "msg": "Infelizmente a Equipe Técnica ainda não tem previsão para entrega deste Chamado, ele será desenvolvido mais adiante. Assim que tiver uma previsão, eles entrarão em contato com você através do chamado avisando."
+    }
+  ],
+  "domain": "tawk.to"
+}

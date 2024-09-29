@@ -1,0 +1,355 @@
+{
+  "id": "7f98d040-1ab7-11ea-be12-6b612a5d6178",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "cristiano",
+    "id": "1ee6534e207df30e98b9e122edb36c1694ac97f47757db9fe83eed64927f928a",
+    "email": "cristianotribus@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 38,
+  "chatDuration": 4155,
+  "rating": 0,
+  "createdOn": "2019-12-09T19:10:04.863Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:10:04.863Z",
+      "msg": "Nome : cristiano\r\nE-mail/Usuário : cristianotribus@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:10:04.882Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:13:40.763Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:20.809Z",
+      "msg": "abri chamado a respeito de um erro como está"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:27:12.146Z",
+      "msg": "O chamado já foi respondido; Foi respondido as 15:28hrs, avisando que já havia sido alterado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:27:22.312Z",
+      "msg": "Você não recebeu o retorno por email?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:30:05.048Z",
+      "msg": "não recebi email e não está resolvido"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:31:03.060Z",
+      "msg": "acredito não ser oque que me retornaram anteriormente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:31:44.542Z",
+      "msg": "Certo, estou verificando aqui que o retorno foi no email \ttribusbike@gmail.com que foi o que abriu o Chamado.\n\nReferente a não ter sido resolvido, esta apresentando alguma mensagem de erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:32:48.910Z",
+      "msg": "sim , erro ao cadastrar grade"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:32:59.927Z",
+      "msg": "Você iniciou um novo cadastro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:33:08.477Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:33:17.872Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:44:03.440Z",
+      "msg": "A Equipe Técnica identificou um problema realmente e vai precisar fazer uma correção no sistema.\nVocê consegue criar com ponto e nos passar o código do item, por favor? Que removemos imediatamente, até que entre a correção.\nSobre a correção, a mesma entrará no ar amanhã, sem falta, mas até lá, pode criar com ponto e nos passar o código que removemos por aqui."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:54:41.342Z",
+      "msg": "o codigo gera por conta , como vou criar com ponto ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:59:32.525Z",
+      "msg": "Sim, se você criar através do cadastro de produtos apenas preenchendo a caracteristica da linha e da coluna,  depois que você der um Salvar, ele criará com ponto automaticamente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:02:44.179Z",
+      "msg": "Pode atualizar a tela e tentar novamente, por favor? Agora você vai conseguir cadastrar com o ponto automaticamente e com sucesso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:03:46.545Z",
+      "msg": "mas o resto está sem ponto porque ponto agora , não quero ponto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:04:16.970Z",
+      "msg": "cada o tecnico luciano por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:04:39.669Z",
+      "msg": "Exatamente Cristiano, conforme lhe expliquei a cima. Hoje você cadastra com o ponto e me passa o código do item, para removermos por aqui, amanhã, colocaremos a correção para que você não precise mais usar o ponto e fique da forma que você deseja."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:05:08.012Z",
+      "msg": "Infelizmente a correção não vai ficar pronta hoje, então, por isso, pedi para você criar assim, com o ponto, para que removemos ele para vocÊ"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:05:14.883Z",
+      "msg": "Para que fique cadastrado corretamente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:05:15.461Z",
+      "msg": "não estamos falando a mesma lingua"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:08:04.956Z",
+      "msg": "Infelizmente o Luciano, não faz mais parte da nossa Equipe de Colaboradores.\nVocê ficou com dúvida, em qual parte? Vamos ver se consigo lhe auxiliar."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:11:08.604Z",
+      "msg": "sempre foi cadastrado produtos desta forma o erro é ai"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:11:24.421Z",
+      "msg": "não tem nada de ponto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:11:58.300Z",
+      "msg": "Isso, exatamaete, estamos com erro nesta parte conforme lhe expliquei a cima, estamos trabalhando para corrigir esse problema, porém a correção só ficará pronta para entrar no ar amanhã."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:12:03.297Z",
+      "msg": "*exatamente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:12:34.627Z",
+      "msg": "Por isso pedi para você cadastrar o item com o ponto no meio e me passar o código, que vamos remover por aqui e deixar sem ponto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:12:41.562Z",
+      "msg": "Para ficar igual aos seus outros itens"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:13:01.282Z",
+      "msg": "Após entrar a correção amanhã, não terá mais esse erro e você poderá cadastrar normalmente, sem ponto."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:14:32.681Z",
+      "msg": "corrija ai que espera ate manha então"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:15:19.929Z",
+      "msg": "Certo, estamos verificando o caso com urgência. Podemos lhe avisar no email cristianotribus@gmail.com, assim que entrar no ar? Ou você prefere o retorno no email tribusbike@gmail.com ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:15:49.925Z",
+      "msg": "pode ser no tribus"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:15:58.082Z",
+      "msg": "Combinado! pode deixar!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:16:47.786Z",
+      "msg": "desculpe mas fala pro chefe que se perdeu um cara bom"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:17:18.459Z",
+      "msg": "Certo, pode deixar! O Luciano realmente era muito bom e possuia bastante conhecimento, é uma pena."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:17:56.924Z",
+      "msg": "pois é comprei por indicação dele"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:19:19.891Z",
+      "msg": "Eu entendo, mas vou repassar para o nosso gerente, pode deixar."
+    }
+  ],
+  "domain": "tawk.to"
+}

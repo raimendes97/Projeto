@@ -1,0 +1,80 @@
+{
+  "id": "de21a2e0-176a-11ea-b0ad-8d4c10c29a72",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Lucas",
+    "id": "bf3d301f1306457298b01158463ad9d78af411b235de6eb741541aea39d8e4d7",
+    "email": "santabirra@hotmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 5,
+  "chatDuration": 106,
+  "rating": 1,
+  "createdOn": "2019-12-05T14:23:57.644Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:23:57.644Z",
+      "msg": "Nome : Lucas\r\nE-mail/Usuário : santabirra@hotmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:23:57.755Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:24:03.774Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:24:09.541Z",
+      "msg": "Esta caindo direto o Site"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:24:41.012Z",
+      "msg": "que demora bastante para carregar rsrs"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:24:49.451Z",
+      "msg": "Lucas, bom dia! Estamos enfrentando dificuldades em nossos servidores. Mas, já estamos trabalhando na solução deste problema."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-05T14:25:43.614Z",
+      "data": {
+        "rating": 1
+      }
+    }
+  ],
+  "domain": "tawk.to"
+}

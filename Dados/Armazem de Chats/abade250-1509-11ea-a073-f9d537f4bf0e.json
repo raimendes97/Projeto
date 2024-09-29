@@ -1,0 +1,354 @@
+{
+  "id": "abade250-1509-11ea-a073-f9d537f4bf0e",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fernando",
+    "id": "f1b6683d71a96881afec609420ec1d00732b7ccfe5d6e4fce05c0f03f2c7d8d6",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 38,
+  "chatDuration": 4843,
+  "rating": 0,
+  "createdOn": "2019-12-02T13:43:10.005Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:43:10.005Z",
+      "msg": "Nome : Fernando\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:43:10.060Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:43:23.172Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:43:40.261Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:43:50.345Z",
+      "msg": "estou aguardando ainda nao vi no   o cancelamento do pedido para gerar outro."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:46:13.870Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:47:44.957Z",
+      "msg": "A Alexia esta fazendo um ajuste no sistema, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:00:26.651Z",
+      "msg": "Prontinho! Pedido cancelado com sucesso.\nConversei com a Alexia, ela me disse que após essa correção, os pedidos devem integrar e cancelar automaticamente, com sucesso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:01:25.321Z",
+      "msg": "Vamos fazer novamente e eu vou conferir o estoque"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:03:40.573Z",
+      "msg": "Certo. Você me avisa, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:33.242Z",
+      "msg": "vamos fazer agora."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:05:49.005Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:26:27.462Z",
+      "msg": "Olha"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:29:50.394Z",
+      "msg": "fomos gerar um novo pedido e percebemos que o   nao considerou o preco do nosso site."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:30:00.464Z",
+      "msg": "temos esta questao tambem que deveremos pensar em como resolver."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:30:28.856Z",
+      "msg": "Pode me passar o número do pedido, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:31:03.280Z",
+      "msg": "nao fechamos ainda."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:31:19.433Z",
+      "msg": "Pode me passar um print dos produtos, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:31:24.300Z",
+      "msg": "Para entendermos melhor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:31:48.724Z",
+      "msg": "só vimos que está vindo o preço da loja 2 que está como 49,00 e nao o da loja 1 que é o certo para vender acho que isso é da do site da rakuton."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:33:41.488Z",
+      "msg": "Pode me passar o nome ou código do produto, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:35:32.989Z",
+      "msg": "ade pó é o produto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:35:47.051Z",
+      "msg": "PAY-VITAM-VETB-1KG"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:36:06.304Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:37:48.700Z",
+      "msg": "Você alterou o preço deste produto recentemente?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:40:25.371Z",
+      "msg": "Sim ele está algterado como só conseguimos fazer isso na loja 1 entao lá já está ok."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:40:56.966Z",
+      "msg": "para confirmar é s';o olhar otdas as imagens de produtos e pedidos que mandamos a voces eles foram gerados com um preco de 5 reais para nao ter erro mesemo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:41:21.889Z",
+      "msg": "entao nao tem como dizer quee nao já que vendemos ele varias vezes e cancelamos e todos os pedidos foram baixados e estornadso para o esetoque"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:41:27.253Z",
+      "msg": "veja as que ja mandei hoje para voce"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T14:42:19.196Z",
+      "data": {
+        "uri": "https",
+        "name": "Screen Shot 2019-12-02 at 11.42.04.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:43:17.852Z",
+      "msg": "em cima é da loja 1 e embaixo da loja 2"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:43:26.884Z",
+      "msg": "Perfeito!\nUm momento, por favor, a Eliza identificou um problema na replicação, ela já esta verificando para realizar o ajuste."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:01:19.925Z",
+      "msg": "Podemos lhe enviar um email assim que a Alexia finalizar o ajuste, por favor? Nosso atendimento via chat encerra agora as 12hrs e retornamos as 13:30hrs."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:02:02.028Z",
+      "msg": "ok eu aguardo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:02:06.556Z",
+      "msg": "é que iasso já ta passando muito tempo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:02:08.937Z",
+      "msg": "Combinado! Obrigada!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:02:17.160Z",
+      "msg": "e preciso reseolver e saber qual é o problema   ou rakuton"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:02:50.990Z",
+      "msg": "Certo, vou pedir para a Alexia colocar neste email também, explicando detalhadamente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:02:53.508Z",
+      "msg": "Pode deixar"
+    }
+  ],
+  "domain": "tawk.to"
+}

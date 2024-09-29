@@ -1,0 +1,131 @@
+{
+  "id": "82056050-177e-11ea-abca-4d26323da0be",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Carolina",
+    "id": "95670e2a83b201d7a2134dbd8cc0b15858a08e78553b2da787421752422b77f2",
+    "email": "contato@parisestore.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Guarulhos"
+  },
+  "messageCount": 12,
+  "chatDuration": 246,
+  "rating": 0,
+  "createdOn": "2019-12-05T16:44:32.720Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:44:32.720Z",
+      "msg": "Nome : Carolina\r\nE-mail/Usuário : contato@parisestore.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:44:32.739Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:44:46.064Z",
+      "msg": "Olá, o chat caiu.\nNão sei se alguém havia me respondido..."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:44:51.805Z",
+      "msg": "Olá, Carol! Tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:44:59.810Z",
+      "msg": "Tudo sim e contigo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:45:04.092Z",
+      "msg": "Tudo sim."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:45:16.557Z",
+      "msg": "Referente ao seu questionamento, acredito que é necessário que somente os produtos estejam ativos."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:45:21.576Z",
+      "msg": "Você já tentou realizar o procedimento?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:45:49.638Z",
+      "msg": "Ainda não! Então eu ativo somente os produtos que desejo apenas emitir a nota?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:46:19.615Z",
+      "msg": "Para que seja realizado o procedimento, é necessário que os produtos estejam ativos. Se não estiverem, para você ter noção, eles sequer irão aparecer na hora de selecionar."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:47:03.659Z",
+      "msg": "Sim! Isto que esta acontecendo mesmo...Irei tentar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:47:29.332Z",
+      "msg": "Se tiver dúvidas, iremos manter o chat ativo para que possamos continuar dialogando, tudo bem? :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:48:38.282Z",
+      "msg": "Ok! Obrigada!"
+    }
+  ],
+  "domain": "tawk.to"
+}

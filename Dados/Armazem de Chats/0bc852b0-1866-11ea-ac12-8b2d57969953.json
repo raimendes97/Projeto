@@ -1,0 +1,238 @@
+{
+  "id": "0bc852b0-1866-11ea-ac12-8b2d57969953",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "gilberto fedrizzi",
+    "id": "3e7b0682e14fc1bbf70b86746437011b8f46d7f4ea4b34cccdc62d43347b0bb7",
+    "email": "admmioraz@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 25,
+  "chatDuration": 911,
+  "rating": 0,
+  "createdOn": "2019-12-06T20:22:30.596Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:22:30.596Z",
+      "msg": "Nome : gilberto fedrizzi\r\nE-mail/Usuário : admmioraz@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:22:30.599Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:22:38.154Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:22:47.064Z",
+      "msg": "Boa tarde, Ana."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:23:13.010Z",
+      "msg": "Estou integrando o meu e-commerce com uma transportadora e surgiu uma dúvida"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:23:25.909Z",
+      "msg": "Eles precisam que o sistema que gera as minhas notas, encaminhe o XML para um e-mail"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:23:34.581Z",
+      "msg": "É possível encaminhar o XML das NFes pelo  ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:23:50.727Z",
+      "msg": "Eu vejo que é possível fazer o download, mas não vejo uma opção de envio por e-mail ou tramissão"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:23:56.086Z",
+      "msg": "Transmissão*"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:26:12.792Z",
+      "msg": "Você precisa que o XML vá automaticamente para a Transportadora, isso? Infelizmente hoje, ele só vai automatico para o cliente, caso tenha o email dele cadastrado no campo Contato, no cadastro do cliente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:26:38.504Z",
+      "msg": "Não necessariamente de forma automática"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:26:53.437Z",
+      "msg": "Não existe uma opção, para encaminhar para um novo e-mail?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:27:09.266Z",
+      "msg": "Um segundo, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:28:46.229Z",
+      "msg": "Vendo nas configurações da minha conta, na parte Fiscal, existe um campo \"E-mail do contador\".\nQual a utilidade deste campo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:32:17.143Z",
+      "msg": "Infelizmente não é possível enviar diretamente para outro email através do sistema.\nEsse campo com o email do Contador, é para quando você gera o arquivo com os XMLs para sua contabilidade, agora tem uma nova opção que envia para esse email diretamente da tela do  , não é mais necessário exportar o arquivo zipado e então colocar no email para enviar, ele faz automatico."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:33:07.602Z",
+      "msg": "Ou seja, se eu cadastrar o e-mail da transportadora neste campo, eles receberão os arquivos via e-mail, no momento que eu gerar minhas notas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:33:08.911Z",
+      "msg": "Correto?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:33:39.844Z",
+      "msg": "Atualmente, eu não utilizo este campo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:34:00.047Z",
+      "msg": "Não no momento de gerar a nota"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:34:19.320Z",
+      "msg": "Quando você manda gerar o arquivo zipado com todos os XMLs"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:34:54.301Z",
+      "msg": "E eu consigo gerar um arquivo com a quantidade de xmls que eu desejar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:36:40.544Z",
+      "msg": "sim, vou lhe passar um passo a passo, detalhando esse procedimento para você entender melhor. Oriento abrir um chamado solicitando um campo específico para que seja enviado a contabilidade:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:36:41.616Z",
+      "msg": "https"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:37:08.964Z",
+      "msg": "Certo! Vou verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:37:10.568Z",
+      "msg": "Muito obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:37:25.543Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

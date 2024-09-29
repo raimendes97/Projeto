@@ -1,0 +1,78 @@
+{
+  "id": "539092c0-151d-11ea-bf95-d75b3b2ea960",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "luana",
+    "id": "88079c701e31fef9eeea57156ac581243d7d8e9c12aa610b03d9408487725c37",
+    "email": "luana.dias@akorrio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rio de Janeiro"
+  },
+  "messageCount": 6,
+  "chatDuration": 1708,
+  "rating": 0,
+  "createdOn": "2019-12-02T16:03:51.937Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:03:51.937Z",
+      "msg": "Nome : luana\r\nE-mail/Usuário : luana.dias@akorrio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:03:51.977Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:04:00.296Z",
+      "msg": "BOA TARDE"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:05:57.759Z",
+      "msg": "por favor pode me ajudar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:06:04.170Z",
+      "msg": "é urgente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:15:59.947Z",
+      "msg": "ola"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:32:20.221Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    }
+  ],
+  "domain": "tawk.to"
+}

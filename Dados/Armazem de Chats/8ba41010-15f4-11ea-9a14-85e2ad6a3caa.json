@@ -1,0 +1,95 @@
+{
+  "id": "8ba41010-15f4-11ea-9a14-85e2ad6a3caa",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Edson",
+    "id": "583929bd620be62d7ef751480e9c1fd661a56a880b2b67d8122d027d0f5e9595",
+    "email": "edson@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 9,
+  "chatDuration": 178,
+  "rating": 0,
+  "createdOn": "2019-12-03T17:44:47.533Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:44:47.533Z",
+      "msg": "Nome : Edson\r\nE-mail/Usuário : edson@paypet.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:44:47.547Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:44:55.122Z",
+      "msg": "Boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:45:04.061Z",
+      "msg": "Estou importando uma nota fisal"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:45:07.660Z",
+      "msg": "fiscal"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:45:14.337Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:45:24.174Z",
+      "msg": "e já estou na parte dos produtos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:45:58.240Z",
+      "msg": "Gostaria de saber se eu tenho que preencher o campo produto no  ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:47:45.143Z",
+      "msg": "Você precisa fazer o vinculo dos produtos recebidos com os seus produtos já existentes"
+    }
+  ],
+  "domain": "tawk.to"
+}

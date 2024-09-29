@@ -1,0 +1,113 @@
+{
+  "id": "304aebb0-1ac4-11ea-9847-77ddd7123c28",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Guilherme",
+    "id": "503ef83cb91ca65c8d4fef7d46920e7b67025b12ce8745c13d5fa537e37e062a",
+    "email": "guilhermeassis1@hotmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Goiânia"
+  },
+  "messageCount": 10,
+  "chatDuration": 1250,
+  "rating": 0,
+  "createdOn": "2019-12-09T20:41:15.708Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:41:15.708Z",
+      "msg": "Nome : Guilherme\r\nE-mail/Usuário : guilhermeassis1@hotmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:41:15.741Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:41:47.057Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:42:03.605Z",
+      "msg": "Estou testando o sistema"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:42:14.445Z",
+      "msg": "introduzindo uma nota de compra em xml"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:42:38.232Z",
+      "msg": "só que sempre aparece a mensagem \"natureza da operação\""
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:42:59.155Z",
+      "msg": "para selecionar a \"natureza da operação\""
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:43:17.609Z",
+      "msg": "só que não aparece nada para ser selecionado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:44:50.560Z",
+      "msg": "Por favor, acessar em Cadastro > Fiscal > Natureza da Operação e criar uma do Tipo Compra, para que você possa selecionar no momento da importação de XML.\nVou lhe passar um passo a passo, para orientar com este cadastro:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:44:51.279Z",
+      "msg": "https"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T21:02:03.752Z",
+      "msg": "Nosso atendimento encerra agora as 18hrs. Em caso de dúvida, por favor, abrir um Chamado ou entrar em contato pelo Chat, amanhã de manhã, a partir das 8hrs, para continuarmos o atendimento!"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,340 @@
+{
+  "id": "c6439070-16c0-11ea-b3fc-0164f8dee22f",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fernando",
+    "id": "220815e07edbdb7121f2ef7a4202fccd9f457e48ccab269f1697a50e3b9313c4",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 39,
+  "chatDuration": 2567,
+  "rating": 0,
+  "createdOn": "2019-12-04T18:06:24.278Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:06:24.278Z",
+      "msg": "Nome : Fernando\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:06:24.325Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:06:58.452Z",
+      "msg": "Ola Ana e Alexia podemos continuar - Fernando da PayPet"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:07:09.491Z",
+      "msg": "Olá Fernando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:07:24.113Z",
+      "msg": "Um momento, por favor, vou verificar como esta o andamento com a Eliza"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:12:05.232Z",
+      "msg": "Prontinho! Foi colocada uma correção e o pedido integrou automaticamente agora"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:12:15.321Z",
+      "msg": "Pode verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:14:00.145Z",
+      "msg": "vamos testar novamente canceelar este e fazer dois um para a loja 1 e outro para a loja 2 do mesmo clientee com endereços de entrega diferentes para ver se vai puxar para a loja correta"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:14:36.123Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:15:16.030Z",
+      "msg": "ja cancelei vou aguardar um pouco para ver como ficará ai na plataforma do Cakle"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:15:32.205Z",
+      "msg": "após farei dois pedidos um para cada uma e verei os estoques se vao esetornar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:16:05.646Z",
+      "msg": "ja vi um erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:16:35.595Z",
+      "msg": "o estoque já está corrigido mas o pedido a nao foi cancelado no   entao nao deveria ter 10 unidades no rakuton ou seja quando baixou nao deu baixa aqui no rakuton"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:17:01.500Z",
+      "msg": "Ops falei besteira deu sim eu quis dizer nao estornou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:17:10.231Z",
+      "msg": "quando fizer a integracao eu confirmo novamente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:17:46.954Z",
+      "msg": "Certo, tudo bem"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:18:00.233Z",
+      "msg": "Você me avisa se ficou tudo ok, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:20:31.449Z",
+      "msg": "Assim que aparecer canceelado te aviso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:20:46.264Z",
+      "msg": "esta uma novela imaginávamos que isso já tivesse tudo ok entre voces e rakuton."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:25:25.225Z",
+      "msg": "Peço desculpas pelo transtorno, vou repassar a reclamação para a pessoa responsável."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:31:23.810Z",
+      "msg": "nao é bem uma reclamação, entendo o esforço de voces e estamos juntos, mas ta demorando muioto pra por o sistema no ar já tem 1,3 anos que contratamos a rakuton os caras demoraram demais para subir nosso site e isso porque aceitamos subir de qalquer jeito ee ajustar com o sistema em pleno voo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:33:15.065Z",
+      "msg": "Conseguimos emitir a nota dela, gerou o voucher IRYCF. Pode verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:33:23.693Z",
+      "msg": "Desculpa Fernando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:33:29.423Z",
+      "msg": "Respondi pra pessoa errada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:36:18.214Z",
+      "msg": "Eu peço desculpas sobre esse problema que esta ocorrendo na sincronização dos dados entre as plataformas, vou solicitar mais atenção da nossa Equipe e também da rakuton, para solicitar esse problema o mais breve possível."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:37:28.960Z",
+      "msg": "NAO É PARA EMITIR NOTA DE PEDIDO DE TESTE"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:37:33.119Z",
+      "msg": "ELEE EJÁ FOI CANCELADO"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:37:40.522Z",
+      "msg": "DEIXEM QUE NÓS FAZEMOS OS TESTES POR AQUI POR FAVOR"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:38:59.852Z",
+      "msg": "nao estou nervoso nao tá, só para nao haver mal entendido kkk"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:18.260Z",
+      "msg": "agora vamos fazer os pedidos novamente serao dois pedidos e com o estoque sendo ajustado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:40:22.563Z",
+      "msg": "pedido feito, deverá cair no CD 2"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:40:33.613Z",
+      "msg": "A nota do pedido que avisei que emitimos não foi na sua base, foi uma conversa de outro cliente , que respondi na conversa com você por descuido da minha parte."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:40:44.694Z",
+      "msg": "Não emitimos nenhuma nota na sua base."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:47:25.980Z",
+      "msg": "OK"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:47:49.968Z",
+      "msg": "PEDIDO gerado na base"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:47:53.982Z",
+      "msg": "vamos ver o estoque certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:47:57.799Z",
+      "msg": "CD / LOJA 2"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:49:11.733Z",
+      "msg": "Certo, você me avisa, por favor?"
+    }
+  ],
+  "domain": "tawk.to"
+}

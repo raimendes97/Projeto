@@ -1,0 +1,93 @@
+{
+  "id": "52f934c0-178e-11ea-80f0-0ff992e0a597",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Renata",
+    "id": "17ea86e63c160700e1f1406a0dda0fa6a62830dc8104578f1600aa2e240258a4",
+    "email": "renatarech@terra.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 7,
+  "chatDuration": 1240,
+  "rating": 0,
+  "createdOn": "2019-12-05T18:37:46.611Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:37:46.611Z",
+      "msg": "Nome : Renata\r\nE-mail/Usuário : renatarech@terra.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:37:46.652Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:38:31.883Z",
+      "msg": "Olá Renata!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:39:34.530Z",
+      "msg": "A Equipe Técnica ainda esta analisando o porque esta ocorrendo esse erro, estão trabalhando em caracter de urgência."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:39:54.795Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:40:05.299Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:58:23.168Z",
+      "msg": "Renata, conseguimos emitir a nota de devolução de Compra para a G DE EQUIPAMENTOS PARA ALIMENTACAO LTDA. Identificamos que a Natureza da Operação chamada de \"Devolução\" estava marcada que o Destinatário erara Cliente, alteramos para Fornecedor e a nota emitiu com sucesso.\nRemovemos a outra nota que esta com erro já da sua tela e deixamos somente a nota emitida.\nSó peço, por favor, para acessar em Cadastro > Fiscal > Natureza da Operação, e nesta chamado \"Devolução\", verificar  se para as proximas notas ela deve ser para Cliente ou fornecedor."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-05T18:58:26.717Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    }
+  ],
+  "domain": "tawk.to"
+}

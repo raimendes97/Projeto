@@ -1,0 +1,122 @@
+{
+  "id": "948b0840-1aaf-11ea-a5f5-6fe659d57602",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Josiele",
+    "id": "da6e90adde413e1cc44c28ec4a964aa44cbe853b67d8b47ec3ac42959b960fdd",
+    "email": "alvorada@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Alvorada"
+  },
+  "messageCount": 11,
+  "chatDuration": 1344,
+  "rating": 0,
+  "createdOn": "2019-12-09T18:13:26.502Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:13:26.502Z",
+      "msg": "Nome : Josiele\r\nE-mail/Usuário : alvorada@verdeb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:13:26.541Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:13:35.305Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:13:38.251Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:14:25.374Z",
+      "msg": "Referente a uma troca que desde de sexta feira nao esta gerando nf"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:15:21.748Z",
+      "msg": "A troca realmente foi emitida na sexta, porém devido a uma instabilidade na sefaz, demorou para ter o status de autorizada no  . Realizamos um ajuste e agora esta certinha, emitida com sucesso, ainda na sexta."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:15:29.720Z",
+      "msg": "Consegue verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:16:35.676Z",
+      "msg": "vou verificar agora"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:16:44.192Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:18:21.482Z",
+      "msg": "Esta tudo certinho agora"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:18:29.333Z",
+      "msg": "Muito obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:18:35.497Z",
+      "msg": "Imagina! Disponha!"
+    }
+  ],
+  "domain": "tawk.to"
+}

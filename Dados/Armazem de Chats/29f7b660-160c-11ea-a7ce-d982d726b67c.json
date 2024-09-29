@@ -1,0 +1,282 @@
+{
+  "id": "29f7b660-160c-11ea-a7ce-d982d726b67c",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "gilberto fedrizzi",
+    "id": "3e7b0682e14fc1bbf70b86746437011b8f46d7f4ea4b34cccdc62d43347b0bb7",
+    "email": "admmioraz@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 30,
+  "chatDuration": 859,
+  "rating": 0,
+  "createdOn": "2019-12-03T20:33:32.083Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:33:32.083Z",
+      "msg": "Nome : gilberto fedrizzi\r\nE-mail/Usuário : admmioraz@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:33:32.097Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:33:50.526Z",
+      "msg": "Boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:34:15.609Z",
+      "msg": "Hoje pela manhã, não consegui fazer a classificação do atendimento"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:34:24.009Z",
+      "msg": "Posso fazer agora?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:34:29.882Z",
+      "msg": "Claro, Gilberto."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:34:37.040Z",
+      "msg": "Vou lhe enviar o formulário:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:34:44.185Z",
+      "msg": ""
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:37:21.865Z",
+      "msg": "E posso aproveitar e pedir uma informação?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:37:26.912Z",
+      "msg": "Com certeza, Gilberto."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:37:48.074Z",
+      "msg": "Como busco os valores de frete sobre as vendas no  ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:38:25.311Z",
+      "msg": "Queria saber quanto o cliente gastou em frete sobre as vendas, uma vez que sai de forma separada no pedido"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:38:51.502Z",
+      "msg": "Na verdade sobre todos pedidos por período"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:39:36.961Z",
+      "msg": "Entendemos sua solicitação, Gilberto. Contudo, atualmente, nós não temos isto no  . Mas, como é uma funcionalidade interessante, creio que seria muuuuuuuito legal você abrir um chamado neste sentido para que a equipe pudesse avaliar. O que acha? :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:40:19.713Z",
+      "msg": "Pode ser. Mas mexendo um pouco por aqui, encontrei o seguinte:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:40:48.090Z",
+      "msg": "Em relatórios/vendas/vendas por Cfop, traz um valor de frete em separado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:41:08.071Z",
+      "msg": "pode ser considerado como valor pago pelos clientes?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:41:52.542Z",
+      "msg": "Venda de mercadoria adquirida ou recebida de terceiros, destinada a não contribuinte"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:42:08.192Z",
+      "msg": "código 61"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:43:02.759Z",
+      "msg": "Exatamente, Gilberto. Neste campo, é o total gasto em frete durante um período em específico."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:43:16.263Z",
+      "msg": "Contudo, você não consegue prever quais vendas tiveram custos ou não."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:44:15.473Z",
+      "msg": "Mas esse seria o valor gasto pelos clientes em um determinado tempo, certo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:44:35.345Z",
+      "msg": "Sim, exatamente. Em QUANTIDADES, é a quantidade de vendas realizadas neste período."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:45:14.218Z",
+      "msg": "Certo, mas em valores de frete são esses os números?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:45:26.880Z",
+      "msg": "Vamos verificar na tela de Pedidos."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:46:58.098Z",
+      "msg": "É isso mesmo, Gilberto."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:47:15.271Z",
+      "msg": "Estes números correspondem ao que foi gasto com frete durante o período selecionado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:47:37.969Z",
+      "msg": "Tá bem. Acabei achando o que queria, hehehe..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:47:41.151Z",
+      "msg": "Obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:47:49.241Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa terça-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:47:51.433Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

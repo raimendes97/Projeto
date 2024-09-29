@@ -1,0 +1,281 @@
+{
+  "id": "0cebe590-182e-11ea-a646-e363e6b5f657",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Flai",
+    "id": "ee36d4c9f1eccd78556425cd5798838c070b5aeadc799caacdcac10a74a2d524",
+    "email": "contato@robertamagalhaes.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 30,
+  "chatDuration": 3849,
+  "rating": 0,
+  "createdOn": "2019-12-06T13:41:08.102Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:41:08.102Z",
+      "msg": "Nome : Flai\r\nE-mail/Usuário : contato@robertamagalhaes.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:41:08.080Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:42:11.462Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:42:59.232Z",
+      "msg": "Bom diia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:43:07.728Z",
+      "msg": "estou tendo um probleminha com nota ficsla"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:43:12.727Z",
+      "msg": "*fiscal"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:43:39.774Z",
+      "msg": "não esta aperecendo na aba de pedidos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:43:58.953Z",
+      "msg": "já verifiquei sku do produto e já arrumei, e mesmo assim não aparece"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:44:21.344Z",
+      "msg": "O pedido não esta integrando, isso? Desculpa, não entendi muito bem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:44:38.668Z",
+      "msg": "isso, o pedido não integrou na plataforma do  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:44:51.951Z",
+      "msg": "Pode me passar o número do pedido na Rakute, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:45:29.090Z",
+      "msg": "pedido nº 1112540001, e nome da cliente Georgiana Almeida"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:45:39.513Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:45:44.507Z",
+      "msg": "obrigadaa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:54:19.037Z",
+      "msg": "Mais um momento, por favor, a Equipe Técnica esta verificando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:54:29.653Z",
+      "msg": "ta bom"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:21:34.411Z",
+      "msg": "conseguiu achar o problema ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:21:55.809Z",
+      "msg": "A Equipe Técnica ainda esta analisando o problema, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:24:15.387Z",
+      "msg": "tá bom"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:37:57.906Z",
+      "msg": "Flai, conseguimos fazer baixa, ele é o pedido nº 1409 no  ."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:38:21.255Z",
+      "msg": "ufaaa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:38:24.904Z",
+      "msg": "Foi por conta do SKU que estava diferente mesmo, mas conseguimos ajustar no pedido e ele integrou com sucesso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:38:36.308Z",
+      "msg": "conseguir ver agora"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:39:29.368Z",
+      "msg": "Já pode realizar a emissão da nota dele agora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:40:18.159Z",
+      "msg": "já emitir"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:41:07.361Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:41:33.519Z",
+      "msg": "foi gerada com sucesso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:41:40.748Z",
+      "msg": "agradeço pela assistência"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:41:45.004Z",
+      "msg": "Imagina!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:41:51.539Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:44:33.132Z",
+      "msg": "tenha um ótimo inicio de tarde e um bom final de semana :blush:"
+    }
+  ],
+  "domain": "tawk.to"
+}

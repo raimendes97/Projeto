@@ -1,0 +1,138 @@
+{
+  "id": "84e7c1e0-1851-11ea-b064-ab09ed70aba0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Douglas Souza",
+    "id": "078552a0f9c7b1e48efbd88fd446ac9bd29667eaa4923c98f452db3acfaae71d",
+    "email": "dsouza@mcmartefatos.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 15,
+  "chatDuration": 890,
+  "rating": 0,
+  "createdOn": "2019-12-06T17:55:14.850Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:55:14.850Z",
+      "msg": "Nome : Douglas Souza\r\nE-mail/Usuário : dsouza@mcmartefatos.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:55:14.826Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:55:21.541Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:56:32.743Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:56:51.231Z",
+      "msg": "Uma duvida sobre cadastros"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:57:20.439Z",
+      "msg": "eu consigo importar meus cadastros de produtos do kunden ou do meu ecommerce para erp?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:59:44.152Z",
+      "msg": "Você precisaria acessar em nossas telas de cadastro, então baixar a nossa planilha padrão que possui para cada tela, inserir seu dados nela, tendo o cuidado de não alterar nenhuma coluna e depois, você pode importar para dentro do  . Por exemplo, acessando em Cadastro > Cadastro > Clientes e clicando no botão Importar, você é direcionado para uma tela onde tem a opção para Baixar nossa planilha Padrão e também, realizar a importação."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:02:40.470Z",
+      "msg": "ok, isso sim. fazendo a importação por planilha. Mas minha duvida é se era possivel vincular minha base no Kunden com o erp"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:04:41.451Z",
+      "msg": "Um momento, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:07:17.487Z",
+      "msg": "Sim, é possível, para isso, você precisaria entrar em contato com a Kunden e pedir para conversar com o Marti, então, ele consegue fazer essa integração para você."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:09:20.495Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:09:25.362Z",
+      "msg": "irei verificar com ele"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:09:31.136Z",
+      "msg": "Obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:10:04.459Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

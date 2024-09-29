@@ -1,0 +1,132 @@
+{
+  "id": "27a7e8c0-14f5-11ea-9c60-a96f00823dec",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "suelen",
+    "id": "64f4c6b9aaf47c6ad5dcfa8156731c9dcd617080b12dd6cb3f7009f953cfc8e9",
+    "email": "scasagrande@woom.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 15,
+  "chatDuration": 544,
+  "rating": 0,
+  "createdOn": "2019-12-02T11:16:17.650Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:16:17.650Z",
+      "msg": "Nome : suelen\r\nE-mail/Usuário : scasagrande@woom.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:16:17.668Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:16:21.963Z",
+      "msg": "bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:16:23.221Z",
+      "msg": ":)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:16:33.150Z",
+      "msg": "não consigo emitir essa NF"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T11:16:34.691Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:16:51.696Z",
+      "msg": "Bom dia, vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:16:55.381Z",
+      "msg": ";)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:17:18.797Z",
+      "msg": "se puder me dizer como corrigir esse erro, para que nas próximas eu consiga fazer..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:18:33.687Z",
+      "msg": "esse erro é comum de aparecer e as vezes temos muita urgência para resolver, então se eu souber como fazer facilita muito. Por exemplo, eu queria enviar sábado esse material pois é urgente, mas não deu por causa desse erro."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:18:35.150Z",
+      "msg": ";)"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:20:10.283Z",
+      "msg": "Vou verificar com a Equipe Técnica, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:25:21.750Z",
+      "msg": "Suelen, consegue me confirmar se o total do Pedido é R$ 394,60?"
+    }
+  ],
+  "domain": "tawk.to"
+}

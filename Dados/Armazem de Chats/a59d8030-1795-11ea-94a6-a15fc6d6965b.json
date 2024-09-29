@@ -1,0 +1,165 @@
+{
+  "id": "a59d8030-1795-11ea-94a6-a15fc6d6965b",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Lorena",
+    "id": "0c4bf2c7c53774677715a9054b236c3e1b0e8cbe0e8fb73d2aa310495930bf6b",
+    "email": "contato@yesiamstore.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 14,
+  "chatDuration": 1790,
+  "rating": 1,
+  "createdOn": "2019-12-05T19:30:13.944Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:30:13.944Z",
+      "msg": "Nome : Lorena\r\nE-mail/Usuário : contato@yesiamstore.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:30:13.950Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:30:29.989Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:31:09.196Z",
+      "msg": "boa tarde! \ngostaria se tem algum jeito de gerar NF-e dos pedidos do e-commerce automaticamente após eles serem faturados. ao invés de termos que fazer isso manualmente um a um."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:31:29.612Z",
+      "msg": "Lorena, infelizmente, a única possibilidade é gerando-as manualmente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:31:40.532Z",
+      "msg": "Até para maior controle de expedição."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:34:39.238Z",
+      "msg": "certo, entendi. tudo bem!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:39:59.992Z",
+      "msg": "e outra coisa, quando o pedido está para faturar, tem algum problema com a sincronização do Vnda, certo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:40:51.748Z",
+      "msg": "Não necessariamente. Existem outras duas vertentes:\n\nO pedido ainda não foi sincronizado com o   (pgto confirmado);\nOu, o pedido foi gerado através do  , sem integração com  VNDA."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:55:10.711Z",
+      "msg": "entendi. mas são pedidos que foram gerados com integração."
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:55:10.734Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:55:14.716Z",
+      "msg": "o que pode ter acontecido?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:57:40.573Z",
+      "msg": "Esse pedido é um pedido da VNDA, isso? Neste caso orientamos você entrar em contato com eles, para que eles possam verificar o porque o pedido foi enviado sem Faturar para o  , então eles conseguem verificar no log e também ajustar o pedido, para ficar correto."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:58:30.215Z",
+      "msg": "certo. ok, vou verificar!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:58:32.347Z",
+      "msg": "obrigada!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:58:38.065Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quinta-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-05T20:00:04.143Z",
+      "data": {
+        "rating": 1
+      }
+    }
+  ],
+  "domain": "tawk.to"
+}

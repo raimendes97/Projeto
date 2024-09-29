@@ -1,0 +1,192 @@
+{
+  "id": "b2b20480-1605-11ea-9fcb-b9e0d16b8867",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "PRISCILA MEIRELES",
+    "id": "acbb1298ba85a7b1bd32dafc6798c04e7559ff8c55c7ef8b8b1529d40fa3a9dd",
+    "email": "FISCAL2@FULLFIT.COM.BR"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 20,
+  "chatDuration": 833,
+  "rating": 0,
+  "createdOn": "2019-12-03T19:47:15.600Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:47:15.600Z",
+      "msg": "Nome : PRISCILA MEIRELES\r\nE-mail/Usuário : FISCAL2@FULLFIT.COM.BR\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:47:15.614Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:47:21.336Z",
+      "msg": "ola boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:47:37.394Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:47:47.470Z",
+      "msg": "preciso emitir um cupom fiscal e pra variar não consigo abrir o PDV"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:47:51.811Z",
+      "msg": "Pode verificar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:47:58.092Z",
+      "msg": "por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:48:07.441Z",
+      "msg": "Pode me passar um print do erro, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:50:28.896Z",
+      "msg": "sem permissão"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:50:43.322Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:51:09.818Z",
+      "msg": "funcionou"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:51:15.513Z",
+      "msg": "certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:51:16.691Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:51:23.750Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa terça-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T19:58:05.119Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:58:05.148Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:58:25.548Z",
+      "msg": "Pode nos passar um acesso do team viewer, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:00:45.709Z",
+      "msg": "1 110 418 560"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:00:57.652Z",
+      "msg": "4adn53"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:01:08.247Z",
+      "msg": "Vamos conectar"
+    }
+  ],
+  "domain": "tawk.to"
+}

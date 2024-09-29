@@ -1,0 +1,308 @@
+{
+  "id": "71b6a130-15f0-11ea-8ff7-9dcdaf06fd31",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Alice",
+    "id": "73f8d8f9741c80f2065e371126950d480c5c683fe842ac3d5db6536e75840955",
+    "email": "stacecilia@bolovo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 33,
+  "chatDuration": 1344,
+  "rating": 0,
+  "createdOn": "2019-12-03T17:15:06.534Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:15:06.534Z",
+      "msg": "Nome : Alice\r\nE-mail/Usuário : stacecilia@bolovo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:15:06.549Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:15:28.573Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:17:22.933Z",
+      "msg": "Oi boa tarde. Estou instalando o   em uma nova unidade. O João estava me ajudando pela manhã e agora o Mateus finalizou algumas etapas. Paramos com a instalação do PDV porque ainda não estou com os drivers do SAT instalados, mas gostaria de saber se há algum outro tema que posso adiantar.  Por exemplo, cadastro dos vendedores, cadastro de produtos, etc.]"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:18:33.696Z",
+      "msg": "Um momento, por favor, vou verificar o que esta faltando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:18:41.535Z",
+      "msg": "Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:23:35.897Z",
+      "msg": "Conversei com o João e ele me disse que você precisa fazer o Cadastro dos Operadores que irão usar o PDV, em Apps > PDV NFCE/SAT > Operadores. Os demais cadastros ele me disse que já verificou de manhã e estão todos ok.\nVou lhe passar um passo a passo para auxiliar:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:23:36.584Z",
+      "msg": "https"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T17:25:59.173Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:26:05.554Z",
+      "msg": "Está me dando este erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:26:37.556Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:26:46.450Z",
+      "msg": "Ok. Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:28:26.043Z",
+      "msg": "Você consegue fazer este cadastro com um email diferente, por favor? Cada Operador cadastrado neste tela, precisa ter emails diferentes, não pode ter igual."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:30:51.957Z",
+      "msg": "Mas como eu mudo o e-mail?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:31:03.138Z",
+      "msg": "Ele deixa bloqueado p/ alterar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:31:36.254Z",
+      "msg": "]ah mentira"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:31:39.361Z",
+      "msg": "acho que consegui"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:31:43.786Z",
+      "msg": "Deu certo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:32:15.812Z",
+      "msg": "Sim. Alterei o meu e consegui criar mais um com o email da loja"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:32:28.987Z",
+      "msg": "Posso colocar emails que ainda nao existem?]"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:32:38.127Z",
+      "msg": "Eles sao usados p/ alguma confirmação?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:33:04.294Z",
+      "msg": "Pq eu pago por email criado no dominio. Ai caso nao precisar aqui preferiria nao ter que criar varios emails por vendedor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:33:49.331Z",
+      "msg": "Não precisa ser um email existente nesta tela, pode inventar algum, ele não valida e não manda nenhum tipo de confirmação."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:36.588Z",
+      "msg": "]Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:38.479Z",
+      "msg": "Feito então"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:39.526Z",
+      "msg": ";)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:41.691Z",
+      "msg": "Obrigada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:48.071Z",
+      "msg": "Mais alguma coisa que possa fazer?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:50.494Z",
+      "msg": "Produtos?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:36:14.058Z",
+      "msg": "Os produtos já foram replicados da Loja da Matriz, já estão todos certinhos. Seria isso apenas."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:36:28.964Z",
+      "msg": "Ok. Show. Então quando finalizar o SAT volto a entrar em contato"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:36:31.264Z",
+      "msg": "Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:37:23.450Z",
+      "msg": "Certo, combinado!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:37:30.708Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa terça-feira e uma boa semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

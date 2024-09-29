@@ -1,0 +1,89 @@
+{
+  "id": "39c368f0-15d0-11ea-9fdc-ed04d46e6270",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "ADRIANO",
+    "id": "e9a37a08ecebb31316757fb4458ae341a7699d2c58e5bae4b18e2ca45ae63f10",
+    "email": "ADRIANO@toccoli.COM.BR"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 7,
+  "chatDuration": 352,
+  "rating": 0,
+  "createdOn": "2019-12-03T13:24:29.620Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:24:29.620Z",
+      "msg": "Nome : ADRIANO\r\nE-mail/Usuário : ADRIANO@toccoli.COM.BR\r\nDepartamento : Comercial"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:24:29.674Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:24:36.263Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:25:13.379Z",
+      "msg": "bom dia temos a venda n 252 da loja 206para emitir a nota de entrega e a mesma não conseguimos emitir pode verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:25:59.558Z",
+      "msg": "Certo. Está aparecendo algum erro em específico, Adriano?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:26:52.990Z",
+      "msg": "Falha ao emitir a Nota Fiscal. Utilize o menu \"Notas Fiscais\" para visualizar o status da emissão."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:27:58.206Z",
+      "msg": "Um instante, Adriano."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:30:21.673Z",
+      "msg": "ELISETE, este é o nome do cliente?"
+    }
+  ],
+  "domain": "tawk.to"
+}

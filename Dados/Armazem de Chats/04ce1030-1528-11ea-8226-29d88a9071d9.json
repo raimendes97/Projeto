@@ -1,0 +1,147 @@
+{
+  "id": "04ce1030-1528-11ea-8226-29d88a9071d9",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Diego Mendes",
+    "id": "897841094dae674e07b5a63326fa38e4061c7fea75e14e036cfe4cb2844ea898",
+    "email": "diego@estudiopapel.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 14,
+  "chatDuration": 368,
+  "rating": 0,
+  "createdOn": "2019-12-02T17:20:26.032Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:20:26.032Z",
+      "msg": "Nome : Diego Mendes\r\nE-mail/Usuário : diego@estudiopapel.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:20:26.049Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:20:37.772Z",
+      "msg": "boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:20:53.098Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:21:03.622Z",
+      "msg": "tenho uma dúvida: como faço para que o endereço do cupom fiscal impresso na venda do PDV seja alterado?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:22:20.590Z",
+      "msg": "Te refere ao endereço de emissão? No caso, da loja?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:22:35.560Z",
+      "msg": "isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:22:40.934Z",
+      "msg": "pois mudamos o endereço da loja"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:23:53.552Z",
+      "msg": "Diego, para trocar é necessário que você vá na engrenagem no canto superior direito, clique com o botão esquerdo do mouse e depois vá em Dados da Empresa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:24:07.092Z",
+      "msg": "isso já será suficiente?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:24:10.810Z",
+      "msg": "Alterando lá, é necessário aguardar o PDV sincronizar e, posteriormente, emitir."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:24:25.395Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:24:27.169Z",
+      "msg": "obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:24:35.376Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:24:37.054Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

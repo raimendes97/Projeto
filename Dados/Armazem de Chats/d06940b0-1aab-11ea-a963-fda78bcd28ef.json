@@ -1,0 +1,188 @@
+{
+  "id": "d06940b0-1aab-11ea-a963-fda78bcd28ef",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "cristiano",
+    "id": "1ee6534e207df30e98b9e122edb36c1694ac97f47757db9fe83eed64927f928a",
+    "email": "cristianotribus@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 17,
+  "chatDuration": 1956,
+  "rating": 1,
+  "createdOn": "2019-12-09T17:46:59.857Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:46:59.857Z",
+      "msg": "Nome : cristiano\r\nE-mail/Usuário : cristianotribus@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:46:59.875Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:47:21.637Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:47:22.625Z",
+      "msg": "Identificamos que o problema ocorreu, pois nas Configurações da sua Loja, estava em branco o Campo de Separador de SKU, assim verificamos os produtos de grade que você já possuia cadastrado no sistema e identificamos que todos seguiam o padrão de ter um ponto como separador, então inserimos novamente para que você consiga criar os próximos;\nNo caso desse item, você pode colocar o ponto manualmente separando o vest.000011 ou então atualizar a página e tentar criar novamente, então o sistema, já irá inserir os pontos automaticamente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:49:55.699Z",
+      "msg": "nos que eu cadastrei todos foram sem ponto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:50:54.107Z",
+      "msg": "Acessamos a sua base e olhamos 6 itens de grade aleatórios no seu cadastro de produtos e todos estavam com o ponto separando. Você deseja que não tenha esse ponto no meio?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:52:06.459Z",
+      "msg": "tem algo errado posso te dar certeza que não uso ponto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:52:25.752Z",
+      "msg": "qual pode me passar um para ver"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:52:35.018Z",
+      "msg": "Um momento, por favor, vou pegar aqui"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:52:58.793Z",
+      "msg": "ok , não fica legal com ponto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-09T17:53:33.574Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:53:56.323Z",
+      "msg": "Vou verificar com a Equipe Técnica a possibilidade de não colocar um separador"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:54:00.833Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:56:36.358Z",
+      "msg": "algumas vezez cadastrei e  apareceu ponto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:57:46.809Z",
+      "msg": "Conversei com a Equipe Técnica, eles me falaram que é possível sim, só pediram, por favor, para você abrir um Chamado referente este caso, para termos registrado o seu pedido de exclusão do separador, então na sequência, eles já removem de uma forma que você possa cadastrar os produtos com sucesso, mesmo sem o separador."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:02:31.882Z",
+      "msg": "ok demora quanto tempo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:03:05.334Z",
+      "msg": "Após você abrir o chamado, é rapidinho, em torno de uns 5 minutinhos, já estará pronto e você poderá cadastrar os itens sem o separador."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-09T18:18:21.441Z",
+      "data": {
+        "rating": 1
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:19:36.121Z",
+      "msg": "qual o argumento que usso no chamado"
+    }
+  ],
+  "domain": "tawk.to"
+}

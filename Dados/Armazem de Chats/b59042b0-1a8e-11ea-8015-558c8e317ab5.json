@@ -1,0 +1,145 @@
+{
+  "id": "b59042b0-1a8e-11ea-8015-558c8e317ab5",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Diego Mendes",
+    "id": "897841094dae674e07b5a63326fa38e4061c7fea75e14e036cfe4cb2844ea898",
+    "email": "diego@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 14,
+  "chatDuration": 794,
+  "rating": 0,
+  "createdOn": "2019-12-09T14:18:04.867Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:04.867Z",
+      "msg": "Nome : Diego Mendes\r\nE-mail/Usuário : diego@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:04.930Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:10.030Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:17.825Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:20:15.270Z",
+      "msg": "Ana, nós geramos o relatorio de NFs e CFEs emitidos em novembro na matriz"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:23:29.815Z",
+      "msg": "o pessoal da contabilidade me trouxe a informação de que a soma deu R$77.711,18"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:05.369Z",
+      "msg": "quando geramos o relat'roio de vendas por vendedor a soma fica em R$87.532,92"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:15.951Z",
+      "msg": "uma diferença de quase R$10.000,00"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:24.421Z",
+      "msg": "consegue me explicar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:40.280Z",
+      "msg": "Você consegue, por favor, abrir um Chamado referente a este caso?  A Equipe Técnica vai precisar analisar melhor o porque desta diferença para poder lhe passar exatamente o que ocorreu."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:25:02.815Z",
+      "msg": "é que eu preciso dar ok para a contabilidade hoje para gerar guia de impostos"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:26:41.231Z",
+      "msg": "Certo, assim que o chamado entrar aqui eu já peço urgência para a Equipe Técnica."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:30:31.382Z",
+      "msg": "já fiz"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:31:11.928Z",
+      "msg": "Recebemos aqui, já vou pedir urgência."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:31:18.975Z",
+      "msg": "ok"
+    }
+  ],
+  "domain": "tawk.to"
+}

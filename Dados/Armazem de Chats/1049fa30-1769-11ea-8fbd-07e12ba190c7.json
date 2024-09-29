@@ -1,0 +1,268 @@
+{
+  "id": "1049fa30-1769-11ea-8fbd-07e12ba190c7",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Bruno",
+    "id": "d172879bd69c6502866ec99e21ec7145b63acfca393e623f25d76cf3f71a3168",
+    "email": "financeiro@bolovo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 28,
+  "chatDuration": 2942,
+  "rating": 0,
+  "createdOn": "2019-12-05T14:11:02.657Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:11:02.657Z",
+      "msg": "Nome : Bruno\r\nE-mail/Usuário : financeiro@bolovo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:11:02.705Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:11:30.708Z",
+      "msg": "Fala, Bruno! Tudo certo? Como podemos te ajudar? :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:14:20.014Z",
+      "msg": "Ei, tudo e contigo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:15:09.785Z",
+      "msg": "Muuuuuuuuuito bem! :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:15:29.959Z",
+      "msg": "Que bom"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:15:33.121Z",
+      "msg": "com quem eu falo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:15:36.699Z",
+      "msg": "João!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:16:18.952Z",
+      "msg": "Boa Sandr"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:16:44.177Z",
+      "msg": "Seguinte, eu tenho dois produtos no   que estão com praticamente com o mesmo código"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T14:16:53.989Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:17:22.295Z",
+      "msg": "só que se eu desativar um ele não vai replicar pro nosso site, o nosso site tá puxando do item errado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:18:23.631Z",
+      "msg": "Certo, qual seria o produto correto?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:18:51.464Z",
+      "msg": "O ideal, nestes casos, seria inativar o incorreto e tentar forçar um envio do correto."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:19:23.269Z",
+      "msg": "A plataforma de e-commerce lhe prestou um auxílio neste sentido, Bruno?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:30.968Z",
+      "msg": "o correto seria o primeiro BLV02L"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:48.275Z",
+      "msg": "hmmm, beleza"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:55.666Z",
+      "msg": "tem como desativar o errado?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:21:01.422Z",
+      "msg": "Vocês utilizam qual solução de e-commerce?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:24:47.069Z",
+      "msg": "nda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:24:48.493Z",
+      "msg": "vnda"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:25:19.217Z",
+      "msg": "Certo, como a VNDA envia as informações ao  , o ideal seria conversar primeiramente com eles para entender qual é a solução menos danosa à Bolovo, compreende, Bruno?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:36:20.668Z",
+      "msg": "eu acho que é ao contrário, o   envia as informações pro vnda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:36:23.282Z",
+      "msg": "não?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:36:42.358Z",
+      "msg": "Não. Nós geramos uma API que é integrada ao sistema da VNDA."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:37:01.120Z",
+      "msg": "De qualquer forma, por via de dúvida, seria interessante consultar a VNDA se podemos realizar a inativação lá e por consequência, no  ."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:40:41.034Z",
+      "msg": "mas esse é o problema, a gente tem esse produto e ele tá ativo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:41:11.319Z",
+      "msg": "Exato. Contudo, nosso receio é que inativando este produto aqui sem o consentimento da VNDA, podemos gerar discrepâncias nos relatórios e, consequentemente, nas vendas."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:51:32.633Z",
+      "msg": "entendi"
+    }
+  ],
+  "domain": "tawk.to"
+}

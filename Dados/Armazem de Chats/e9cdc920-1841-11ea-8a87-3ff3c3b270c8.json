@@ -1,0 +1,103 @@
+{
+  "id": "e9cdc920-1841-11ea-8a87-3ff3c3b270c8",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Cezar",
+    "id": "14020193d3735de6a6029a0d425825bda4284bf85d70f7507289afe042cb4870",
+    "email": "cezar@vestapisoaquecido.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 9,
+  "chatDuration": 1796,
+  "rating": 0,
+  "createdOn": "2019-12-06T16:03:32.808Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:03:32.808Z",
+      "msg": "Nome : Cezar\r\nE-mail/Usuário : cezar@vestapisoaquecido.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:03:32.827Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:03:35.849Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:03:40.811Z",
+      "msg": "conforme conversei com o Sandro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:03:47.870Z",
+      "msg": "temos uma nota fiscal de importação para providenciar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:04:03.203Z",
+      "msg": "ele pediu para lançar em outras notas os dados"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:04:09.437Z",
+      "msg": "e entrar em contato com vocês"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:04:14.289Z",
+      "msg": "como procedemos agora?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:33:17.179Z",
+      "msg": "Boa tarde, Cezar!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:33:28.416Z",
+      "msg": "Você já montou ela no sistema?"
+    }
+  ],
+  "domain": "tawk.to"
+}

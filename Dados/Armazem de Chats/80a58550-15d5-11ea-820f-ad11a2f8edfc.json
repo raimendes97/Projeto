@@ -1,0 +1,123 @@
+{
+  "id": "80a58550-15d5-11ea-820f-ad11a2f8edfc",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Tonoli",
+    "id": "22d3cd61e1f9b9b265831504bcf0a9d6660948cb37c49efbddfd6fe87728c02b",
+    "email": "adm.sinimbu@toccoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Eldorado do Sul"
+  },
+  "messageCount": 11,
+  "chatDuration": 688,
+  "rating": 0,
+  "createdOn": "2019-12-03T14:02:27.383Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:02:27.383Z",
+      "msg": "Nome : Tonoli\r\nE-mail/Usuário : adm.sinimbu@toccoli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:02:27.444Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:02:41.207Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:03:19.114Z",
+      "msg": "Olá, bom dia.\nPreciso acessar todas as vendas detalhadas do dia 30/11/2019. Acessei \"Relatórios > Vendas > Vendas por Período\", mas aqui tenho somente a quantidade de vendas e o valor agrupadamente.\nSabe me dizer qual é esse relatório que mostra as vendas detalhadamente?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:04:52.887Z",
+      "msg": "Quais dados você precisa ver exatamente na nota? Para mim verificar se temos todas os dados em um único relatório."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:05:40.870Z",
+      "msg": "Preciso do relatório mais completo possível das vendas do dia 30/11/2019. Dados do cliente, valor da compra, produtos, horário do registro..."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:06:01.742Z",
+      "msg": "Um momentom por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:09:52.426Z",
+      "msg": "Você consegue, por favor, acessar em Relatórios > Vendas > Vendas por produto, aqui você pode filtrar pela data desejada e marcar a opção de Analítico no Campo Visualização, ele mostra de forma bem detalhada cada uma das vendas, neste caso, para vendas realizadas através do   Web.\nOu você pode verificar em Vendas > Consultar Vendas, que mostra Vendas realizadas no   Web e no PDV de forma detalhada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:11:30.153Z",
+      "msg": "Beleza, obrigado!\nNesse \"Vendas > Consultar Vendas\", consigo exportar o relatório?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:12:42.338Z",
+      "msg": "Imagina!\nInfelizmente no Consultar vendas, hoje não temos a opção para exportar em relatório, somente consulta na tela. Oriento a abrir um Chamado, solicitando essa funcionalidade para que a Equipe Técnica possa analisar e vir a desenvolver se aprovado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:13:50.082Z",
+      "msg": "Tranquilo, acho que nessa tela já consigo encontrar as informações que preciso. Obrigado pela atenção, Ana! Bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:13:55.582Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa terça-feira e uma boa semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,1436 @@
+{
+  "id": "3e3d9580-15c7-11ea-b0b3-71bc6b19e7f1",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Alice",
+    "id": "73f8d8f9741c80f2065e371126950d480c5c683fe842ac3d5db6536e75840955",
+    "email": "stacecilia@bolovo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 177,
+  "chatDuration": 9588,
+  "rating": 0,
+  "createdOn": "2019-12-03T12:20:25.190Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:20:25.190Z",
+      "msg": "Nome : Alice\r\nE-mail/Usuário : stacecilia@bolovo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:20:25.233Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:20:33.375Z",
+      "msg": "Bom dia."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:20:40.011Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:20:48.433Z",
+      "msg": "Gostaria de instalar o   PDV"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:21:08.633Z",
+      "msg": "Certo, já temos o certificado digital importado? Produtos cadastrados, etc?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:21:21.984Z",
+      "msg": "Não"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:21:35.772Z",
+      "msg": "Tem uma lista do que preciso fazer?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:22:46.377Z",
+      "msg": "Alice, poderia nos disponibilizar o teu CNPJ, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:23:11.881Z",
+      "msg": "000000"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:23:25.112Z",
+      "msg": "esse eh o do escritprio"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:23:41.767Z",
+      "msg": "Certo, é neste CNPJ que o PDV será instalado?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:23:44.579Z",
+      "msg": "Ai estamos abrindo um ponto novo]"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:23:55.798Z",
+      "msg": "Que eh uma filial, loja nova que tem esse cnpj"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:24:09.633Z",
+      "msg": "00000"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:24:10.735Z",
+      "msg": "Show. Nos dê um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:24:31.726Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:25:26.151Z",
+      "msg": "Quem me atendeu no processo foi a Roberta. Ontem comentei com ela que viria ao novo PDV p/ deixar tudo arrumado (pc,  , sat, etc) e ela me instriu entrar pelo chat para pedir a instalacao do PDV ;)"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:27:13.761Z",
+      "msg": "Certo, Alice. Estamos consultando com nosso financeiro para gerar uma assinatura AC ao CNPJ 00000\n."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:28:17.589Z",
+      "msg": "Tal assinatura é necessária por conta da obrigatoriedade do S@T."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:30:37.847Z",
+      "msg": "Procurei aqui nos meus e-mails e tenho tal assinatura"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:31:17.016Z",
+      "msg": "|A Roberta ja gerou]"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:31:29.791Z",
+      "msg": "A assinatura foi gerada ao CNPJ 0000?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:31:43.039Z",
+      "msg": "Sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:34:29.936Z",
+      "msg": "Queira aguardar um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:34:46.784Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:38:01.543Z",
+      "msg": "Alice, é possível você nos passar o teu certificado digital e sua respectiva senha, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:39:10.843Z",
+      "msg": "A pessoa que tem esses dados não chegou ainda. Tem algum processo que podemos adiantar de download do programa?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:39:26.125Z",
+      "msg": "É necessário que tenhamos o certificado digital A1 e sua respectiva senha em mãos para que possamos dar prosseguimento."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:39:34.148Z",
+      "msg": "Contudo, se você quiser, pode cadastrar os Operadores do PDV."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:39:50.148Z",
+      "msg": "Sim. Vamos adiantar o que for possível."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:39:58.581Z",
+      "msg": "O que são os operadores do PDV?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:40:12.605Z",
+      "msg": "Operadores do PDV são pessoas que estarão aptas e terão permissões específicas na operação do Frente de Caixa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:40:28.859Z",
+      "msg": "Para cadastrá-los, vá em APPs > PDV NFCe / SAT > Operadores."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:40:50.819Z",
+      "msg": "Já não achei o APPs"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:40:53.127Z",
+      "msg": "kkkk["
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:40:57.260Z",
+      "msg": "Recomendamos que você cadastre Vendedores antes, para realizar a posterior vinculação."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:40:57.771Z",
+      "msg": "Eh no   Web?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:41:11.797Z",
+      "msg": "Sim. Basta atualizar a página que irá aparecer o menu de APPs."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:42:43.585Z",
+      "msg": "Deu erro ao Salvar]"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:43:03.535Z",
+      "msg": "Poderia nos enviar uma captura de tela, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T12:43:30.340Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T12:43:31.730Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:43:34.946Z",
+      "msg": "Ops perdão, foi duas vzs"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:43:50.157Z",
+      "msg": "Certo. Vá em APPs > NFCe / SAT > Perfis"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:43:55.076Z",
+      "msg": "E crie um novo Perfil, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:44:29.996Z",
+      "msg": "O S@T está instalado corretamente nesta máquina?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:46:49.692Z",
+      "msg": "Consegui criar o meu perfil, mas do vendedor também deu erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T12:46:56.442Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:47:48.332Z",
+      "msg": "Um instante, tentaremos fazer um perfil em teste."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:48:15.172Z",
+      "msg": "Ok. Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:49:12.797Z",
+      "msg": "O perfil Gerente foi criado, correto?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:49:20.717Z",
+      "msg": "Foi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:49:29.921Z",
+      "msg": "Mas acredito  que fiz o mesmo processo p/ vendedor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:49:39.906Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:53:50.131Z",
+      "msg": "Alice, conversei com o pessoal do Desenvolvimento e constatamos que as informações foram replicadas da MATRIZ."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:53:58.851Z",
+      "msg": "Então, para darmos prosseguimento, agora precisamos do Certificado Digital."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:54:28.221Z",
+      "msg": "Ademais, o vendedor que criei como teste, funcionou."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:54:31.030Z",
+      "msg": "Pode excluir, se quiser."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:54:46.620Z",
+      "msg": "Ok. Então p/ prosseguir somente com o certificado digital. Não há nada que posso fazer por enquanto?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:55:14.846Z",
+      "msg": "Se quiseres, pode cadastrar vendedores, verificar o financeiro, etc."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:55:20.554Z",
+      "msg": "Ainda não instalei o O S@T na máquina por exemplo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:55:43.728Z",
+      "msg": "Como faço isso? Entro em contato com a Bematech? (1a vez! foi mal)"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:56:05.325Z",
+      "msg": "Sim, por gentileza. Aí, depois importamos o certificado digital e damos prosseguimento no atendimento já com o S@T instalado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:57:29.868Z",
+      "msg": "Vc pode registrar esse vendedor por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:57:31.335Z",
+      "msg": "Victoria"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:57:51.564Z",
+      "msg": "E um vendedor com a descrição: Temporário"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:58:10.331Z",
+      "msg": "Claro. Registro a Victoria como Vendedora no ERP e Operador no PDV?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:58:31.174Z",
+      "msg": "Não sei o que significa ambas as coisas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:58:51.436Z",
+      "msg": "Terei dois vendedores na loja que farão funções iguais, de venda, caixa, relatorios"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:59:02.516Z",
+      "msg": "Ao cadastrar um Operador, você tem um campo chamado Vendedor Relacionado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:59:22.082Z",
+      "msg": "Ali, você colocaria Victoria, pois todas as vendas realizadas naquele PDV seriam computadas em nome de Victoria."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:59:26.899Z",
+      "msg": "Uma chama Victoria e o outro será um Temporário (ai gostaria de deixar assim mesmo a descrição do nome)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:59:52.262Z",
+      "msg": "Serão duas pessoas realizando as vendas\n1) Victoria\n2) Temporário"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:04:42.165Z",
+      "msg": "Nos avise se não conseguir, por gentileza, Alice."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:05:58.591Z",
+      "msg": "Criar os operadores?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:06:01.380Z",
+      "msg": "Nao consigo, da erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:06:09.934Z",
+      "msg": "Vc nao pode criar para mim enquanto instalo o esat?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:06:30.731Z",
+      "msg": "Queira aguardar uns minutos."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:09:11.278Z",
+      "msg": "O Bruno, que manja aqui das coisas, disse que será o mesmo esquema do certificado digital da outra loja (lojinha@55454.com.br). Que a gnt não vai ter um certificado exclusivo p/ essa unidade e que vcs já fizeram esse mesmo esquema pro PDV 1"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:10:51.026Z",
+      "msg": "Mas, de qualquer forma, necessitamos do Certificado Digital e a senha."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:12:42.880Z",
+      "msg": "vocês não conseguem pegar do outro  ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:12:48.255Z",
+      "msg": "Não conseguimos."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:13:26.762Z",
+      "msg": "e como eu te passo esse certificado?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:13:28.412Z",
+      "msg": "por aqui?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:13:53.755Z",
+      "msg": "mas esse certificado é da matriz tem algum problema?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:13:58.876Z",
+      "msg": "porque a loja tem outro cnpj"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:15:24.782Z",
+      "msg": "Se os oito primeiros dígitos do CNPJ forem os mesmos, não."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:15:57.178Z",
+      "msg": "aa tranquilo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:15:59.678Z",
+      "msg": "vou passar então"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:25:53.367Z",
+      "data": {
+        "uri": "https",
+        "name": "Certificado Digital.pfx",
+        "mime": "application/x-pkcs12"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:26:03.698Z",
+      "msg": "acho que é esse"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:26:25.224Z",
+      "msg": "senha: 545454"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:26:53.302Z",
+      "msg": "Um instante, Alice."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:28:03.956Z",
+      "msg": "se não der certo, deve ser outro certificado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:29:59.038Z",
+      "msg": "pera ae que o certificado é outro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:30:27.924Z",
+      "msg": "Ah, legal! :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:31:10.666Z",
+      "data": {
+        "uri": "https",
+        "name": "Certificado Digital 2019.pfx",
+        "mime": "application/x-pkcs12"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:31:22.440Z",
+      "msg": "esse e a senha é a mesma"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:31:35.646Z",
+      "msg": "Beleza, Alice. Obrigado! :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:31:47.075Z",
+      "msg": "magina"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:31:49.093Z",
+      "msg": "demora muito?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:32:00.574Z",
+      "msg": "É bem rapidinho!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:32:30.132Z",
+      "msg": "a tranquilo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:32:35.728Z",
+      "msg": "e qual é o próximo passo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:32:45.414Z",
+      "msg": "Com o S@T configurado, basta instalar o PDV."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:33:25.859Z",
+      "msg": "certo, a gente precisa configurar o sat certo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:33:29.343Z",
+      "msg": "deixar ele ligado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:33:38.094Z",
+      "msg": "Sim, precisam sim!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:37:35.665Z",
+      "msg": "Feito. Vocês já têm o Token CSC?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:04.405Z",
+      "msg": "não"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:08.160Z",
+      "msg": "o que é isso?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:26.179Z",
+      "msg": "O S@t já foi finalizado? :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:56.568Z",
+      "msg": "ainda não"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:40:37.943Z",
+      "msg": "to pedindo pro nosso contabilidade fazer"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:40:40.084Z",
+      "msg": "só um miunto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:16:22.679Z",
+      "msg": "Estamos com o protocolo de vinculação do sat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:16:25.384Z",
+      "msg": "e agora?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:23:30.769Z",
+      "msg": "Show!!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:23:40.632Z",
+      "msg": "Nos passe um acesso do Team Viewer 12, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:23:53.224Z",
+      "msg": "ID 1"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:24:00.885Z",
+      "msg": "Senha 4343"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:24:15.080Z",
+      "msg": "Show! Queira aguardar um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:24:20.377Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:25:21.081Z",
+      "msg": "Pessoal já está conectando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:25:31.382Z",
+      "msg": "So aguardar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:26:56.469Z",
+      "msg": "Sim. Eles estão realizando uns ajustes e em breve estarão conectando em sua máquina!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:27:19.459Z",
+      "msg": "Pode nos passar as informações do S@T, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:27:22.929Z",
+      "msg": "Como código de ativação e afins?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:27:36.360Z",
+      "msg": "Assinatura A/C e Modelo também."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T14:29:52.359Z",
+      "data": {
+        "uri": "https",
+        "name": "DECLARAÇÃO POSSE EQUIPAMENTO SAT - BOLOVO 11 625 557 0003.pdf",
+        "mime": "application/pdf"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:30:51.584Z",
+      "msg": "Certo. A assinatura A/C e o código de ativação também estão neste documento?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:31:22.739Z",
+      "msg": "A assinatura A/C vou te re-encaminhar o arquivo que a Roberta me enviou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:31:45.273Z",
+      "msg": "Código de ativação é o que? Como achp?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:32:07.263Z",
+      "msg": "Provavelmente a fornecedora deve ter te passado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:33:02.515Z",
+      "msg": "Código de ativação é referente ao SAT?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:33:10.104Z",
+      "msg": "Sim, vem no equipamento."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:33:51.339Z",
+      "msg": "Ok. Estou procurando"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:34:02.274Z",
+      "msg": "Poderia ser o número de série?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:34:33.743Z",
+      "msg": "Você informou algum número quando realizou o vínculo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:35:40.690Z",
+      "msg": "Usamos o número de série da máquina"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:35:40.911Z",
+      "msg": "99999-06"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:35:40.911Z",
+      "msg": "Vou te passar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:36:28.209Z",
+      "msg": "Este é o número do modelo, que também é necessário."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:36:43.201Z",
+      "msg": "Seria possível você entrar em contato com o pessoal da Bematech para poder averiguar qual é o código de ativação?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T14:37:49.166Z",
+      "data": {
+        "uri": "https",
+        "name": "  -22-11.txt",
+        "mime": "text/plain"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:38:00.487Z",
+      "msg": "Essa é a assinatura que a Roberta me encaminhou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:38:33.835Z",
+      "msg": "Posso. Mas vc já averiguou se não está no 1o arquivo que te passei?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:38:41.900Z",
+      "msg": "Não está."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:38:57.043Z",
+      "msg": "Ok. Vou ligar no suporte"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:55:59.332Z",
+      "msg": "00000000"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:56:50.693Z",
+      "msg": "Certo, Alice. Estamos quase encerrando nossas atividades agora pela manhã, podemos retomar à tarde, no primeiro horário?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:57:06.953Z",
+      "msg": "Que horas?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:57:21.420Z",
+      "msg": "13h30 estamos de volta! :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:57:42.663Z",
+      "msg": "Beleza. Mas pode ser vc mesmo a pegar meu chamado?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:57:47.006Z",
+      "msg": "Claro!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:57:50.870Z",
+      "msg": "Estarei te aguardando às 13h30."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:57:53.940Z",
+      "msg": "Ok. Deixamos a janlea aberta?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:58:00.246Z",
+      "msg": "Pode entrar novamente às 13h30 que estarei aqui."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:58:06.849Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:58:10.060Z",
+      "msg": "Como vc se chama?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:58:27.021Z",
+      "msg": "Sou o Sandro! :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:58:33.221Z",
+      "msg": "Obrigada Sandro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:58:35.555Z",
+      "msg": "Até mais tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:58:44.774Z",
+      "msg": "Não por isso, Alice. Estaremos aqui te aguardando. Bom almoço! :D"
+    }
+  ],
+  "domain": "tawk.to"
+}

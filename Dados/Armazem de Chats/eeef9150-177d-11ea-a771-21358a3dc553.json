@@ -1,0 +1,237 @@
+{
+  "id": "eeef9150-177d-11ea-a771-21358a3dc553",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "karilene",
+    "id": "328c448db1dd65c84423aaf01ae32e6e7ef74bbe11a0a73ebd12ac215580968a",
+    "email": "karilene.silva@ucb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Areal"
+  },
+  "messageCount": 23,
+  "chatDuration": 1311,
+  "rating": 0,
+  "createdOn": "2019-12-05T16:40:26.640Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:40:26.640Z",
+      "msg": "Nome : karilene\r\nE-mail/Usuário : karilene.silva@ucb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:40:26.691Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:40:31.755Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:41:00.099Z",
+      "msg": "O caixa analitico e sintetico do dia 02/12 estao dando diferença"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:41:25.461Z",
+      "msg": "Olá, boa tarde, Karilene. Você pode enviar uma captura de tela de ambos para demonstrar a diferença, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T16:42:57.185Z",
+      "data": {
+        "uri": "https",
+        "name": "Capturar.PNG",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T16:42:57.363Z",
+      "data": {
+        "uri": "https",
+        "name": "Capturar 1.PNG",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:43:18.071Z",
+      "msg": "Um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:51:04.028Z",
+      "msg": "Karilene, notamos esta distorção. Você pode abrir um chamado para a Equipe Técnica averiguar o que houve, por gentilteza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T16:57:08.065Z",
+      "data": {
+        "uri": "https",
+        "name": "Capturar 3.PNG",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T16:57:16.133Z",
+      "data": {
+        "uri": "https",
+        "name": "Capturar 4.PNG",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:32.692Z",
+      "msg": "dia 4 tambem teve diferença"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:41.525Z",
+      "msg": "como assim distrorção?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:49.785Z",
+      "msg": "aqui nao e o chamado?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:58:09.987Z",
+      "msg": "Por este canal de comunicação, nós realizamos atendimento aos casos que são respondidos e solucionados rapidamente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:58:39.020Z",
+      "msg": "Como este caso necessita de uma maior análise, é necessário que você abra um chamado indo no Ponto de Interrogação no canto superior direito e depois em Chamados."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:59:41.587Z",
+      "msg": "a sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:59:52.830Z",
+      "msg": "e que ja aconteceu esse erro algumas vezes"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:00:01.680Z",
+      "msg": "e foram resolvidas por aqui"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:01:15.373Z",
+      "msg": "Este caso é um pouco diferente. Justamente por isso que pedimos vossa compreensão."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:02:04.227Z",
+      "msg": "tudo bem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:02:06.693Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:02:16.197Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quinta-feira e uma boa semana para você."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:02:17.165Z",
+      "msg": "45lll..."
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "c1190e80-153b-11ea-9aa8-df5d613cef6b",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "roger",
+    "id": "9955b6755fa162c79d28c4fec76d6c2434755021be172fd10c15980b17ebae21",
+    "email": "rogerfolle@toccoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 7,
+  "chatDuration": 1497,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:42:34.907Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:42:34.907Z",
+      "msg": "Nome : roger\r\nE-mail/Usuário : rogerfolle@toccoli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:42:34.935Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:42:46.425Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:42:47.823Z",
+      "msg": "A Equipe Técnica encontrou um erro na devolução/troca, eles já estão trabalhando na correção, mais alguns minutinhos já estará ok.\num momento, por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:43:05.483Z",
+      "msg": "SHOW OBRIGADO"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:43:24.223Z",
+      "msg": "Imagina, assim que entra a correção, já te aviso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:05:48.725Z",
+      "msg": "Você consegue, por favor, dar um CTRL + F5 e tentar emitir as notas de devolução/troca, por favor? Colocamos a correção no ar, então deve emitir com sucesso agora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:07:31.412Z",
+      "msg": "ok"
+    }
+  ],
+  "domain": "tawk.to"
+}

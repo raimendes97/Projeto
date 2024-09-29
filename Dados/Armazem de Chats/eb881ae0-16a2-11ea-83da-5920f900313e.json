@@ -1,0 +1,147 @@
+{
+  "id": "eb881ae0-16a2-11ea-83da-5920f900313e",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fernando",
+    "id": "220815e07edbdb7121f2ef7a4202fccd9f457e48ccab269f1697a50e3b9313c4",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 13,
+  "chatDuration": 1653,
+  "rating": 0,
+  "createdOn": "2019-12-04T14:32:51.266Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:32:51.266Z",
+      "msg": "Nome : Fernando\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:32:51.284Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:32:59.116Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:36:58.712Z",
+      "msg": "Fernando da PayPet, continuamos com os problemas da IOntegracao"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:37:42.103Z",
+      "msg": "Não esta integrando?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:38:15.240Z",
+      "msg": "Como haviamos dito iriamos testar outros pedidos fizemos um novo já no cd1 que deveria vir para nossa loja e nao veio"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T14:38:28.420Z",
+      "data": {
+        "uri": "https",
+        "name": "Screen Shot 2019-12-04 at 11.37.34.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T14:38:28.500Z",
+      "data": {
+        "uri": "https",
+        "name": "Screen Shot 2019-12-04 at 11.37.49.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:39:19.902Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:58:32.604Z",
+      "msg": "..."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:58:46.936Z",
+      "msg": "Fernando, a Thais esta analisando o porque ocorreu esse problema. Podemos lhe passar um retorno por email assim que ela finalizar a análise, por favor? Pois nosso atendimento via chat encerra as 12hrs e retornamos as 13:30hrs."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:58:58.439Z",
+      "msg": "ok aguardo."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:59:09.914Z",
+      "msg": "Combinado!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:59:14.848Z",
+      "msg": "Obrigada!"
+    }
+  ],
+  "domain": "tawk.to"
+}

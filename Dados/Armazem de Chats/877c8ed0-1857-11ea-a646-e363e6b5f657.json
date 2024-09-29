@@ -1,0 +1,62 @@
+{
+  "id": "877c8ed0-1857-11ea-a646-e363e6b5f657",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Cezar",
+    "id": "bbe4b449cdfc77bef7c277fa18d1227b6491be4ed9bd2bd100f481bdc494d248",
+    "email": "cezar@vestapisoaquecido.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 4,
+  "chatDuration": 9,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:38:18.091Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:38:18.091Z",
+      "msg": "Nome : Cezar\r\nE-mail/Usuário : cezar@vestapisoaquecido.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:38:18.109Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:38:23.009Z",
+      "msg": "Opa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:38:24.273Z",
+      "msg": "caiu aqui"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:38:26.703Z",
+      "msg": "Olá Cezar"
+    }
+  ],
+  "domain": "tawk.to"
+}

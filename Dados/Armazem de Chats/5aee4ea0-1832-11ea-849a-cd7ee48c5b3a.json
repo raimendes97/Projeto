@@ -1,0 +1,71 @@
+{
+  "id": "5aee4ea0-1832-11ea-849a-cd7ee48c5b3a",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Bety",
+    "id": "1f7402e30d92e63b9f15a34b99fb9d29a3f8e63594680f48be5b082c4fadd35b",
+    "email": "contabil@tecnology.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 5,
+  "chatDuration": 106,
+  "rating": 0,
+  "createdOn": "2019-12-06T14:11:59.436Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:11:59.436Z",
+      "msg": "Nome : Bety\r\nE-mail/Usuário : contabil@tecnology.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:11:59.413Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:12:06.269Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:12:22.618Z",
+      "msg": "tive que sair e o chat fechou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:12:30.792Z",
+      "msg": "não vi o que você respondeu"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:13:45.333Z",
+      "msg": "Tudo bem. O Vinicius esta em uma reunião com a direção na parte da manhã e o João somente vem a tarde hoje. Contatei o João por telefone, ele me disse que agora a tarde, ele te passa um email sem falta referente ao assunto que você estava vendo com ele ontem."
+    }
+  ],
+  "domain": "tawk.to"
+}

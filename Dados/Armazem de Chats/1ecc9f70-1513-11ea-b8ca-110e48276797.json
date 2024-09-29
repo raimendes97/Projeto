@@ -1,0 +1,247 @@
+{
+  "id": "1ecc9f70-1513-11ea-b8ca-110e48276797",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Marlos",
+    "id": "b4f4d2166b1f801fca51a17614377f4034ce7df59ae58ecfade6123909dd855d",
+    "email": "marlos@piratadolago.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Porto Alegre"
+  },
+  "messageCount": 25,
+  "chatDuration": 639,
+  "rating": 0,
+  "createdOn": "2019-12-02T14:50:49.896Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:50:49.896Z",
+      "msg": "Nome : Marlos\r\nE-mail/Usuário : marlos@piratadolago.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:50:49.946Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:51:11.510Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:51:39.864Z",
+      "msg": "Olá, tudo bem?\nComo faço para ver apenas os produtos que estão negativos no estoque?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:51:47.560Z",
+      "msg": "Tudo bem e você?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:54:02.256Z",
+      "msg": "Você pode acessar em Estoque > Inventários e preencher o campo \"Estoque entre\" pode preencher com -100 e no outro como -1."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-02T14:54:06.478Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:54:16.708Z",
+      "msg": "Ele vai mostrar o que tem em negatigo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:54:20.652Z",
+      "msg": "*negativo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:54:40.037Z",
+      "msg": "pode alterar os valores que passei como exemplo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:54:57.380Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:55:10.702Z",
+      "msg": "eu tentei entre -10  a 0"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:55:16.756Z",
+      "msg": "não paraeceu nada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:55:23.715Z",
+      "msg": "apareceu*"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:55:30.502Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:56:27.717Z",
+      "msg": "Coloque um valor diferente de 0, por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:56:42.347Z",
+      "msg": "Agora conseguie"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:56:51.268Z",
+      "msg": "Perfeito!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:57:00.116Z",
+      "msg": "Outra coisa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:57:27.835Z",
+      "msg": "Estou imprimindo as etiquetas e anda saindo \"etiqueta pirata\" embaixo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:57:35.241Z",
+      "msg": "Antes não saia isso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:59:55.845Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:00:37.229Z",
+      "msg": "Prontinho. realizamos um ajuste, para as próximas não deve mais aparecer."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:00:50.946Z",
+      "msg": "ok, obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:01:25.326Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T15:01:27.526Z",
+      "msg": "3434ss"
+    }
+  ],
+  "domain": "tawk.to"
+}

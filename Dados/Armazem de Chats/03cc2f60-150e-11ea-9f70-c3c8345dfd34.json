@@ -1,0 +1,181 @@
+{
+  "id": "03cc2f60-150e-11ea-9f70-c3c8345dfd34",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "carol",
+    "id": "6cac6761c753a627634092a31c029816b417eebeb1c8d794c1d87aeb756ddfa5",
+    "email": "carolinnadantas@hotmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 18,
+  "chatDuration": 925,
+  "rating": 0,
+  "createdOn": "2019-12-02T14:14:24.509Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:24.509Z",
+      "msg": "Nome : carol\r\nE-mail/Usuário : carolinnadantas@hotmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:24.561Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:29.354Z",
+      "msg": "Olá bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:16:29.025Z",
+      "msg": "Olá, bom dia!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:16:42.629Z",
+      "msg": "bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:16:43.216Z",
+      "msg": "Como podemos ajudá-la?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:18:40.863Z",
+      "msg": "seguinte, tem uma nota que já foi gerada mas preciso corrigir a quantidade de volume"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:18:41.739Z",
+      "msg": "como podemos fazer?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:18:42.230Z",
+      "msg": "na verdade são 3"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:19:22.412Z",
+      "msg": "Certo, Carol. Primeiramente, é necessário que a nota emitida de forma errônea, seja cancelada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:21:49.587Z",
+      "msg": "Realizando este procedimento, você duplica o pedido e após faturá-lo, você altera em \"Transportador / Volumes Transportados\" para a quantidade desejada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:24:30.526Z",
+      "msg": "Nos avise se enfrentar dificuldades no processo, (;"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:24:38.743Z",
+      "msg": "entendi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:24:43.305Z",
+      "msg": "vou tentar aqui e já retorno com você"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:24:52.441Z",
+      "msg": "Claro, Carol! Sem problemas. :)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:28:54.010Z",
+      "msg": "fiz aqui"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:29:02.729Z",
+      "msg": "dá uma olhada na tela pra ver se foi certinho?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:29:37.370Z",
+      "msg": "Claro. Me dá um instante, por gentileza!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:29:49.404Z",
+      "msg": "Qual seria o nome da empresa em questão?"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,617 @@
+{
+  "id": "6d915900-1786-11ea-9208-8f6fdc1fd6f3",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Leonardo",
+    "id": "acbb1298ba85a7b1bd32dafc6798c04e7559ff8c55c7ef8b8b1529d40fa3a9dd",
+    "email": "ti2@fullfit.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 71,
+  "chatDuration": 2905,
+  "rating": 0,
+  "createdOn": "2019-12-05T17:41:15.849Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:41:15.849Z",
+      "msg": "Nome : Leonardo\r\nE-mail/Usuário : ti2@fullfit.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:41:15.867Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:41:31.332Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:41:48.663Z",
+      "msg": "Sobre a alteração da devolução"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:41:55.886Z",
+      "msg": "ainda está errado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:42:07.342Z",
+      "msg": "Boa tarde, Leonardo!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T17:42:54.822Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:43:50.576Z",
+      "msg": "Não pode marcar a opção de \"Nfe Já emitida\" no momento de gerar a nota de devolução/troca. Precisa selecionar a opção Sim ou Não, no Campo \"Gerar Nfe?\""
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:44:36.137Z",
+      "msg": "essa opção \"Nfe Já emitida\" é para quando o seu cliente emite a nota de devolução para você, então só movimenta estoque e cria financeiro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:47:34.697Z",
+      "msg": "Ao adicionar uma devolução de outro sistema o numero de nota que será preenchido vai ser o da nota do cliente certo ??"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:48:08.348Z",
+      "msg": "Vou confirmar com a Equipe Técnica, um segundo, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:51:44.696Z",
+      "msg": "Infelizmente não mostra o número da nota que o cliente emitiu nesta tela, a Equipe Técnica orienta que quando você esta lançando a nota dele no sistema, você coloque no Campo Observações dentro dela, o número da nota do cliente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:52:45.520Z",
+      "msg": "mas a opção de adicionar uma nota de outro sistema não seria para eu preencher com os dados da nota do cliente ??"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:53:37.541Z",
+      "msg": "fui tentar adicionar com esta opção e aparece a seguinte mensagem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T17:53:39.255Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:53:55.085Z",
+      "msg": "mas o item já possui tributação cadastrada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:56:38.546Z",
+      "msg": "Sim, porém, infelizmente ele não mostra na tela do   o número da nota que o cliente usou para emitir, nesta tela aparece somente o número das notas que foram emitidas através do  ."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:56:49.365Z",
+      "msg": "A nota salvou no sistema?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:57:48.232Z",
+      "msg": "Pode me passar o número desta que você esta tentando emitir e deu essa mensagem?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:00:19.631Z",
+      "msg": "282"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:00:58.827Z",
+      "msg": "Mas ela já esta salva no sistema, como Nota de Terceiro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:01:05.167Z",
+      "msg": "Você esta fazendo outra?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:02:00.961Z",
+      "msg": "Ana"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:02:10.969Z",
+      "msg": "é a Priscila do fiscal"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:02:39.706Z",
+      "msg": "O   está literalmente equivocado sobre este conceito"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:03:22.780Z",
+      "msg": "Estamos a quase dois meses aguardando esta parametrização e ainda recebemos desta maneira"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:03:41.162Z",
+      "msg": "Existe um telefone para te orientar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:03:50.674Z",
+      "msg": "ai ficaria mais claro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:04:10.354Z",
+      "msg": "entenda, não podemos ficar desta maneira"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:04:45.100Z",
+      "msg": "Infelizmente, não possuimos suporte por telefone, somente através do Chat ou chamados.\nPor favor, me explique o que você entende que esta faltando, para que a Equipe Técnica possa analisar melhor a situação e ajustar o que for necessário."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:05:26.569Z",
+      "msg": "Na verdade esta faltando um profissional que entenda do assunto no  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:05:52.451Z",
+      "msg": "Estou solicitando um telefone em caracter de ajuda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:06:22.276Z",
+      "msg": "Ambas alternativas devem ter acesso a consulta da NF de origem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:06:29.315Z",
+      "msg": "isso é fato"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T18:06:56.491Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:08:23.364Z",
+      "msg": "essa é a origem na primeira alternativa, observa que carrega tudo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T18:08:47.934Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:09:46.765Z",
+      "msg": "Ao selecionar a opção destacada, deve aparecer tres campos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T18:09:48.846Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:09:59.908Z",
+      "msg": "Numero da NF"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:10:02.293Z",
+      "msg": "serie"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:10:09.304Z",
+      "msg": "e chave de acesso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:11:11.677Z",
+      "msg": "Não existe colocar estas informações no campo OBSERVAÇÕES, por que ser for desta maneira não estamos escriturando o documento fiscal"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:12:17.593Z",
+      "msg": "Esta segunda alternativa, não puxa a NF de origem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T18:12:21.323Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:13:27.511Z",
+      "msg": "Outra coisa, não posso errar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:14:05.343Z",
+      "msg": "Por que não alternativa de cancelar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:14:21.193Z",
+      "msg": "ou excluir da maneira que preferir"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T18:14:33.088Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:15:08.927Z",
+      "msg": "me desculpa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:15:26.887Z",
+      "msg": "estou processo de inventario e preciso finalizar estas devoluções"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:15:57.151Z",
+      "msg": "quanto tempo para finalizar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:16:06.161Z",
+      "msg": "alias corrigir"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:16:07.872Z",
+      "msg": "???"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:20:10.918Z",
+      "msg": "Entendi Priscila. Conversei com a Equipe Técnica sobre essa situação, eles me disseram que fizeram contato telefônico com o Celso para entender melhor tudo o que ele precisava além do que havia sido nos passado através do Chamado, e não foi comentado essa situação.\nDesta forma pedimos desculpas pelo transtorno, e a Equipe Técnica pede por favor, para que você coloque no Chamado que necessita que demonstre o Número da NF, Série, Chave, para que eles possam analisar e realizar a melhoria. Mas ele entendem e estarão analisando a melhor forma de fazer esse ajuste para que tenha os campos que você necessita para fazer o lançamento.\nSobre a situação de Cancelar ou Excluir em caso de erro, a Equipe Técnica já esta em desenvolvimento, logo essa alteração já deve entrar no ar, mas enquanto isso, caso ocorra uma situação como essa, pedimos por favor, que nos avise no Chat que removemos a nota no mesmo instante."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:21:16.836Z",
+      "msg": "Sobre a situação de Cancelar ou Excluir em caso de erro, a Equipe Técnica já esta em desenvolvimento,"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:21:20.605Z",
+      "msg": "Infelizmente não consigo dizer exatamente quanto tempo ainda, pois eles começaram a analisar essa solicitação que dos campos que você me falou agora, mas vou solicitar que seja verificardo em caracter de urgência, para não atrasar o sei fechamento."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:21:22.251Z",
+      "msg": "quanto tempo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:22:30.347Z",
+      "msg": "lamentável"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:22:42.831Z",
+      "msg": "que situação"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:25:16.956Z",
+      "msg": "Quando estiver parametrizando, duvidas fiscais estou a disposição"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:26:56.816Z",
+      "msg": "Infelizmente ainda não conseguimos lhe passar uma data exata, nosso Gerente de Produtos não esta na empresa hoje a tarde. A Equipe Técnica vai conversar com ele sobre essa situação, amanhã de manhã, então, eles já conseguem lhe passar mais detalhes através do Chamado desta funcionalidade."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:27:11.898Z",
+      "msg": "Vou usar da maneira que esta, PROVISORIAMENTE, aguardo urgentemente soluções"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:28:07.902Z",
+      "msg": "usando a segunda alternativa da erro de tributação"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:28:24.184Z",
+      "msg": "Mesmo possuindo cadastro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:28:38.529Z",
+      "msg": "Me ajuda com isso?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:28:45.680Z",
+      "msg": "Certo, só pedimos por favor, para você adicionar essas informações das solicitações dos campos no Chamado, para ficar registrado. Vou solicitar urgência novamente para eles referente a este caso.\nNa segunda tentativa você marcou a opção de NFe Já Emitida?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:29:16.693Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:29:40.429Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    }
+  ],
+  "domain": "tawk.to"
+}

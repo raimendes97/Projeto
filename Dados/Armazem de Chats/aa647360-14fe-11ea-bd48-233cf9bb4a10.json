@@ -1,0 +1,325 @@
+{
+  "id": "aa647360-14fe-11ea-bd48-233cf9bb4a10",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Carla",
+    "id": "846daa160100fc9cbe47389cbc944932b6327a4015f5033758f21aa66d20cd3e",
+    "email": "edson@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 38,
+  "chatDuration": 4286,
+  "rating": 0,
+  "createdOn": "2019-12-02T12:24:23.058Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:24:23.058Z",
+      "msg": "Nome : Carla\r\nE-mail/Usuário : edson@paypet.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:24:23.087Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:24:37.156Z",
+      "msg": "Bom dia!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:24:52.691Z",
+      "msg": "Bom dia, Carla. Como posso te ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:25:16.927Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:25:46.904Z",
+      "msg": "Estou tentando exportar as notas emitidas no mes de novembro, mas quando eu acesso notas fiscais não tem a opção de XML"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:26:10.977Z",
+      "msg": "Um momento, por favor! Vou solicitar ao pessoal do suporte técnico para que te auxiliem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:26:34.653Z",
+      "msg": "Vou lhe passar um passo a passo, para auxiliar com a extração dos XMLs:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:26:35.517Z",
+      "msg": "https"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:32:27.578Z",
+      "msg": "OI"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:32:31.868Z",
+      "msg": "Estou com uma dúvida"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:33:07.481Z",
+      "msg": "Em relatórios/processos é pedido para clicar em detalhes, mas não existe um único campo detalhes"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:35:20.909Z",
+      "msg": "Você clicou em Detalhes, ao lado do Processo de nº 40401\nApós isso precisa clicar em Arquivo - (1) que esta em azul"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:35:02.514Z",
+      "msg": "É assim que aparece pra mim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T12:35:25.884Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:36:15.810Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:35:51.428Z",
+      "msg": "Depois você clica em Downloads"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:36:18.114Z",
+      "msg": "Entendi"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:35:39.438Z",
+      "msg": "Você clicou em Detalhes, ao lado do Processo de nº 40401\nApós isso precisa clicar em Arquivo - (1) que esta em azul"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:36:31.498Z",
+      "msg": "Desculpe, acabei me atrapalhando um pouco."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:36:40.789Z",
+      "msg": "Já consegui"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:36:52.653Z",
+      "msg": "Imagina, não tem problema"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:37:09.933Z",
+      "msg": "Necessito de uma orientação"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:37:49.502Z",
+      "msg": "Eu tenho uma conta chamada Mercado Pago. Essa conta já tinha saldo quando iniciamos os trabalhos no   no mes de outubro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:38:13.126Z",
+      "msg": "Na verdade eu até já fiz este procedimento no banco Itaú, mas confesso que me deu um branco"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:38:34.898Z",
+      "msg": "É que eu preciso lançar o saldo inicial da conta mercado pago"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:40:44.228Z",
+      "msg": "Você pode acessar em Financeiro > Fluxo de Caixa, clicar em Receita, inserir o valor que você inicia com ela e  e seleciona a Conta Mercado Pago e a Categoria \"Saldo Inicial\" que você já possui criada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:06:30.422Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:06:36.259Z",
+      "msg": "Eu já fiz o lançamento"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:06:57.556Z",
+      "msg": "Uma dúvida: não deveria aparecer o saldo inicial em acumulado?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T13:07:07.813Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:15:38.794Z",
+      "msg": "Pode me passar um print do lançamento que você fez, por favor? Para verificamos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T13:17:12.749Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:18:38.745Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:35:49.260Z",
+      "msg": "Para mostrar no saldo acumulado do dia 01/10, você precisará editar esse lançamento para ser no dia 30/09 e o Pagamento/Recebimento dele também, com a data de 30/09."
+    }
+  ],
+  "domain": "tawk.to"
+}

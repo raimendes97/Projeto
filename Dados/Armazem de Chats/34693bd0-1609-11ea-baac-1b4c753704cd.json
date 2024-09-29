@@ -1,0 +1,151 @@
+{
+  "id": "34693bd0-1609-11ea-baac-1b4c753704cd",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Carla",
+    "id": "846daa160100fc9cbe47389cbc944932b6327a4015f5033758f21aa66d20cd3e",
+    "email": "edson@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 19,
+  "chatDuration": 740,
+  "rating": 0,
+  "createdOn": "2019-12-03T20:12:20.767Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:12:20.767Z",
+      "msg": "Nome : Carla\r\nE-mail/Usuário : edson@paypet.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:12:20.780Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:12:25.479Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:12:46.605Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:13:15.513Z",
+      "msg": "Estou importando extrato através da planilha do  . Já fiz isso hoje, só que o que a planilha que estou enviando agora deu erro. Voce tem como saber o que é este erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T20:13:26.372Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:13:42.685Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:15:02.582Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:18:49.594Z",
+      "msg": "Carla, pode dar OK nesta tela e clicar para importar novamente, por favor? Para acompanharmos nos logs"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:23:25.578Z",
+      "msg": "Só um minuto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:23:28.534Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:23:51.311Z",
+      "msg": "Agora deu certo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:23:59.859Z",
+      "msg": "Perfeito!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:24:24.773Z",
+      "msg": "Eu preciso fazer uma outra pergunta, mas me dá 05 minutos que eu volto com voce. É outra coisa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:24:40.414Z",
+      "msg": "Sim, tudo bem! Eu te aguardo"
+    }
+  ],
+  "domain": "tawk.to"
+}

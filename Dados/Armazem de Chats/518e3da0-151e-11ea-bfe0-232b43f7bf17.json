@@ -1,0 +1,75 @@
+{
+  "id": "518e3da0-151e-11ea-bfe0-232b43f7bf17",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "jean",
+    "id": "57601f7542ea96df49ddc36da6b265939490f6ee1540ed9c14eae211aec9629b",
+    "email": "jean.vargas19@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 5,
+  "chatDuration": 1303,
+  "rating": 0,
+  "createdOn": "2019-12-02T16:11:00.212Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:11:00.212Z",
+      "msg": "Nome : jean\r\nE-mail/Usuário : jean.vargas19@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:11:00.260Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T16:11:06.503Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:11:12.740Z",
+      "msg": "continuamos sem conseguir concluir vendas"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:32:34.030Z",
+      "msg": "Boa tarde, Jean!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:32:43.014Z",
+      "msg": "Pode nos passar um acesso do team viewer, por favor?"
+    }
+  ],
+  "domain": "tawk.to"
+}

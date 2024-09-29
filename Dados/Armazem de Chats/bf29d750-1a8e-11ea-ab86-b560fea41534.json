@@ -1,0 +1,260 @@
+{
+  "id": "bf29d750-1a8e-11ea-ab86-b560fea41534",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "leandro",
+    "id": "046f074eee340a313faee649d46b1b94f1c29dbaae02c21feef7ee740f8a241c",
+    "email": "leandrodias@pax.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rio de Janeiro"
+  },
+  "messageCount": 29,
+  "chatDuration": 1313,
+  "rating": 0,
+  "createdOn": "2019-12-09T14:18:22.649Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:22.649Z",
+      "msg": "Nome : leandro\r\nE-mail/Usuário : leandrodias@pax.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:22.715Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:31.192Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:33.347Z",
+      "msg": "Olá Ana"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:37.999Z",
+      "msg": "Bom Dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:21:50.883Z",
+      "msg": "então tivemos um problema com a nossa IE , e não emitimos nota fiscal por um periodo, mas segundo o nosso escritorio , já esta tudo regularizado , mas ainda temos o problema do erro de duplicidade"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:21:56.828Z",
+      "msg": "chave de acesso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:23:31.937Z",
+      "msg": "eles informaram que a Ie estava liberada a partir de sabado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:23:32.890Z",
+      "msg": "Já estamos verificando esse caso junto ao Leonardo aqui no chat. \nContinuamos verificando com ele? Ou você vai ficar no lugar dele agora?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:23:47.720Z",
+      "msg": "AH não desculpe"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:03.785Z",
+      "msg": "pois ele não esta aqui onde emitimos as notas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:18.753Z",
+      "msg": "ai não sabemos de fato se a empresa esta verificando isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:31.209Z",
+      "msg": "nossos clientes cobram aqui no setor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:35.203Z",
+      "msg": "me desculpe"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:51.366Z",
+      "msg": "vc acredita que demore muito esta resolução"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:26:06.292Z",
+      "msg": "Não tem problema. Ele esta verificando a última numeração que tem emitida com a contabilidade, pois denegou várias vezes e infelizmente no   não pula a numeração cada vez que denega uma nota, então assim que ele nos passar qual foi a última ajustamos e você já conseguirá emitir na sequência."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:28:31.142Z",
+      "msg": "so falta isso?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:28:45.073Z",
+      "msg": "Isso, exatamente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:29:26.238Z",
+      "msg": "entao eu estava tentando consultar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:30:10.706Z",
+      "msg": "mas nao aparece nada quando filtro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:30:36.150Z",
+      "msg": "pra saber qual foi a ultima nota"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:30:58.391Z",
+      "msg": "Isso, elas não aparecem no  , mas a Sefaz guardou a numeração das tentativas que foram realizadas. Por isso, precisamos que a contabilidade nos diga qual foi a última, para podermos ajustar."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:32:53.114Z",
+      "msg": "a ultima que emitimos foi a 21163 , mais deixa ele te falar , para ficar certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:33:23.134Z",
+      "msg": "depois foram 7 tentativas que esta registrado no   e 1 canelamento"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:35:10.829Z",
+      "msg": "O Leonardo ficou de nos passar um retorno da contabilidade no wattzap do João, assim que ele confirmasse, porque senão pode acabar ocorrendo pulo de numeração."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:39:16.609Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:39:23.259Z",
+      "msg": "fico aguardando eles."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:39:34.413Z",
+      "msg": "obrigado e desculpe a confusão"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:39:48.090Z",
+      "msg": "Imagina! Não tem problema."
+    }
+  ],
+  "domain": "tawk.to"
+}

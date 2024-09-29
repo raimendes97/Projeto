@@ -1,0 +1,121 @@
+{
+  "id": "a1509860-1ac3-11ea-a174-a1538196c019",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "junior",
+    "id": "11bc330c736cc277dc4f17f3658c33d8ea8c6cda3e0a7c3d88bfdd5399bb5bcb",
+    "email": "junior@toccoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 10,
+  "chatDuration": 1750,
+  "rating": 0,
+  "createdOn": "2019-12-09T20:37:38.147Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:37:38.147Z",
+      "msg": "Nome : junior\r\nE-mail/Usuário : junior@toccoli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:37:38.161Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:37:45.343Z",
+      "msg": "Olá Junior"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:37:47.937Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:37:56.024Z",
+      "msg": "Em qual loja esta com esse problema?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:38:04.285Z",
+      "msg": "Sinimbu"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:38:34.369Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:41:40.094Z",
+      "msg": "Você consegue, por favor, acessar o cadastro do Cliente, alterar no Campo de \"Indicador da IE do Destinatário\", para contribuinte de ICMS e então preencher a IE dele? Acessamos o site do Sintegra e ele já possui IE cadastrada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-09T20:41:44.254Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:42:12.457Z",
+      "msg": "Após, você pode clicar para Gerar a nota do pedido novamente, ele deve emitir com sucesso."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T21:02:45.608Z",
+      "msg": "Podemos continuar o atendimento amanhã de manhã, na primeira hora, por favor? Nosso atendimento encerra agora as 18hrs e retornamos amanhã, a partir das 8hrs."
+    }
+  ],
+  "domain": "tawk.to"
+}

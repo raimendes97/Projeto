@@ -1,0 +1,156 @@
+{
+  "id": "5c647880-1540-11ea-8b36-315845f84e90",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Jessica",
+    "id": "69bd8983310d4d0c518d0be972c29935fb6e0e8c9826e939c81c3b78073b45cb",
+    "email": "jessica@estudiopapel.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 15,
+  "chatDuration": 2773,
+  "rating": 0,
+  "createdOn": "2019-12-02T20:15:23.005Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:15:23.005Z",
+      "msg": "Nome : Jessica\r\nE-mail/Usuário : jessica@estudiopapel.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:15:23.028Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:15:45.101Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:16:02.861Z",
+      "msg": "Mais um momento, por favor, a Equipe Técnica ainda esta verificando o caso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:16:10.018Z",
+      "msg": "Ok!!!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:37:42.871Z",
+      "msg": "Já estamos realizando o ajuste e vamos gerar os voucher destas trocas que não gerou, para lhe passar, um momento, por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:38:15.603Z",
+      "msg": "ok! obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:46:55.714Z",
+      "msg": "Enquanto a Equipe Técnica faz o ajuste nos voucher, você pode gerar a troca da nota que estava pendente se você precisar. Daí já acompanhamos nos logs também, para verificar se ficou tudo ok."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:51:12.682Z",
+      "msg": "as notas já foram geradas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:51:26.053Z",
+      "msg": "no dia que teve as trocas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:51:41.016Z",
+      "msg": "tem problema gerar de novo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:55:46.974Z",
+      "msg": "Se você emitir elas de novo, vão entrar na data de hoje, acredito que não seria o ideal por conta dos seus relatórios.\nVocê pode me deixar o seu email por favor? A Equipe Técnica vai ficar ajustando os voucher para lhe passar após as 18hrs e como o chat encerra esse horário, assim que finalizarem, eles lhe encaminham hoje sem falta o email com o Voucher destas trocas que não gerou."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:59:22.494Z",
+      "msg": "danielle.evsilva@gmail.com"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:59:52.055Z",
+      "msg": "Perfeito! Pode deixar, hoje ainda lhe encaminhamos sem falta."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:59:59.694Z",
+      "msg": "Ok obrigada !"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T21:00:23.687Z",
+      "msg": "imagina! Disponha!"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "134f8b50-1764-11ea-a20c-7d92af85fab4",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "kadu",
+    "id": "28754cec0bf0ce9dd436b9b22fd9b04316392e21ffc6caf0ef4ee4389e364f12",
+    "email": "kadu_cordeiro@hotmail.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Belo Jardim"
+  },
+  "messageCount": 3,
+  "chatDuration": 780,
+  "rating": 0,
+  "createdOn": "2019-12-05T13:35:30.265Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:35:30.265Z",
+      "msg": "Nome : kadu\r\nE-mail/Usuário : kadu_cordeiro@hotmail.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:35:30.282Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:35:35.091Z",
+      "msg": "bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:35:58.221Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    }
+  ],
+  "domain": "tawk.to"
+}

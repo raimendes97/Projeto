@@ -1,0 +1,136 @@
+{
+  "id": "a68c7970-1537-11ea-8611-0dca2ae8430d",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "roger",
+    "id": "9955b6755fa162c79d28c4fec76d6c2434755021be172fd10c15980b17ebae21",
+    "email": "rogerfolle@toccoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 13,
+  "chatDuration": 1028,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:12:21.207Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:12:21.207Z",
+      "msg": "Nome : roger\r\nE-mail/Usuário : rogerfolle@toccoli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:12:21.235Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:12:36.935Z",
+      "msg": "BOA TARDE"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:12:42.374Z",
+      "msg": "PRECIOS DE UMA AJUDA"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:13:58.740Z",
+      "msg": "PRECISO"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:14:11.563Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:15:15.286Z",
+      "msg": "E DA LOJA DA SINIMBU"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:15:40.795Z",
+      "msg": "VENDA NOTA 1216/2 FUI FAZER A DEVOLUÇÃO"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:15:46.435Z",
+      "msg": "DA VENDA DA ERRO 404"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:15:59.092Z",
+      "msg": "OUTRA VENDA DEU A MESMA MENSAGEM"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:16:07.181Z",
+      "msg": "429/2"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:16:12.751Z",
+      "msg": "IGUAL"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:17:05.849Z",
+      "msg": "Um momento, por favor, já estamos verificando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:28.776Z",
+      "msg": "A Equipe Técnica encontrou um erro, eles já estão trabalhando na correção, mais alguns minutinhos já estará ok.\num momento, por favor."
+    }
+  ],
+  "domain": "tawk.to"
+}

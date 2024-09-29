@@ -1,0 +1,97 @@
+{
+  "id": "4d6cbd80-184a-11ea-864c-8bd71737f693",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Bety",
+    "id": "1f7402e30d92e63b9f15a34b99fb9d29a3f8e63594680f48be5b082c4fadd35b",
+    "email": "contabil@tecnology.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 8,
+  "chatDuration": 1027,
+  "rating": 0,
+  "createdOn": "2019-12-06T17:03:22.877Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:22.877Z",
+      "msg": "Nome : Bety\r\nE-mail/Usuário : contabil@tecnology.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:22.897Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:52.882Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:04:05.555Z",
+      "msg": "Oi, mesmo assunto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:04:14.824Z",
+      "msg": "preciso falar com João ou Vinícius"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:04:27.494Z",
+      "msg": "o escritório precisa de um retorno urgente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:05:38.282Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:18:39.521Z",
+      "msg": "Bety, um momento, por favor, estou tentando ligar no celular do João, mas ele não esta atendendo.\nVocê consegue nos repassar o problema para que possamos verificar e lhe auxiliar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:20:29.425Z",
+      "msg": "Consegue falar com ele agora, ele teve um imprevisto, mas já esta chegando na empresa."
+    }
+  ],
+  "domain": "tawk.to"
+}

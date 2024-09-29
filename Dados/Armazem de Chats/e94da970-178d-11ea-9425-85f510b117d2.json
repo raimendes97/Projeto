@@ -1,0 +1,346 @@
+{
+  "id": "e94da970-178d-11ea-9425-85f510b117d2",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Kelly",
+    "id": "81576fe70f26816010767fde54794545b777cff3724332157147b8e2729ed65b",
+    "email": "financeiro@milocca.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 35,
+  "chatDuration": 3018,
+  "rating": 0,
+  "createdOn": "2019-12-05T18:34:49.783Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:34:49.783Z",
+      "msg": "Nome : Kelly\r\nE-mail/Usuário : financeiro@milocca.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:34:49.803Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:35:37.226Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:36:00.120Z",
+      "msg": "Boa tarde, Kelly. Como posso te ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:36:36.426Z",
+      "msg": "prerciso do xml das seguintes notas fiscais: 2504/2 ; 2503/2;  2083/2"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:36:44.886Z",
+      "msg": "preciso*"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:36:59.227Z",
+      "msg": "Um momento, por favor! Vou solicitar ao pessoal da equipe técnica para que te auxiliem."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:37:11.831Z",
+      "msg": "ok obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:38:05.380Z",
+      "msg": "Olá, Kelly! :D"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:38:14.040Z",
+      "msg": "Não localizaste tais notas no  ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:39:01.735Z",
+      "msg": "não"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:39:29.944Z",
+      "msg": "Certo, queira aguardar um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:42:10.554Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "file",
+      "time": "2019-12-05T18:45:18.323Z",
+      "data": {
+        "uri": "https:/tawk.link/57c872ad1105e45f7b39ef32/a/57c9695e3149940f420acb6a/c725f7ae86ba45c95b5a4ae55db0a8813115734f/41191131632892000177650020000025049000053405-proc.xml",
+        "name": "41191131632892000177650020000025049000053405-proc.xml",
+        "mime": "text/xml"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:45:57.468Z",
+      "msg": "Na medida que acharmos as notas, vamos te enviando."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:48:36.037Z",
+      "msg": "Kelly, a nota 2503/2 foi inutilizada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:49:16.571Z",
+      "msg": "certo, teria um comprovante? ou xml mesmo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:50:04.178Z",
+      "msg": "Qual é o seu CNPJ, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "file",
+      "time": "2019-12-05T18:52:58.351Z",
+      "data": {
+        "uri": "https:/tawk.link/57c872ad1105e45f7b39ef32/a/57c9695e3149940f420acb6a/604033757a0878521adebaf909b152892ef981aa/image.png",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:53:01.249Z",
+      "msg": "Comprovante de inutilização."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:53:02.982Z",
+      "msg": "31.632.892/0001-77"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:53:17.360Z",
+      "msg": "Vou buscar a última nota, um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:53:36.880Z",
+      "msg": "A informação é advinda do site da Receita Estadual do Paraná."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:54:40.527Z",
+      "msg": "tá ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:54:44.330Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:59:40.238Z",
+      "msg": "Kelly, a nota de número 2083 também foi inutilizada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:00:05.037Z",
+      "msg": "Na verdade, sequer foi emitida."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:02:09.845Z",
+      "msg": "desta última tem como gerar o comprovante de inutilização?"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:02:09.859Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:03:54.025Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:04:16.501Z",
+      "msg": "Um momento por favor, vou verificar com o técnico que estava lhe atendendo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:07:00.065Z",
+      "msg": "Infelizmente, não. Não há a possibilidade pelo fato de não ter sido gerada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:07:45.839Z",
+      "msg": "Será necessário que você o inutilize, através do menu Vendas > Notas Eletrônicas > Inutilizações"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:10:39.046Z",
+      "msg": "entendi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:10:48.518Z",
+      "msg": "ok, muito obrigada !"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:10:59.867Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quinta-feira e uma boa semana para você."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:11:03.684Z",
+      "msg": "Avalie o Atendimento"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "66087570-1695-11ea-ae9d-ffcb83836162",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Leonardo",
+    "id": "683d05450e64b4ea648ae154000c61f0f8fe22edaf827424dc2d7f521e242b24",
+    "email": "ti.amai@outlook.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 15,
+  "chatDuration": 361,
+  "rating": 0,
+  "createdOn": "2019-12-04T12:55:54.690Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:55:54.690Z",
+      "msg": "Nome : Leonardo\r\nE-mail/Usuário : ti.amai@outlook.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:55:54.711Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:56:03.156Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:56:16.483Z",
+      "msg": "Bom dia Ana"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:57:31.086Z",
+      "msg": "Estou entrando em contato pois a Priscila me disse que ontem você efetuou acesso e foi necessário reinstalar o PDV"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:58:02.136Z",
+      "msg": "e que faltou efetuar o login com usurário de administrador"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:58:02.765Z",
+      "msg": "Pode nos passar um acesso do team viewer, por favor? Para finalizarmos o ajuste"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:59:12.962Z",
+      "msg": "no momento ela esta ocupada pois estamos em fechamento poderíamos realizar o acesso as 13:20 ??"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:59:57.843Z",
+      "msg": "Infelizmente não conseguimos acessar as 13:20hrs, pois estamos em nosso horário de intervalo das 12hrs até as 13:30hrs.\nPodemos marcar para as 13:30hrs, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:00:08.069Z",
+      "msg": "claro podemos sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:00:25.582Z",
+      "msg": "Combinado então! Aguardamos o contato para acessar e finalizar."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:01:31.802Z",
+      "msg": "certo obrigado"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "e8396510-16a2-11ea-8cee-13becb9c7223",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Marlos",
+    "id": "b4f4d2166b1f801fca51a17614377f4034ce7df59ae58ecfade6123909dd855d",
+    "email": "marlos@piratadolago.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Porto Alegre"
+  },
+  "messageCount": 17,
+  "chatDuration": 1504,
+  "rating": 0,
+  "createdOn": "2019-12-04T14:32:36.552Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:32:36.552Z",
+      "msg": "Nome : Marlos\r\nE-mail/Usuário : marlos@piratadolago.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:32:36.570Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:32:40.514Z",
+      "msg": "boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:32:59.351Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:33:04.688Z",
+      "msg": "o   tem parceria ou é compatível com qual empresa de TEF?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:36:33.366Z",
+      "msg": "Marlos, pedirei ao setor comercial entrar em contato neste chat contigo para explicar questões referentes ao TEF, além de seus respectivos valores."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:37:15.169Z",
+      "msg": "Bom dia Marlos, tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:37:30.416Z",
+      "msg": "Temos integração com o TEF da Software Express"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:38:32.751Z",
+      "msg": "ok.."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:39:03.967Z",
+      "msg": "Se precisar, posso te mandar mais informações por e-mail"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:39:30.873Z",
+      "msg": "quero saber como funciona e custo de implantação"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:39:49.805Z",
+      "msg": "pode ser por e-mail, por aqui, ou pelo whatsapp"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:39:55.984Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:41:51.346Z",
+      "msg": "Vou te detalhar todas as informações solicitadas por e-mail"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:41:57.095Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:42:00.256Z",
+      "msg": "me confirma seu endereço de e-mail, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:42:34.711Z",
+      "msg": "marlos@piratadolago.com.br"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:43:04.083Z",
+      "msg": "Ok Marlos, logo em seguida estará no seu e-mail"
+    }
+  ],
+  "domain": "tawk.to"
+}

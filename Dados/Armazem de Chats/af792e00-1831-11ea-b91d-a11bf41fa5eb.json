@@ -1,0 +1,129 @@
+{
+  "id": "af792e00-1831-11ea-b91d-a11bf41fa5eb",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Adriana",
+    "id": "1e61c053a664f68d08872d1e01c35d1ed6bf353d79a19b23aece2f5693ffbb0f",
+    "email": "adriana@studiobrazil.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 12,
+  "chatDuration": 684,
+  "rating": 0,
+  "createdOn": "2019-12-06T14:07:37.182Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:07:37.182Z",
+      "msg": "Nome : Adriana\r\nE-mail/Usuário : adriana@studiobrazil.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:07:37.232Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:07:58.405Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:08:29.973Z",
+      "msg": "Bom dia!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:12:20.074Z",
+      "msg": "Estou com problemas para emitir uma NF"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:12:28.556Z",
+      "msg": "Em nome de Sabrina, poderia verificar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:14:05.661Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:14:11.086Z",
+      "msg": "Apresenta erro na emissão, mas não a encontro para identificar o problema"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:16:15.358Z",
+      "msg": "Podemos tentar emitir por aqui? Para verificarmos o erro nos logs."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:17:54.155Z",
+      "msg": "SIm, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:18:12.835Z",
+      "msg": "mas por que não aparece pra mim? sempre dá certo, é a primeira vez que acontece isso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:18:39.838Z",
+      "msg": "Certo. Vamos verificar, um momento, por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:19:00.797Z",
+      "msg": "Obirgada"
+    }
+  ],
+  "domain": "tawk.to"
+}

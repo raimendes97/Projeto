@@ -1,0 +1,329 @@
+{
+  "id": "545574e0-1848-11ea-8b43-ed49d872d954",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Guilherme",
+    "id": "e6f70961fde3c8880311a9214409a97fb5e1134cbd51ea78247f48aea7a6c62c",
+    "email": "contato@eubenta.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Feliz"
+  },
+  "messageCount": 35,
+  "chatDuration": 1422,
+  "rating": 0,
+  "createdOn": "2019-12-06T16:49:30.775Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:49:30.775Z",
+      "msg": "Nome : Guilherme\r\nE-mail/Usuário : contato@eubenta.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:49:30.763Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:49:37.877Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:49:39.294Z",
+      "msg": "Boa tarde, estou precisando fazer uma troca"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:49:50.257Z",
+      "msg": "Preciso fazer uma devolução e depois uma nova venda, correto?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:50:58.493Z",
+      "msg": "Isso, exatamente.\nUma devolução marcando a Opção \"É uma troca?\"\nE depois passar uma venda nova, com a forma de Pagamento do Tipo Vale Troca, para o valor que anteriormente o cliente já pagou, para não cobrar novamente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:51:56.379Z",
+      "msg": "Mas o cliente trocou por um produto de valor superior"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:51:58.807Z",
+      "msg": "Mesma coisa?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:53:25.904Z",
+      "msg": "No \"gerar nf-e?\" coloco não?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:53:40.740Z",
+      "msg": "Isso, você passo o  que ele já pagou com a forma de pagamento de Vale-Troca e depois seleciona outra forma de Pagamento para passar o valor que faltou."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:54:06.461Z",
+      "msg": "Sim, pode colocar Não, para salvar a nota no sistema, caso apresente alguma mensagem na tela. Depois pode Gerar ela."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:55:32.794Z",
+      "msg": "Eu coloco salvar, mas não muda nada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:56:19.573Z",
+      "msg": "Você já salvou a nota? Pode clicar então em Gerar NFe."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:57:13.646Z",
+      "msg": "não, sim ou nf-e já emitida?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:58:05.548Z",
+      "msg": "Em Não, por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:00:52.660Z",
+      "msg": "salva e não muda nada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:01:07.564Z",
+      "msg": "a venda continua aparecendo, não aparece em devoluções"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:02:21.579Z",
+      "msg": "Não esta aparecendo a nota de troca em Vendas > devoluções?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:02:44.802Z",
+      "msg": "não"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:10.162Z",
+      "msg": "ah"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:12.285Z",
+      "msg": "agora apareceu"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:14.634Z",
+      "msg": "o que faço agora?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:47.052Z",
+      "msg": "você apenas clique para gerar a nota, quando ela abrir na tela, clicar no botão para Gerar a Nfe dentro dela novamente que emitirá com sucesso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:07:10.662Z",
+      "msg": "eu clico  e só abre os detalhes da devolução"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:07:12.779Z",
+      "msg": "é isso?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T17:07:56.967Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:07:58.994Z",
+      "msg": "Eu não tenho as informações do cliente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:09:05.486Z",
+      "msg": "Você cadastrou esse cliente no sistema? Precisa ter o cadastro completo dele, para que você possa emitir a nota de devolução, senão a sefaz rejeita."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T17:09:51.062Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:09:51.499Z",
+      "msg": "Não foi isso que o João tinha me passo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:09:54.163Z",
+      "msg": "passado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:11:25.162Z",
+      "msg": "Peço desculpas, acredito que o João não tenha se expressado bem, mas o cliente precisa ser pelo menos nome, CPF e endereço cadastrados, para que a sefaz aceite a nota."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:12:16.687Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:12:17.686Z",
+      "msg": "obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:13:06.945Z",
+      "msg": "Imagina!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:13:13.129Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

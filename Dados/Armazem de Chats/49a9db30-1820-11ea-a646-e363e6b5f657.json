@@ -1,0 +1,173 @@
+{
+  "id": "49a9db30-1820-11ea-a646-e363e6b5f657",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Luana",
+    "id": "065aacd78405dc4569670543fc84eabc1630456b5714a5b941e0d7627109c27b",
+    "email": "financeiro@lcrodas.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São José dos Campos"
+  },
+  "messageCount": 13,
+  "chatDuration": 386,
+  "rating": 1,
+  "createdOn": "2019-12-06T12:02:54.454Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:02:54.454Z",
+      "msg": "Nome : Luana\r\nE-mail/Usuário : financeiro@lcrodas.com\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:02:54.473Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:03:02.684Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:03:28.054Z",
+      "msg": "Ana bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:03:39.957Z",
+      "msg": "vou encaminhar o comprovante de pagamento do boleto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:03:55.666Z",
+      "msg": "certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T12:04:12.384Z",
+      "data": {
+        "uri": "https",
+        "name": " .pdf",
+        "mime": "application/pdf"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:04:37.058Z",
+      "msg": "pode dar baixa pra mim por favor,e fazer a liberação"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:04:44.587Z",
+      "msg": "Sim, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:04:47.195Z",
+      "msg": ":grin:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:08:24.430Z",
+      "msg": "Prontinho! Por favor, dar um CTRL + F para atualizar a página, deve abrir com sucesso.:blush:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:08:42.940Z",
+      "msg": "obrigada e desculpas pelo atraso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:08:59.651Z",
+      "msg": "Imagina! Não tem problema!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:09:02.761Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-06T12:09:12.662Z",
+      "data": {
+        "rating": 1
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-06T12:09:12.851Z",
+      "data": {
+        "rating": 0
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-06T12:09:13.025Z",
+      "data": {
+        "rating": 1
+      }
+    }
+  ],
+  "domain": "tawk.to"
+}

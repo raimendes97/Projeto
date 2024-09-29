@@ -1,0 +1,97 @@
+{
+  "id": "51ddb070-177f-11ea-b7ec-af6633e95651",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "EDUARDO",
+    "id": "7ecbe2f2ce777f0752a9a22124ba1db2018cac232a1429bad6690c685c914fc7",
+    "email": "FINANCEIRO@ARTPORTAS.COM.BR"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Santa Barbara d'Oeste"
+  },
+  "messageCount": 12,
+  "chatDuration": 640,
+  "rating": 0,
+  "createdOn": "2019-12-05T16:50:28.370Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:50:28.370Z",
+      "msg": "Nome : EDUARDO\r\nE-mail/Usuário : FINANCEIRO@ARTPORTAS.COM.BR\r\nDepartamento : Comercial"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:50:28.405Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:50:40.222Z",
+      "msg": "BOA TARDE TEM COMO CRIAR KITS DENTRO NO PEDIDO DE VENDA"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:50:58.551Z",
+      "msg": "TRABALHO COM KIT MONTADOS (PRODUTOS JUNTOS COM M.OBRA DE MONTAGEM)"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:51:29.618Z",
+      "msg": "Boa tarde, Eduardo. Tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:52:20.698Z",
+      "msg": "Um momento, por favor! Vou verificar essa informação com a equipe técnica."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:15.511Z",
+      "msg": "Eduardo, estamos desenvolvendo a questão de kits, mas não temos como atender na parte de serviços!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:00:42.358Z",
+      "msg": "EENTENDI"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:01:08.450Z",
+      "msg": "Posso te ajudar com mais alguma questão, Eduardo?"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "89ffb0e0-184f-11ea-8733-151b3236b54a",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Marisol",
+    "id": "e5b0c37b56571317c9a9e26aa2df6dec97894e995372afcb29be43b0671611b6",
+    "email": "linguadetrapokids@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Porto Alegre"
+  },
+  "messageCount": 9,
+  "chatDuration": 2772,
+  "rating": 0,
+  "createdOn": "2019-12-06T17:40:54.541Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:40:54.541Z",
+      "msg": "Nome : Marisol\r\nE-mail/Usuário : linguadetrapokids@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:40:54.518Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:41:00.831Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:42:30.048Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:42:52.735Z",
+      "msg": "Preciso do relatório de posição de estoque do mês de novembro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:43:52.268Z",
+      "msg": "Aliás, preciso desse relatório todos os meses, tem como consultar em algum lugar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:43:59.431Z",
+      "msg": "Você consegue abrir um chamado solicitando, por favor? Para que a equipe técnica possa realizar a extração dos dados e lhe passar."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:44:00.102Z",
+      "msg": "http"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:44:11.727Z",
+      "msg": "Infelizmente ainda não temos disponível no sistema"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:44:27.407Z",
+      "msg": "Seria necessário abrir um Chamado solicitando sempre que você precisar"
+    }
+  ],
+  "domain": "tawk.to"
+}

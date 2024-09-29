@@ -1,0 +1,105 @@
+{
+  "id": "da954e60-1797-11ea-bb0d-d99666436fb9",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Renata",
+    "id": "17ea86e63c160700e1f1406a0dda0fa6a62830dc8104578f1600aa2e240258a4",
+    "email": "renatarech@terra.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 9,
+  "chatDuration": 203,
+  "rating": 0,
+  "createdOn": "2019-12-05T19:45:59.326Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:45:59.326Z",
+      "msg": "Nome : Renata\r\nE-mail/Usuário : renatarech@terra.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:45:59.343Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:46:05.820Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:46:08.267Z",
+      "msg": "oi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:46:27.638Z",
+      "msg": "caiu o chat e não consegui visualizar o retorno"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:46:43.664Z",
+      "msg": "Renata, irei transcrever o que foi escrito pela nossa colega Ana: \"Renata, conseguimos emitir a nota de devolução de Compra para a G PANIZ INDUSTRIA DE EQUIPAMENTOS PARA ALIMENTACAO LTDA. Identificamos que a Natureza da Operação chamada de \"Devolução\" estava marcada que o Destinatário erara Cliente, alteramos para Fornecedor e a nota emitiu com sucesso.\nRemovemos a outra nota que esta com erro já da sua tela e deixamos somente a nota emitida.\nSó peço, por favor, para acessar em Cadastro > Fiscal > Natureza da Operação, e nesta chamado \"Devolução\", verificar se para as proximas notas ela deve ser para Cliente ou fornecedor.\""
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:48:12.366Z",
+      "msg": "otimo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:48:17.096Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:48:22.955Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quinta-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:48:24.010Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

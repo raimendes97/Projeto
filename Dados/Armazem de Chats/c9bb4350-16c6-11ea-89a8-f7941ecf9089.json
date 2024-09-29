@@ -1,0 +1,260 @@
+{
+  "id": "c9bb4350-16c6-11ea-89a8-f7941ecf9089",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "mayara",
+    "id": "8cbaf32736405cfd16df6f642505d22df07e5ca34f19e15d9c4cd0a9c364d4ec",
+    "email": "gerencia@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 26,
+  "chatDuration": 1421,
+  "rating": 0,
+  "createdOn": "2019-12-04T18:49:26.672Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:49:26.672Z",
+      "msg": "Nome : mayara\r\nE-mail/Usuário : gerencia@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:49:26.726Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:49:50.894Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:49:59.944Z",
+      "msg": "SIM kkk"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:50:13.007Z",
+      "msg": "o numero so voucher não está correspondendo ao cliente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:50:45.102Z",
+      "msg": "vc poderia me confirmar se é esse mesmo o da cliente Ana Carolina: ZSPIRYCF"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:51:13.474Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:52:28.141Z",
+      "msg": "Sim, seria dela."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-04T18:52:31.960Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:52:47.628Z",
+      "msg": "Esta apresentando alguma mensagem quando você tenta passar a venda com o voucher?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T18:54:29.808Z",
+      "data": {
+        "uri": "https",
+        "name": "Sem título.....png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:56:38.516Z",
+      "msg": "Pode nos passar um acesso do team viewer, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:56:56.636Z",
+      "msg": "ANYDESK 603 572 899"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:57:19.509Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:57:25.186Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:01:05.132Z",
+      "msg": "Pode aceitar o acesso, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:02:48.609Z",
+      "msg": "Você precisa iniciar a venda selecionando a cliente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:02:57.107Z",
+      "msg": "para que você possa usar o voucher dela"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:03:15.931Z",
+      "msg": "senão ele não permite. se não houver cliente selecionado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:04:25.698Z",
+      "msg": "ESQUECEMOS DESSE DETALHE"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:04:58.818Z",
+      "msg": "Não tem problema"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:05:25.829Z",
+      "msg": "Pode tentar com a cliente selecionada e me avisar se deu certo, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:08:47.283Z",
+      "msg": "deu sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:08:58.644Z",
+      "msg": "obg"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:09:08.467Z",
+      "msg": "vamos tentar fazer a outra agora"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:12:48.571Z",
+      "msg": "Imagina! Disponha!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:13:07.742Z",
+      "msg": "Qualquer dúvida estamos a disposição!"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "f63269d0-182f-11ea-a646-e363e6b5f657",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Ana",
+    "id": "64f0b3534ff647ccf8573734209fe2a7174ed264fe47bfb3374935a4172f3f07",
+    "email": "Ana@toccoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 8,
+  "chatDuration": 1828,
+  "rating": 0,
+  "createdOn": "2019-12-06T13:54:50.227Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:54:50.227Z",
+      "msg": "Nome : Ana\r\nE-mail/Usuário : Ana@toccoli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:54:50.247Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:54:58.455Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:55:53.536Z",
+      "msg": "Bom dia, nossa o sistema está muito lento. Estou na base Plus, acessando a LA CASAS para fazer baixa pelo programa Fluxo de Caixa e está impossível."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:56:56.247Z",
+      "msg": "Agora até deu uma normalizada, mas a 5 minutos atras, meu Deus"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:58:18.726Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:19:20.460Z",
+      "msg": "Pedimos desculpas pelo transtorno! Realizamos um ajuste, não deve mais apresentar lentidão."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:24:09.902Z",
+      "msg": "Certo, obrigado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:25:13.124Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

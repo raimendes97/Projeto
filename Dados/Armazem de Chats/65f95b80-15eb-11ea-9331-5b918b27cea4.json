@@ -1,0 +1,122 @@
+{
+  "id": "65f95b80-15eb-11ea-9331-5b918b27cea4",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "ADRIANO",
+    "id": "e9a37a08ecebb31316757fb4458ae341a7699d2c58e5bae4b18e2ca45ae63f10",
+    "email": "ADRIANO@toccoli.COM.BR"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 18,
+  "chatDuration": 854,
+  "rating": 0,
+  "createdOn": "2019-12-03T16:39:03.267Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:39:03.267Z",
+      "msg": "Nome : ADRIANO\r\nE-mail/Usuário : ADRIANO@toccoli.COM.BR\r\nDepartamento : Comercial"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:39:03.286Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:39:31.554Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:39:54.829Z",
+      "msg": "boa tarde conseguil ver sobre a emisão da nota da venda 206 - 252"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:40:09.310Z",
+      "msg": "pois tentei emitir a nota njovamente e não deu"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:40:45.835Z",
+      "msg": "Certo, me confirma, por favor em qual Loja você esta tentando emitir?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:40:54.662Z",
+      "msg": "206 moreira"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:41:06.818Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:41:14.839Z",
+      "msg": "a nota de entrega desta venda não emite para entregar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:43:44.449Z",
+      "msg": "Podemos tentar emitir a nota do pedido 252 por aqui?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:51:28.942Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:53:16.770Z",
+      "msg": "Certo. Vamos verificar, um momento, por favor"
+    }
+  ],
+  "domain": "tawk.to"
+}

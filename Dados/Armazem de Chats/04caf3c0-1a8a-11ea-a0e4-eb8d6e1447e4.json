@@ -1,0 +1,400 @@
+{
+  "id": "04caf3c0-1a8a-11ea-a0e4-eb8d6e1447e4",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "LeoNeffa",
+    "id": "43634e7815b0e4123ff0e278f5cf0a5703f5be19d2b8443fc27a83a431ad1ede",
+    "email": "leonardoneffa@emporiumpax.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rio de Janeiro"
+  },
+  "messageCount": 44,
+  "chatDuration": 3392,
+  "rating": 0,
+  "createdOn": "2019-12-09T13:44:51.589Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:44:51.589Z",
+      "msg": "Nome : LeoNeffa\r\nE-mail/Usuário : leonardoneffa@emporiumpax.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:44:51.672Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:45:02.671Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:45:04.155Z",
+      "msg": "Bom dia."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:45:29.817Z",
+      "msg": "teria como verificar se a emissão de NF pelo   está ok?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:45:49.464Z",
+      "msg": "não estamos conseguindo emitir NF"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:45:59.725Z",
+      "msg": "Esta apresentando alguma mensagem de erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:46:09.840Z",
+      "msg": "um min"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:49:30.806Z",
+      "msg": "\"Falha ao emitir a Nota Fiscal. Utilize o menu \"Notas Fiscais\" para visualizar o status da emissão.\""
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:49:44.071Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:49:47.259Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:52:22.897Z",
+      "msg": "Pode atualizar a página e tentar emitir as notas novamente, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:52:33.926Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:52:36.351Z",
+      "msg": "um min"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:52:40.905Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:57:22.332Z",
+      "msg": "nada... tentei emitir as NF dos pedidos  22600 e 22601"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:57:30.181Z",
+      "msg": "sem sucesso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:58:15.434Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:58:23.860Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:58:33.904Z",
+      "msg": "Fala, Leo. Sandro aqui, tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:58:36.522Z",
+      "msg": "Vamos dar uma olhadinha!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:58:40.883Z",
+      "msg": "Já resolveram o problema da Charlotte no FISCO?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:58:52.024Z",
+      "msg": "Fala Sandro... blz?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:58:58.364Z",
+      "msg": "Beleza e por aí?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:59:04.073Z",
+      "msg": "tudo indo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:59:23.998Z",
+      "msg": "vou verificar se resolveram, um min"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:00:14.894Z",
+      "msg": "mas vc acha que é por isso que não emite, correto?  o problema com o fisco..."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:00:46.027Z",
+      "msg": "Anteriormente, houve um erro com a nota referente ao FISCO."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:00:50.162Z",
+      "msg": "Mas, um instante, vou me certificar."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:00:54.415Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:02:25.667Z",
+      "msg": "Leo, tu pode entrar em contato com a contabilidade para verificar qual foi a última numeração de nota fiscal gerada pelo CNPJ da Charlotte?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:03:23.902Z",
+      "msg": "essa informação que você quer não estaria aqui mesmo no  ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:03:49.228Z",
+      "msg": "provavelmente eles vão querer que eu pergunte isso a vocês rsrs"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:06:01.992Z",
+      "msg": "Então, Leo, de acordo com o  , a última nota gerada foi a 21163"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:06:15.313Z",
+      "msg": "Trocamos o Modelo Fiscal com o intuito de averiguar, contudo, não foi possível."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:07:12.978Z",
+      "msg": "Acredito que vocês tentaram emitir algumas notas, e por estarem com problemas no FISCO, elas acabaram sendo denegadas e a numeração foi pulada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:08:32.615Z",
+      "msg": "2116232323, correto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:09:03.998Z",
+      "msg": "se tentarmos pular uma numeração sereá que daria certo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:10:10.186Z",
+      "msg": "Então, nós realizamos este processo. Contudo, como disse anteriormente, acredito veementemente que houveram inúmeras tentativas de emissão e, por subsequência, as numerações foram puladas na SEFAZ, mas não no  ."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:10:22.627Z",
+      "msg": "Sendo assim, o ideal seria buscar a numeração de TODAS as notas emitidas na SEFAZ, inclusive as que foram denegadas."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:12:28.132Z",
+      "msg": "ah, ok.  Realmente vc está certo, só o contador para ter acesso as notas emitidas no SEFAZ, acredito eu.  Vou solicitar..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:24:30.549Z",
+      "msg": "fiz a solicitação da numeração das notas mas acho que vai demorar para responderem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:25:23.147Z",
+      "msg": "a gente pode continuar no whatsapp, sepude.  acionei o suporte por aqui porque foi no automático... rs"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:26:30.530Z",
+      "msg": "Sim, me manda lá."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:30:40.050Z",
+      "msg": "show! vlw! abs"
+    }
+  ],
+  "domain": "tawk.to"
+}

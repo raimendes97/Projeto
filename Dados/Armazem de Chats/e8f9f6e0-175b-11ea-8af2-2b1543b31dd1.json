@@ -1,0 +1,79 @@
+{
+  "id": "e8f9f6e0-175b-11ea-8af2-2b1543b31dd1",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Lucas",
+    "id": "bf3d301f1306457298b01158463ad9d78af411b235de6eb741541aea39d8e4d7",
+    "email": "santabirra@hotmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 11,
+  "chatDuration": 618,
+  "rating": 0,
+  "createdOn": "2019-12-05T12:36:54.910Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T12:36:54.910Z",
+      "msg": "Nome : Lucas\r\nE-mail/Usuário : santabirra@hotmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T12:36:54.927Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T12:37:06.111Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T12:37:19.928Z",
+      "msg": "Bom dia, tudo bem?\nNão esta funcionando nos PC"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T12:37:28.946Z",
+      "msg": "Só carrega, mas não consigo fazer nada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T12:37:42.431Z",
+      "msg": "Erro: 504"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T12:38:06.665Z",
+      "msg": "Certo. O acesso ao ERP?"
+    }
+  ],
+  "domain": "tawk.to"
+}

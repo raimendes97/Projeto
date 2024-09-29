@@ -1,0 +1,105 @@
+{
+  "id": "e6174fd0-184c-11ea-b578-698d3193a4a0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Livia",
+    "id": "8576d14f1fe3e0862d814fa3164267ea3b90b6de23943bfe18112aa368b14229",
+    "email": "cruzalta@cavernadodino.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Cruz Alta"
+  },
+  "messageCount": 9,
+  "chatDuration": 1158,
+  "rating": 0,
+  "createdOn": "2019-12-06T17:21:59.286Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:21:59.286Z",
+      "msg": "Nome : Livia\r\nE-mail/Usuário : cruzalta@cavernadodino.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:21:59.290Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:26:14.169Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:26:34.629Z",
+      "msg": "Boa Tarde... Body Rn ao G ref 44201 está dando como não encontrada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:27:05.571Z",
+      "msg": "Mesmo tendo cadastro com os códigos 5152032 ao 5152035"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:27:18.537Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:28:09.590Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:32:34.001Z",
+      "msg": "Pode me passar um acesso do team viewer ao seu PDV, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:40:56.380Z",
+      "msg": "473 395 311"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:41:17.743Z",
+      "msg": "Vamos conectar"
+    }
+  ],
+  "domain": "tawk.to"
+}

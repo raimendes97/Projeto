@@ -1,0 +1,104 @@
+{
+  "id": "3b420460-1a8b-11ea-a374-53c88826e215",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Livia",
+    "id": "8576d14f1fe3e0862d814fa3164267ea3b90b6de23943bfe18112aa368b14229",
+    "email": "cruzalta@cavernadodino.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Cruz Alta"
+  },
+  "messageCount": 9,
+  "chatDuration": 522,
+  "rating": 0,
+  "createdOn": "2019-12-09T13:53:11.023Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:53:11.023Z",
+      "msg": "Nome : Livia\r\nE-mail/Usuário : cruzalta@cavernadodino.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:53:11.039Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:53:14.142Z",
+      "msg": "?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:53:16.810Z",
+      "msg": "caiu a chate"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:53:22.714Z",
+      "msg": "mas estamos com o cx parado ainda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:53:34.984Z",
+      "msg": "tende a demorar ainda esste atendimento?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:54:01.816Z",
+      "msg": "Estamos sincronizando tudo nele, ainda demora um pouquinho sem poder usar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:54:13.243Z",
+      "msg": "Você pode ir passando no outro caixa por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:00:09.026Z",
+      "msg": "Caso, caia o chat, consegue entrar novamente, por favor? Estamos acompanhando a sincronização"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:01:52.644Z",
+      "msg": "ok"
+    }
+  ],
+  "domain": "tawk.to"
+}

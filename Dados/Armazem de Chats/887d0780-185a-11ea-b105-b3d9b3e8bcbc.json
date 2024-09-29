@@ -1,0 +1,328 @@
+{
+  "id": "887d0780-185a-11ea-b105-b3d9b3e8bcbc",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Guilherme",
+    "id": "e6f70961fde3c8880311a9214409a97fb5e1134cbd51ea78247f48aea7a6c62c",
+    "email": "contato@eubenta.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Feliz"
+  },
+  "messageCount": 34,
+  "chatDuration": 5327,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:59:34.371Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:59:34.371Z",
+      "msg": "Nome : Guilherme\r\nE-mail/Usuário : contato@eubenta.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:59:34.387Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:00:03.485Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:00:10.771Z",
+      "msg": "Está dando esse problema em um pdv que estou fazendo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:00:13.733Z",
+      "msg": "o que pode serw"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T19:00:24.427Z",
+      "data": {
+        "uri": "https",
+        "name": "WhatsApp Image 2019-12-06 at 16.56.13.jpeg",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:02:49.398Z",
+      "msg": "Pode nos passar um acesso do team viewer, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:07:46.119Z",
+      "msg": "id 1 518 324 382"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:07:52.956Z",
+      "msg": "senha h1x1j3"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:08:02.106Z",
+      "msg": "não estou no computador, se precisar de alguma coisa me avisa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:08:27.484Z",
+      "msg": "Certo, vamos conectar, um momento por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:14:30.278Z",
+      "msg": "Consegue fechar o team viewer e abrir novamente, por favor? esta dando erro, como se ele não estivesse aberto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-06T19:14:39.269Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:15:40.375Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:17:04.911Z",
+      "msg": "1 518 324 382\n9mts82"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:17:56.347Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:19:02.218Z",
+      "msg": "Deu o mesmo problema. Você consegue, tentar faze ro download do Anydesk e nos passar o acesso, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:19:03.027Z",
+      "msg": "windows"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:19:18.530Z",
+      "msg": "Ele é semelhante ao team viewer, porém, é gratuito"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:27:58.304Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:36:15.317Z",
+      "msg": "429 369 500"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:36:30.798Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:38:55.992Z",
+      "msg": "Pode clicar em aceitar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:41:08.433Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:41:22.328Z",
+      "msg": "Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:45:35.423Z",
+      "msg": "Caiu nosso acesso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:45:39.919Z",
+      "msg": "vamos conectar novamente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:45:46.929Z",
+      "msg": "você consegue aceitar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:59:09.130Z",
+      "msg": "Pode tentar passar a venda novamente, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:59:25.972Z",
+      "msg": "Realizamos uma atualização com a correção deste problema."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:59:37.277Z",
+      "msg": "ok, a funcionária está em atendimento, assim que liberar ela vai tentar novamente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:59:45.124Z",
+      "msg": "Certo, obrigada, ficamos no aguardo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:27:49.943Z",
+      "msg": "Deu certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:27:51.213Z",
+      "msg": "Obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:28:21.509Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

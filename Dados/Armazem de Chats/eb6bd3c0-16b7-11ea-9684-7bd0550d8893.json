@@ -1,0 +1,240 @@
+{
+  "id": "eb6bd3c0-16b7-11ea-9684-7bd0550d8893",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "mayara",
+    "id": "8cbaf32736405cfd16df6f642505d22df07e5ca34f19e15d9c4cd0a9c364d4ec",
+    "email": "gerencia@estudiopapel.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 30,
+  "chatDuration": 1813,
+  "rating": 0,
+  "createdOn": "2019-12-04T17:03:10.241Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:03:10.241Z",
+      "msg": "Nome : mayara\r\nE-mail/Usuário : gerencia@estudiopapel.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:03:10.333Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:03:18.636Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:03:37.970Z",
+      "msg": "Olá, boa tarde. Como posso fazer uma troca no nosso sistema de outra loja?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:04:30.380Z",
+      "msg": "Para realizar uma devolução, é necessário ir em Vendas > Devoluções, clicar no botão arredondado chamado \"Adicionar\", preencher as informações e se a nota for emitida por outro sistema, você clica no botão \"Nota de Outro Sistema\"."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:05:05.997Z",
+      "msg": "Fizemos esse procedimento. Mas pede chave da nota e e número de caixa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:06:09.389Z",
+      "msg": "Vocês não têm tais informações? Ledo engano, a chave de acesso, por exemplo, é pública."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:06:43.177Z",
+      "msg": "nao entendi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:07:09.773Z",
+      "msg": "essa devolucao veio de outra loja nossa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:07:30.293Z",
+      "msg": "Certo. Mas, a nota fiscal teve um caixa que a emitiu e uma chave de acesso, correto?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:08:02.428Z",
+      "msg": "temos em maos o numero do cupom e a série"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:08:09.541Z",
+      "msg": "e os dados da cliente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:08:22.635Z",
+      "msg": "Poderia nos passar, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:11:30.377Z",
+      "msg": "Número do cupom: 005602  Série:000524568 Nome da cliente: Ana Carolina Nalini CPF: 22420698886"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:11:51.259Z",
+      "msg": "Anydesk: 608472899"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:12:41.939Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:12:50.530Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:13:01.780Z",
+      "msg": "Vocês têm o XML deste arquivo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:13:25.476Z",
+      "msg": "o que XML?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:13:57.554Z",
+      "msg": "Precisamos da chave deste cupom. Vamos procurar nos portais, um instante."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:14:18.058Z",
+      "msg": "A CHAVE NAO TEMOS"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:18:53.026Z",
+      "msg": "Estamos procurando."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:22:09.720Z",
+      "msg": "Mayara, esta é a chave de acesso: 000000000000"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:22:12.706Z",
+      "msg": "O caixa pode deixar como 1."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:23:13.059Z",
+      "msg": "OK"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:23:19.949Z",
+      "msg": "VAMOS TENTAR FAZER"
+    }
+  ],
+  "domain": "tawk.to"
+}

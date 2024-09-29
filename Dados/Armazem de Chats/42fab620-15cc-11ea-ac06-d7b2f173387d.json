@@ -1,0 +1,184 @@
+{
+  "id": "42fab620-15cc-11ea-ac06-d7b2f173387d",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Josiele",
+    "id": "8086d98a6d09e52f0fd5bc9e685b14de20ca9b6f135565e65609f5a169caae71",
+    "email": "alvorada@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Alvorada"
+  },
+  "messageCount": 18,
+  "chatDuration": 1079,
+  "rating": 0,
+  "createdOn": "2019-12-03T12:56:07.705Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:56:07.705Z",
+      "msg": "Nome : Josiele\r\nE-mail/Usuário : alvorada@verdeb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:56:08.071Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:56:14.142Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:56:20.337Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:56:52.613Z",
+      "msg": "Entrou por engano uma nota de devolução de terceiros no sistema. Teria como cancelar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:57:05.780Z",
+      "msg": "Claro, Josiele. Tens o número da nota? (:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:57:47.267Z",
+      "msg": "1004/1"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:58:17.250Z",
+      "msg": "Essa é o numero de devolução"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:58:37.476Z",
+      "msg": "depois tem o numero de venda 15897/2"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:58:43.331Z",
+      "msg": "Certo, e qual deveria ser cancelada?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T12:58:55.012Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:59:04.676Z",
+      "msg": "Essa nota de terceiros"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:59:19.572Z",
+      "msg": "não sei qual o numero correto a te passar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:02:32.500Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:04:09.443Z",
+      "msg": "Josiele, preciso que você faça um pedido faturado (sem emitir a nota) e, depois disso, faça a devolução deste pedido."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:04:14.830Z",
+      "msg": "Gerando a NF-e"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:04:27.762Z",
+      "msg": "Esta é uma funcionalidade nova."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:13:46.809Z",
+      "msg": "Como seria isso?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:14:06.404Z",
+      "msg": "Tens como me enviar o passo a passo"
+    }
+  ],
+  "domain": "tawk.to"
+}

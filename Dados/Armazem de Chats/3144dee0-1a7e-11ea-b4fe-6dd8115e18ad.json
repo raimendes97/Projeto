@@ -1,0 +1,113 @@
+{
+  "id": "3144dee0-1a7e-11ea-b4fe-6dd8115e18ad",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Livia",
+    "id": "8576d14f1fe3e0862d814fa3164267ea3b90b6de23943bfe18112aa368b14229",
+    "email": "cruzalta@cavernadodino.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Cruz Alta"
+  },
+  "messageCount": 10,
+  "chatDuration": 253,
+  "rating": 0,
+  "createdOn": "2019-12-09T12:19:51.573Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:19:51.573Z",
+      "msg": "Nome : Livia\r\nE-mail/Usuário : cruzalta@cavernadodino.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:19:51.606Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:19:58.005Z",
+      "msg": "Bom dia!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:20:07.946Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:20:08.568Z",
+      "msg": "As vendas de sexta e sababdo não aparecem no sistema"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:20:27.607Z",
+      "msg": "Em qual caixa esta ocorrendo esse problema?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:20:40.330Z",
+      "msg": "473 307 372"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:20:42.477Z",
+      "msg": "cx02"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:20:46.310Z",
+      "msg": "acima o acesso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:21:01.559Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:24:04.445Z",
+      "msg": "O Técnico já vai conectar, um segundo, por favor"
+    }
+  ],
+  "domain": "tawk.to"
+}

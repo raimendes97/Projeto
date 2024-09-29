@@ -1,0 +1,299 @@
+{
+  "id": "44e8d740-184d-11ea-9d93-1b40c69cfed0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "KELLY",
+    "id": "57e9aff8c63bd5f4a9363c9a97072ad5d70b21b32d47b466f2f5745c0546560b",
+    "email": "voltaredonda@cavernadodino.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Volta Redonda"
+  },
+  "messageCount": 31,
+  "chatDuration": 3478,
+  "rating": 0,
+  "createdOn": "2019-12-06T17:43:35.436Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:43:35.436Z",
+      "msg": "Nome : KELLY\r\nE-mail/Usuário : voltaredonda@cavernadodino.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:43:35.461Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:43:43.835Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:43:49.642Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:43:56.886Z",
+      "msg": "preciso finalizar um pedido que tá dando erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T17:44:05.905Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:44:44.902Z",
+      "msg": "Um momento, por favor vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:51:35.100Z",
+      "msg": "Você pode tentar finalizar ela novamente, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:51:57.656Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:52:03.855Z",
+      "msg": "carregando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:53:08.742Z",
+      "msg": "Certo. Vamos ver se finaliza com sucesso agora"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T17:53:55.344Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:54:09.622Z",
+      "msg": "Um segundo, por favorm vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:57:51.077Z",
+      "msg": "Kelly, tem muitos itens neste pedido de Compra? Você sabe me dizer mais ou menos quantos produtos tem nela?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:02:01.418Z",
+      "msg": "não sei amigo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:02:04.619Z",
+      "msg": "vou olhar aqui"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:02:13.716Z",
+      "msg": "certo, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:02:20.738Z",
+      "msg": "137 peças"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:02:54.949Z",
+      "msg": "18 itens"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:03:36.804Z",
+      "msg": "Perfeito! Um segundo, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:08:11.899Z",
+      "msg": "Você consegue, por favor, criar dois pedidos de compra? Para dividir a quantidade de itens, pois devido ao número muito grande de produtos, o sistema não esta conseguindo processar e apresenta essa mensagem de erro."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:13:43.865Z",
+      "msg": "gente não é possível já fiz pedidos muito maiores e não teve problema"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:13:51.892Z",
+      "msg": "tenho certeza que não é isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:14:03.692Z",
+      "msg": "não tenho como enviar 2 pedidos ao fornecedor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:15:05.218Z",
+      "msg": "Um momento, por favor, a Equipe Técnica vai verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:32:05.737Z",
+      "msg": "Kelly pedimos desculpas pelo transtorno! Você pode sair desta página, e entrar novamente, por favor?\nPor mais que tenha dado o erro 504, ele criou várias vezes a OC, estamos excluindo as outras, vamos deixar somente uma, para ficar certinho."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:34:11.415Z",
+      "msg": "vou deixar pra lá"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:34:14.624Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:35:05.649Z",
+      "msg": "Deixamos ela criada corretamente na tela de pedidos de compra para você, já esta certinha."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:35:11.096Z",
+      "msg": "Imagina! Disponha!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:40:57.421Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:41:30.857Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

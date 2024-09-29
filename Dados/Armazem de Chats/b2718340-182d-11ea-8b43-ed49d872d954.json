@@ -1,0 +1,195 @@
+{
+  "id": "b2718340-182d-11ea-8b43-ed49d872d954",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Ezequiel Oliveria",
+    "id": "374d558b553917933a5150027096b0bd0e63db430787d3e5d21f23214a779d97",
+    "email": "contato@moda.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Uberlândia"
+  },
+  "messageCount": 18,
+  "chatDuration": 2194,
+  "rating": 0,
+  "createdOn": "2019-12-06T13:38:36.356Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:38:36.356Z",
+      "msg": "Nome : Ezequiel Oliveria\r\nE-mail/Usuário : contato@moda.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:38:36.376Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:38:41.049Z",
+      "msg": "Bo mdia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:38:46.169Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T13:39:07.813Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:39:20.167Z",
+      "msg": "Por que esse pedido esta no nome de Selma?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T13:39:31.280Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:39:38.485Z",
+      "msg": "Na rakuton esta no nome de Paulo Sergio"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:39:39.193Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:40:30.204Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:53:51.950Z",
+      "msg": "Ezequiel, identificamos que ocorreu essa situação pois os dois clientes tem o CPF igual, então o   não cadastrou um novo cliente com o nome de Paulo, pois o CPF dele já existia no   com o nome da Selma. Você consegue verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:56:07.680Z",
+      "msg": "Qual o cpf cadastrado?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T13:56:28.600Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:58:05.894Z",
+      "msg": "Isso, esse CPF estava cadastrado já anteriormente no nome de Selma, no seu   Web."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-06T13:58:09.730Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:13:47.629Z",
+      "msg": "Que candeira"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:13:51.286Z",
+      "msg": "Canseira"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:13:58.189Z",
+      "msg": "Vou alterar o cadastro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T14:15:10.101Z",
+      "msg": "Certo, por favor."
+    }
+  ],
+  "domain": "tawk.to"
+}

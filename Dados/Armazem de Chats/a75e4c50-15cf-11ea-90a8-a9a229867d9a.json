@@ -1,0 +1,261 @@
+{
+  "id": "a75e4c50-15cf-11ea-90a8-a9a229867d9a",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Débora Stumpf",
+    "id": "630afdc5ef1cf00297c1e51fb9a89a0e162de27928690a3f27b9f18295c8b665",
+    "email": "comercial@eqmedexpress.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 26,
+  "chatDuration": 3245,
+  "rating": 0,
+  "createdOn": "2019-12-03T13:20:22.893Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:20:22.893Z",
+      "msg": "Nome : Débora Stumpf\r\nE-mail/Usuário : comercial@eqmedexpress.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:20:23.061Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:21:02.912Z",
+      "msg": "Bom dia, Débora. Como posso te ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:21:10.095Z",
+      "msg": "Bom dia, Eduarda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:21:22.125Z",
+      "msg": "Efetuamos o pagamento da mensalidade a cerca de 1 hora atrás"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:21:33.978Z",
+      "msg": "Consegue verificar para liberar nosso acesso por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:21:57.544Z",
+      "msg": "Certo! Consegue me encaminhar o comprovante de pagamento, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:36:07.853Z",
+      "msg": "Perdão"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:36:16.876Z",
+      "msg": "Nosso financeiro me mandou agora essa tela"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:36:25.376Z",
+      "data": {
+        "uri": "https",
+        "name": "  erro.jpg",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:09.815Z",
+      "msg": "Imagina! Assim que você tiver o comprovante de pagamento, já consigo solicitar a liberação, Débora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:28.712Z",
+      "msg": "Recebeu o anexo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:41.484Z",
+      "msg": "Ele não está conseguindo pagar pois dá erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:51.487Z",
+      "msg": "Disse que é erro do boleto e não do banco"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:38:58.672Z",
+      "msg": "Certo! Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:39:23.454Z",
+      "msg": "Consegue me informar seu CNPJ, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:44:04.226Z",
+      "data": {
+        "uri": "https",
+        "name": "boleto (1).pdf",
+        "mime": "application/pdf"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:44:12.738Z",
+      "msg": "318640960001/60"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:44:20.561Z",
+      "msg": "Débora, segue o boleto atualizado!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:58:23.739Z",
+      "data": {
+        "uri": "https",
+        "name": "Comprovante (1).pdf",
+        "mime": "application/pdf"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:58:30.552Z",
+      "msg": "Agora foi!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:58:43.586Z",
+      "msg": "Perfeito! Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:01:22.273Z",
+      "msg": "Acesso liberado, Débora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:13:57.226Z",
+      "msg": "Obrigadaa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:14:03.782Z",
+      "msg": "Imagina! Estamos à disposição."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:14:19.039Z",
+      "msg": "Desejamos uma ótima semana."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:14:27.998Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

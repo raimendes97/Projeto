@@ -1,0 +1,106 @@
+{
+  "id": "cf64fd00-15fe-11ea-a181-a59649ef42ba",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "francine",
+    "id": "77d334310fd7f07218458a8f80be59897330df23d79b0819398a42a39762c793",
+    "email": "piaceregerencia@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Pelotas"
+  },
+  "messageCount": 9,
+  "chatDuration": 389,
+  "rating": 0,
+  "createdOn": "2019-12-03T18:58:10.303Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:58:10.303Z",
+      "msg": "Nome : francine\r\nE-mail/Usuário : piaceregerencia@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:58:10.319Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:58:32.480Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:58:54.438Z",
+      "msg": "Boa tarde, vocês tem PDV frente de caixa?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:59:12.425Z",
+      "msg": "Sim, possuimos. Você gostaria de conhecer mais?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:01:11.469Z",
+      "msg": "Sim, não achei aqui na demonstração"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:02:46.143Z",
+      "msg": "Não disponibilizamos o PDV para testes, Francine."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:03:54.981Z",
+      "msg": "Então agradeço. Já comprei sistema sem testar o  PDV e não deu certo. Obrigada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:04:23.919Z",
+      "msg": "Mas caso você tenha interesse, podemos agendar uma demonstração"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:04:39.629Z",
+      "msg": "Imagina! Estamos à disposição"
+    }
+  ],
+  "domain": "tawk.to"
+}

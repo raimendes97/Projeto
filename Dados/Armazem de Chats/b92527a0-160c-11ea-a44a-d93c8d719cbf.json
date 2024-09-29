@@ -1,0 +1,340 @@
+{
+  "id": "b92527a0-160c-11ea-a44a-d93c8d719cbf",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Carla",
+    "id": "846daa160100fc9cbe47389cbc944932b6327a4015f5033758f21aa66d20cd3e",
+    "email": "edson@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 38,
+  "chatDuration": 1791,
+  "rating": 0,
+  "createdOn": "2019-12-03T20:37:31.613Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:37:31.613Z",
+      "msg": "Nome : Carla\r\nE-mail/Usuário : edson@paypet.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:37:31.634Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:37:51.854Z",
+      "msg": "oi"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:37:58.087Z",
+      "msg": "Oi Carla, caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:38:07.291Z",
+      "msg": "Sem problemas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:38:29.138Z",
+      "msg": "Só gostaria de recapitular um processo de cadastro que já fiz anteriormente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:38:59.266Z",
+      "msg": "Eu preciso emitir uma nota de bonificação, mas preciso fazer o cadastro."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:39:20.650Z",
+      "msg": "Só gostaria de recapitular a ordem do que eu tenho que fazer para cadastrar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:42:48.734Z",
+      "msg": "Certo, inicialmente você precisa cadastrar o Cliente/Fornecedor da nota.\nCadastrar os produtos, caso tenha algum novo.\nDepois acessar em Cadastro > Fiscal > Tributação, acessar a sua Tributação e verificar se já possui a Operação de Bonificação cadastrada para o estado de destino do Cliente/Fornecedor da nota.\nDepois, você já pode acessar em vendas > Notas eletronicas > Outras notas, para realizar a emissão da mesma."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:43:28.751Z",
+      "msg": "Na verdade o que eu quero é cadastrar a operação de bonificação"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:43:39.885Z",
+      "msg": "Só queria recapitular este processo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:43:48.085Z",
+      "msg": "Já criei a natureza"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:44:44.196Z",
+      "msg": "Certo, então seria somente acessar em Cadastro > Fiscal > Tributação, acessar a sua Tributação, acessar o esta do destino do cliente/fornecedor e Clicar em Adicionar, para você poder criar a Operação de Bonificação para este estado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:46:46.889Z",
+      "msg": "Um minuto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:47:23.354Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:51:42.216Z",
+      "msg": "É só isso?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:52:45.203Z",
+      "msg": "Sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:55:35.113Z",
+      "msg": "Tem como eu gerar nota de bonificação de saída sem emitir pedido?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:55:51.593Z",
+      "msg": "Pois não é uma venda"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:56:31.951Z",
+      "msg": "Exatamente, na tela de  vendas > Notas eletronicas > Outras notas, não gera pedido."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:00:00.019Z",
+      "msg": "Qual é o modelo da nota fiscal?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:00:09.621Z",
+      "msg": "Já estou emitindo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:00:19.997Z",
+      "msg": "Seria o modelo 55.\n\nPodemos continuar o atendimento amanhã de manhã, na primeira hora, por favor? Nosso atendimento encerra agora as 18hrs e retornamos amanhã de manhã a partir das 8hrs."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:00:45.516Z",
+      "msg": "Sim. Já ia pedir para não considerar minha pergunta."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:00:53.855Z",
+      "msg": "Era 55 mesmo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:00:59.287Z",
+      "msg": "Não tem problema"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:02:16.815Z",
+      "msg": "Só mais uma pergunta rápida"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:02:20.767Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:02:43.851Z",
+      "msg": "Está pedindo chave de acesso, mas eu ainda não tenho pois estou emitindo a nota"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:03:49.895Z",
+      "msg": "Nesta aba de Documento de Referenciado, por favor não preencha nenhuma informação neste caso, seria somente se fosse Um Retorno.\nO CAmpo de Modelo Fiscal dentro desta Aba, pode deixar marcada a opção \"Selecione\", por favor, para que não de rejeição, neste caso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:04:42.469Z",
+      "msg": "nem o modelo da nota, número e série?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:05:09.543Z",
+      "msg": "Isso, nenhum deles, por favor, volte o modelo Fiscal para a opção \"Selecione\" e os outros pode deixar tudo em branco."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:05:52.042Z",
+      "msg": "A nota foi emitida"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:06:00.462Z",
+      "msg": "Perfeito!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:06:01.703Z",
+      "msg": "Obrigada por esperar esses minutinhos"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:06:10.680Z",
+      "msg": "Imagina! :blush:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:06:49.804Z",
+      "msg": "Vou indo então! Bom final de tarde!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:06:53.470Z",
+      "msg": "Até mais!"
+    }
+  ],
+  "domain": "tawk.to"
+}

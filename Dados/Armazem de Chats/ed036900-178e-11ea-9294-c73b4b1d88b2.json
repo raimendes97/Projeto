@@ -1,0 +1,121 @@
+{
+  "id": "ed036900-178e-11ea-9294-c73b4b1d88b2",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Carla",
+    "id": "846daa160100fc9cbe47389cbc944932b6327a4015f5033758f21aa66d20cd3e",
+    "email": "edson@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 11,
+  "chatDuration": 2404,
+  "rating": 0,
+  "createdOn": "2019-12-05T18:42:12.946Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:42:12.946Z",
+      "msg": "Nome : Carla\r\nE-mail/Usuário : edson@paypet.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:42:13.016Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:42:20.388Z",
+      "msg": "Boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:42:42.137Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:43:08.903Z",
+      "msg": "Estamos analisando todos os lançamentos que efetuamos e que gera lançamento no DRE"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:43:37.390Z",
+      "msg": "O CMV do DRE não está somando corretamentos os pedidos de venda que estão dando entrada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:44:25.516Z",
+      "msg": "No mes de dezembro está errado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:47:53.262Z",
+      "msg": "Você consegue, abrir um Chamado referente a este caso, por favor? Para pode lhe passar um retorno referente a esse caso a Equipe Técnica vai precisar analisar mais detalhadamente todos as movimentações dos pedidos de venda, esse analise pode demorar um pouquinho, infelizmente não conseguimos fazer esse tipo de análise através do Chat, ele seria mais para dúvidas pontuais."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:50:47.001Z",
+      "msg": "Sim. Eu vou abrir o chamado, mas eu preciso resolver este assunto com a maior urgencia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:51:38.768Z",
+      "msg": "Certo, vou pedir urgência extrema para esse caso, pode deixar."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:21:09.146Z",
+      "msg": "Chamado aberto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:22:16.681Z",
+      "msg": "Obrigada! Acabamos de receber aqui, já estou pedindo urgência."
+    }
+  ],
+  "domain": "tawk.to"
+}

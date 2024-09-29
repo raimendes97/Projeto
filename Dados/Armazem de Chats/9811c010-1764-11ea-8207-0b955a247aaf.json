@@ -1,0 +1,230 @@
+{
+  "id": "9811c010-1764-11ea-8207-0b955a247aaf",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Edson",
+    "id": "eca652e409dff20fb021b9ee4baf76a2805e29da4ff84057765864232b669902",
+    "email": "miloccacosmeticos@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 24,
+  "chatDuration": 1530,
+  "rating": 0,
+  "createdOn": "2019-12-05T13:39:05.472Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:39:05.472Z",
+      "msg": "Nome : Edson\r\nE-mail/Usuário : miloccacosmeticos@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:39:05.487Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:39:13.057Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:39:16.771Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:40:50.342Z",
+      "msg": "Ontem eu  importei uma NF, e a NF nem o estoque apareceram para mim.  Apenas os ítens  que estavam sendo comprados pela primeira vez."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:41:07.313Z",
+      "msg": "Dai como era urgente eu fiz um ajuste de estoque."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:41:37.693Z",
+      "msg": "Agora como faço para dar entrada nesta NF e nos boletos?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:41:44.474Z",
+      "msg": "Só manualmente?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:42:14.730Z",
+      "msg": "Certo, pode me passar o número desta nota que você importou, para verificar se realmente não movimentou estoque?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:44:43.049Z",
+      "msg": "522. Ligia Mocelin Cosméticos e Alimentos Eireli-ME"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:44:50.101Z",
+      "msg": "Pelo que percebi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:45:39.155Z",
+      "msg": "o sistema só criou o item. O estoque veio zerado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:46:29.463Z",
+      "msg": "A nota 522 não foi finalizada na importação."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:46:35.216Z",
+      "msg": "Consegue verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:46:50.643Z",
+      "msg": "Ela esta ainda na etapa de vínculo dos produtos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:48:23.884Z",
+      "msg": "Agora ela apareceu para mim na lista das NF importadas, com o status continuar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:48:36.501Z",
+      "msg": "Só que eu ajustei os estoques."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:49:06.580Z",
+      "msg": "Posso continuar e reajustar o estoque novamente?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:51:18.567Z",
+      "msg": "Sim, você pode finalizar ela para dar entrada de estoque e criar o Financeiro, depois pode fazer um ajuste de estoque para deixar certinho, ou diretamente na tela de inventário.\nSe você não quiser continuar ela, para não precisar fazer ajuste de inventário depois, você pode acessar em Financeiro > Fluxo de caixa > Botão importar e selecionar a Opção XML, então, você cria apenas o financeiro desta nota."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:58:12.231Z",
+      "msg": "Este procedimento serve tambem para NF importadas em que eu esqueci de integrar o financeiro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:58:40.240Z",
+      "msg": "Desta forma o sistema encontra e integra com a NF integrada?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:03:36.797Z",
+      "msg": "Sim, exatamente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:04:01.704Z",
+      "msg": "Ele criará um movimento financeiro com o número da nota de compra e suas parcelas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:04:20.282Z",
+      "msg": "ok.  Obrigado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:04:31.865Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quinta-feira e uma boa semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

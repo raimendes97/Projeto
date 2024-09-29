@@ -1,0 +1,331 @@
+{
+  "id": "2b79d770-185a-11ea-a501-c9f5913385b6",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Cezar",
+    "id": "bbe4b449cdfc77bef7c277fa18d1227b6491be4ed9bd2bd100f481bdc494d248",
+    "email": "cezar@vestapisoaquecido.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 35,
+  "chatDuration": 2413,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:56:58.711Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:56:58.711Z",
+      "msg": "Nome : Cezar\r\nE-mail/Usuário : cezar@vestapisoaquecido.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:56:58.732Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:57:04.639Z",
+      "msg": "olá"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:57:11.756Z",
+      "msg": "enviei os dados da transportadora por email"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:57:14.523Z",
+      "msg": "pode verificar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:57:26.758Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:03:39.284Z",
+      "msg": "A Transportadora vai ser a STADLERSA, correto?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:04:58.276Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:05:07.052Z",
+      "msg": "Perfeito!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:05:14.285Z",
+      "msg": "Estamos finalizando, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:05:52.208Z",
+      "msg": "obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:15:22.459Z",
+      "msg": "Cezar, você consegue cadastrar a Transportadora no sistema, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:15:34.770Z",
+      "msg": "Senão, não conseguimos adicionar ela na nota"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:15:57.664Z",
+      "msg": "OK"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:16:00.046Z",
+      "msg": "vou cadastrar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:16:11.787Z",
+      "msg": "Certo. Você me avisa quando finalizar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:17:30.484Z",
+      "msg": "salvei"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:17:33.406Z",
+      "msg": "pode verificar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:17:43.575Z",
+      "msg": "Certo, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-06T19:20:13.162Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:20:20.082Z",
+      "msg": "Seria essas informações, correto?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:20:28.277Z",
+      "msg": "iso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:20:33.786Z",
+      "msg": "isso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:20:44.065Z",
+      "msg": "Perfeito! Um segundo, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:25:43.816Z",
+      "msg": "Qual a data de desembaraço?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:29:47.324Z",
+      "msg": "06/12"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:30:10.597Z",
+      "msg": "Um segundo, por favo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:32:03.809Z",
+      "msg": "A mercadoria veio por porto? Ou Aeroporto?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:32:10.424Z",
+      "msg": "Me confirma o nome, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:32:35.849Z",
+      "msg": "aEROPORTO"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:32:40.586Z",
+      "msg": "Aeroporto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:32:43.156Z",
+      "msg": "Afonso Pina"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:32:48.896Z",
+      "msg": "Internacional"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:33:56.920Z",
+      "msg": "Certo, um segundo, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:37:04.671Z",
+      "msg": "Conseguimos emitir."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:37:11.928Z",
+      "msg": "Consegue verificar, por favor?"
+    }
+  ],
+  "domain": "tawk.to"
+}

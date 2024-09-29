@@ -1,0 +1,109 @@
+{
+  "id": "81feee50-1526-11ea-9b02-430f14aa7a8d",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Tatiane",
+    "id": "ed40639dab0c429a04df8d4a678e49b8195851bec6edb5db37ae215649741750",
+    "email": "sapiranga@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 9,
+  "chatDuration": 1110,
+  "rating": 0,
+  "createdOn": "2019-12-02T17:09:41.220Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:09:41.220Z",
+      "msg": "Nome : Tatiane\r\nE-mail/Usuário : sapiranga@verdeb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:09:41.245Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:09:57.347Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:10:20.445Z",
+      "msg": "Boa tarde Ana, estamos com um problema pra dar entrada nas trocas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T17:10:25.640Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:10:31.828Z",
+      "msg": "fica dando erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:12:29.896Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:18:17.994Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:27:47.776Z",
+      "msg": "Você esta tentando Trocar todos os itens da nota 31292/2?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:28:11.594Z",
+      "msg": "Pode nos passar o item que você precisa trocar para que possamos verificar"
+    }
+  ],
+  "domain": "tawk.to"
+}

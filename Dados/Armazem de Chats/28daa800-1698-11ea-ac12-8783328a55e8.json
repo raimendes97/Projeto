@@ -1,0 +1,212 @@
+{
+  "id": "28daa800-1698-11ea-ac12-8783328a55e8",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fred",
+    "id": "aa756c5d7168638da66f20248f4197150f97a82fa7da909c8066d5c9b2b3c8df",
+    "email": "ffagundes@woom.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 21,
+  "chatDuration": 1011,
+  "rating": 0,
+  "createdOn": "2019-12-04T13:15:45.137Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:15:45.137Z",
+      "msg": "Nome : Fred\r\nE-mail/Usuário : ffagundes@woom.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:15:45.161Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:16:12.063Z",
+      "msg": "/BD"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:16:13.470Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:17:38.069Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:18:00.836Z",
+      "msg": "estou tentando excluir um recebimento de uma nota que foi devolvida"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:18:11.259Z",
+      "msg": "mas não está dando certo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:18:19.918Z",
+      "msg": "Certo, Fred. Está aparecendo algum erro em específico?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T13:18:24.436Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:18:41.825Z",
+      "msg": "fica processando mas não finaliza"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:18:49.400Z",
+      "msg": "dá erro de gateway timeout"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:19:01.389Z",
+      "msg": "Certo, Fred. Você pode atualizar a página e tentar novamente?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:19:52.120Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T13:20:43.683Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:20:47.341Z",
+      "msg": "mesma coisa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:20:53.662Z",
+      "msg": "Um instante, por gentileza, Fred."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:25:53.341Z",
+      "msg": "Fred, acreditamos que conseguimos realizar a exclusão."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:28:07.161Z",
+      "msg": "ok ,vou atualizar aqui"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:28:39.092Z",
+      "msg": "sim, está ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:28:40.591Z",
+      "msg": "obrigado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:28:47.289Z",
+      "msg": "sabe me dizer pq não estava conseguindo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:28:59.740Z",
+      "msg": "Instabilidades em nossos servidores, mas aparentemente, tudo está ok agora."
+    }
+  ],
+  "domain": "tawk.to"
+}

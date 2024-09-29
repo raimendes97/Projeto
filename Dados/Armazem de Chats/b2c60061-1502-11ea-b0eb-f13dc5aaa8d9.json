@@ -1,0 +1,118 @@
+{
+  "id": "b2c60061-1502-11ea-b0eb-f13dc5aaa8d9",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "JUNIOR",
+    "id": "8525324327ef8dd44f94392dedde4a86a56c17a3fd5162c00928878cf2b5824a",
+    "email": "junior@kikosori.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 12,
+  "chatDuration": 1501,
+  "rating": 0,
+  "createdOn": "2019-12-02T12:53:14.144Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:53:14.144Z",
+      "msg": "Nome : JUNIOR\r\nE-mail/Usuário : junior@kikosori.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:53:14.181Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:53:17.484Z",
+      "msg": "oi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:53:33.896Z",
+      "msg": "eu gerei a nota do pedido 324 mas n consigo fazer o download do pdf"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:53:48.955Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:56:16.821Z",
+      "msg": "Vou te passar o PDF aqui no chat, enquanto ajustamos no sistema para você"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-02T12:56:22.297Z",
+      "data": {
+        "uri": "https",
+        "name": "35191230184735000183550010000002581047785409 (1).pdf",
+        "mime": "application/pdf"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:56:46.841Z",
+      "msg": "ok obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:56:56.485Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:57:01.460Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:57:05.994Z",
+      "msg": "ok"
+    }
+  ],
+  "domain": "tawk.to"
+}

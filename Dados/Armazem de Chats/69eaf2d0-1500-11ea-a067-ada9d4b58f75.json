@@ -1,0 +1,91 @@
+{
+  "id": "69eaf2d0-1500-11ea-a067-ada9d4b58f75",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Yasmim",
+    "id": "aff33780095caeb3780fc38f99d34390325e7c5361325c1f52f31c57515e0885",
+    "email": "samirstorerosul@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rosario do Sul"
+  },
+  "messageCount": 7,
+  "chatDuration": 88,
+  "rating": 0,
+  "createdOn": "2019-12-02T12:37:39.347Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:37:39.347Z",
+      "msg": "Nome : Yasmim\r\nE-mail/Usuário : samirstorerosul@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:37:39.363Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:37:45.069Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:37:47.284Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:37:52.165Z",
+      "msg": "Queria tirar uma duvida"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T12:38:07.398Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:38:26.397Z",
+      "msg": "Quando está assim sem gerar NF-e, é cobrado imposto ou não?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:39:07.843Z",
+      "msg": "Não é cobrado imposto ainda, somente quando emitir a nota."
+    }
+  ],
+  "domain": "tawk.to"
+}

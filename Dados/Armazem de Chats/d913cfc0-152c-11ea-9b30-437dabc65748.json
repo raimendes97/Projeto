@@ -1,0 +1,290 @@
+{
+  "id": "d913cfc0-152c-11ea-9b30-437dabc65748",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Jin Park",
+    "id": "908a77c8fad1a387622bca740e4b6343ab618ce61bda112c296d3ea4ee0e7fa1",
+    "email": "jinpark@kikosori.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 31,
+  "chatDuration": 1189,
+  "rating": 0,
+  "createdOn": "2019-12-02T17:55:04.591Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:55:04.591Z",
+      "msg": "Nome : Jin Park\r\nE-mail/Usuário : jinpark@kikosori.com\r\nDepartamento : Comercial"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:55:04.622Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:55:10.556Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:55:24.696Z",
+      "msg": "Boa tarde! Como posso te ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:55:46.238Z",
+      "msg": "Recebi uma ligação da Amanda (eu acho, esqueci o nome na verdade) sobre a promoção de Black Friday da  . Ela falou que poderia estender até hoje."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:56:30.308Z",
+      "msg": "Olá Jin, foi comigo..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:57:06.798Z",
+      "msg": "Olá Adriana! Gostaria do plano de R$105 - por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:57:23.157Z",
+      "msg": "pode ser parcelado em 4 pagamentos, correto?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:58:04.022Z",
+      "msg": "ok, isso mesmo Jin, podemos fazer sim!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:58:13.094Z",
+      "msg": "me passe seu CNPJ por gentileza"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:59:46.354Z",
+      "msg": "Perfeito"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:00:28.308Z",
+      "msg": "30.184.735/0001-83"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:03:08.565Z",
+      "msg": "A empresa Kosbel também está usando a  , correto?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:03:18.245Z",
+      "msg": "ok, iremos agendar para q seu próximo boleto seja emitido nas condições da Black 4x  R$314,,70"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:04:10.304Z",
+      "msg": "esse valor de 314,70 - pagaremos em 4 meses consecutivos, correto? ou seja, a partir de dezembro até Março (e não pagamos até Dezembro) ou pagaremos esse valor a cada 3 meses?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:04:20.109Z",
+      "msg": "sim, a Kosbel utiliza o   tbm"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:04:49.909Z",
+      "msg": "Ok gostaríamos de aplicar essa promoção para a Kosbel, também por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:05:21.024Z",
+      "msg": "isso mesmo esse valor em 04 parcelas apenas, e o plano tem validade anual, vencerá somente na próxima Black Friday"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:05:52.022Z",
+      "msg": "Ok entendido, mas eu pago o valor da parcela em 4 meses consecutivos ou a cada 3 meses?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:06:15.272Z",
+      "msg": "o pgto será em 04 meses consecutivos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:06:38.962Z",
+      "msg": "okay entendido"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:07:02.066Z",
+      "msg": "Precisa-se do CNPJ da Kosbel também?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:08:55.619Z",
+      "msg": "então, vc deseja fazer a adesão para a Kosbel tbm? pode me passar o cnpj por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:10:27.985Z",
+      "msg": "SIM"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:10:31.074Z",
+      "msg": "um momento"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:10:56.993Z",
+      "msg": "00000000"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:11:45.786Z",
+      "msg": "ok, um momento pfvr"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:13:49.240Z",
+      "msg": "ok, iremos alterar por aqui tbm o boleto da Kosbel para que no vcto vc já tenha o boleto com valor alterado p pgto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:14:03.696Z",
+      "msg": "qualquer dúvida é só nos chamar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:14:25.938Z",
+      "msg": "perfeito, muito obrigado Adriana!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:14:33.136Z",
+      "msg": "Uma ótima tarde para você"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "adriana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:14:53.201Z",
+      "msg": "obrigada igualmente pra vc! dúvidas estamos a disposição! abs"
+    }
+  ],
+  "domain": "tawk.to"
+}

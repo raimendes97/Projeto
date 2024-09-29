@@ -1,0 +1,350 @@
+{
+  "id": "b4d3f050-1698-11ea-8526-55776b372722",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Graciele",
+    "id": "e8b634f18c70a209f17af83474831f3dfd382a75df2d8a1abe38d2083f084144",
+    "email": "zonasul@barrigavede.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Porto Alegre"
+  },
+  "messageCount": 37,
+  "chatDuration": 3096,
+  "rating": 0,
+  "createdOn": "2019-12-04T13:19:34.629Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:19:34.629Z",
+      "msg": "Nome : Graciele\r\nE-mail/Usuário : zonasul@barrigavede.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:19:34.649Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:19:43.093Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:20:12.918Z",
+      "msg": "bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:20:19.700Z",
+      "msg": "esta dando erro nos caixas de ontem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:20:24.590Z",
+      "msg": "no cx01  e no cx 02"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:20:44.926Z",
+      "msg": "Certo, Graciele. Qual é o erro apresentado?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:25:37.650Z",
+      "msg": "ele esta aparecendo carato que nao tem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:25:40.764Z",
+      "msg": "dinheiro sobrando"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:25:48.375Z",
+      "msg": "cartão*"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:26:10.094Z",
+      "msg": "Graciele, pode nos passar um acesso do Team Viewer 12?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T13:26:27.308Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:26:31.038Z",
+      "msg": "esse e do caixa  01"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:27:37.136Z",
+      "msg": "Graciele, quais são os valores incorretos?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T13:28:28.861Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:28:31.811Z",
+      "msg": "cx 01"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:30:23.789Z",
+      "msg": "Todos os valores assinalados em vermelho estão errados? Quais são os valores certos? Os que foram informados pelo sistema ou os que foram informados pelo usuário?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:30:47.160Z",
+      "msg": "o informado pelo usuario"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:31:06.443Z",
+      "msg": "esse valores que o sistema informou eu nao tenho nem no caixa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:31:20.582Z",
+      "msg": "Ok, faremos a correção"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:32:31.009Z",
+      "msg": "e temos erros no caixa 2"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:32:45.083Z",
+      "msg": "O pessoal estará conectando no caixa 01, posteriormente, ao caixa 02."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:32:54.645Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:50:52.195Z",
+      "msg": "Graciele, pode verificar agora, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:53:52.927Z",
+      "msg": "vou verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:55:27.132Z",
+      "msg": "isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:55:30.398Z",
+      "msg": "esse esta correto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:55:43.939Z",
+      "msg": "Quais são os erros do caixa 02?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T13:56:40.676Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:57:37.868Z",
+      "msg": "Graciele, os valores informados pelo usuário também são os corretos?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:59:50.275Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:00:03.209Z",
+      "msg": "8270455"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:00:14.568Z",
+      "msg": "sp49j"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:10:18.535Z",
+      "msg": "Pode verificar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:10:36.389Z",
+      "msg": "correto agora"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:10:41.388Z",
+      "msg": "muito obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:11:08.409Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quarta-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:11:10.761Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

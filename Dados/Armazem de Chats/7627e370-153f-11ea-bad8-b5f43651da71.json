@@ -1,0 +1,196 @@
+{
+  "id": "7627e370-153f-11ea-bad8-b5f43651da71",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Bruno",
+    "id": "d172879bd69c6502866ec99e21ec7145b63acfca393e623f25d76cf3f71a3168",
+    "email": "financeiro@bolovo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 20,
+  "chatDuration": 1539,
+  "rating": 0,
+  "createdOn": "2019-12-02T20:08:25.245Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:08:25.245Z",
+      "msg": "Nome : Bruno\r\nE-mail/Usuário : financeiro@bolovo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:08:25.274Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:08:56.097Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:09:14.243Z",
+      "msg": "Ei Ana, tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:09:22.693Z",
+      "msg": "Tudo bem e você?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:11:07.347Z",
+      "msg": "bem também"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:11:11.113Z",
+      "msg": "vê se tu consegue me ajudar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:13:52.646Z",
+      "msg": "Sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:15:16.617Z",
+      "msg": "to com um problema, semana passada a Alice entrou em contato com vocês pra excluir um item que estava em duplicidade"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:16:22.384Z",
+      "msg": "só que ela fez no matriz e não replicou pra filial do  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:16:29.701Z",
+      "msg": "e queria acertar isso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:21:08.823Z",
+      "msg": "me confirma o nome do item, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:23:19.223Z",
+      "msg": "BLV02L1"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:23:22.764Z",
+      "msg": "esse é o código"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:23:36.993Z",
+      "msg": "o correto é Dads Shorts - Preto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:23:50.069Z",
+      "msg": "e tem esse que precisa ser cancelado Dads Shorts Preto P"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:23:52.703Z",
+      "msg": "sem o traço"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:24:57.749Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:31:00.480Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:33:53.936Z",
+      "msg": "Bruno, conversei com a Equipe Técnica,  eles identificaram um problema na sincronização dos dados, eles vão ajustar e me prometeram que amanhã de manhã na primeira hora, já estará ok."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:34:04.527Z",
+      "msg": "Pedimos desculpas pelo transtorno!"
+    }
+  ],
+  "domain": "tawk.to"
+}

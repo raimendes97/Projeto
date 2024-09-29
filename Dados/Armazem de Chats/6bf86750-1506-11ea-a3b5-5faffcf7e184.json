@@ -1,0 +1,143 @@
+{
+  "id": "6bf86750-1506-11ea-a3b5-5faffcf7e184",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Ezequiel Oliveria",
+    "id": "374d558b553917933a5150027096b0bd0e63db430787d3e5d21f23214a779d97",
+    "email": "contato@moda.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Uberlândia"
+  },
+  "messageCount": 20,
+  "chatDuration": 1495,
+  "rating": 0,
+  "createdOn": "2019-12-02T13:19:54.162Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:19:54.162Z",
+      "msg": "Nome : Ezequiel Oliveria\r\nE-mail/Usuário : contato@moda.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:19:54.201Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:19:59.719Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:20:00.872Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T13:20:11.965Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:20:27.218Z",
+      "msg": "Vmos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:30:42.710Z",
+      "msg": "E ai?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:31:05.811Z",
+      "msg": "Olá, Ezequiel. Já estamos gerando os arquivos necessários e ajustando no sistema."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:33:03.703Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:35:49.200Z",
+      "msg": "Um instante, teremos que realizar alguns ajustes em nossa base de dados."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:42:41.456Z",
+      "msg": "Pronto, Ezequiel. Enfrentamos problema pelo fato de estarmos tentando emitir uma nota para Distrito."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:43:24.587Z",
+      "msg": "Contudo, tudo se encontra perfeitamente agora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:44:03.030Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:44:21.490Z",
+      "msg": "Obrigado"
+    }
+  ],
+  "domain": "tawk.to"
+}

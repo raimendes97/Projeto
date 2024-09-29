@@ -1,0 +1,335 @@
+{
+  "id": "ec7f1cc0-15ec-11ea-88ff-b33e9f145516",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Camila Alves",
+    "id": "7dcbd248783afcf8c1a66c2256959e9c10b5064b63b81c76858fde68db553825",
+    "email": "mkt@storehousehomedecor.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 36,
+  "chatDuration": 2644,
+  "rating": 0,
+  "createdOn": "2019-12-03T16:50:07.979Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:50:07.979Z",
+      "msg": "Nome : Camila Alves\r\nE-mail/Usuário : mkt@storehousehomedecor.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:50:07.992Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:50:16.056Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:50:40.777Z",
+      "msg": "Boa tarde, estou tentando fazer o cadastro de um cliente e está dando erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:50:52.324Z",
+      "msg": "Tentei duas vezes"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:51:29.494Z",
+      "msg": "Certo, qual é o erro apresentado, Camila?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:52:31.656Z",
+      "msg": "Só aparece \"Erro ao salvar o cliente\" e volta pra página que tem todos os clientes"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:52:44.577Z",
+      "msg": "aí tento fazer novamente e acontece a mesma coisa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:53:12.712Z",
+      "msg": "Certo, qual seria o cliente em questão?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:53:21.199Z",
+      "msg": "We Work Faria Lima"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:53:29.938Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:55:31.409Z",
+      "msg": "Camila, tu pode atualizar a página e tentar novamente, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:56:19.586Z",
+      "msg": "Ok, vou tentar aqui e te retorno. Um minuto por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:56:28.695Z",
+      "msg": "Claro, pode ser sim! :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:57:27.003Z",
+      "msg": "Mesmo erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:57:53.176Z",
+      "msg": "Um instante, Camila."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T16:58:19.340Z",
+      "data": {
+        "uri": "https",
+        "name": "  erro.PNG",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:04:35.511Z",
+      "msg": "Já estamos verificando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:06:28.244Z",
+      "msg": "Ok..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:17:56.951Z",
+      "msg": "Eaí?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:19:54.098Z",
+      "msg": "Ainda estamos verificando..."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:21:07.718Z",
+      "msg": "Pode tentar novamente em outro navegador? Estamos testando e tudo está funcionando corretamente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:25:49.528Z",
+      "msg": "Vou tentar aqui...]"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:28:24.698Z",
+      "msg": "Tentei"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:28:26.849Z",
+      "msg": "Se não funcionar, seria possível nos passar os dados do cliente por aqui para realizarmos este cadastro por aqui?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:28:28.299Z",
+      "msg": "mesmo erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:28:55.663Z",
+      "msg": "Com quem eu estou falando por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:29:48.587Z",
+      "msg": "Com Sandro."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:29:57.056Z",
+      "msg": "Camila, tem algum caractere especial no cadastro deste cliente?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:31:25.965Z",
+      "msg": "Sandro, vou te passar mas preciso que esse erro seja solucionado para eu cadastrar os clientes na plataforma. Qual a previsão de correção desse erro? Vou abrir um chamado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:32:04.156Z",
+      "msg": "(FACEBOOK)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:32:14.723Z",
+      "msg": "Nome Fantasia: ---"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:32:18.925Z",
+      "msg": "grupo: clientes PJ"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:32:46.099Z",
+      "msg": "Certo, já faremos o cadastro."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:02.629Z",
+      "msg": "Consegui fazer o cadastro Sandro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:06.829Z",
+      "msg": "era o caractere especial mesmo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:34:12.057Z",
+      "msg": "Obrigada pela ajuda :) boa tarde!!"
+    }
+  ],
+  "domain": "tawk.to"
+}

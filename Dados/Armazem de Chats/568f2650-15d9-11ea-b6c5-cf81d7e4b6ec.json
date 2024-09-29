@@ -1,0 +1,159 @@
+{
+  "id": "568f2650-15d9-11ea-b6c5-cf81d7e4b6ec",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "gilberto fedrizzi",
+    "id": "3e7b0682e14fc1bbf70b86746437011b8f46d7f4ea4b34cccdc62d43347b0bb7",
+    "email": "admmioraz@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 15,
+  "chatDuration": 806,
+  "rating": 0,
+  "createdOn": "2019-12-03T14:29:44.606Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:29:44.606Z",
+      "msg": "Nome : gilberto fedrizzi\r\nE-mail/Usuário : admmioraz@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:29:44.645Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:29:53.690Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:29:58.579Z",
+      "msg": "Bom dia!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:30:01.616Z",
+      "msg": "Tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:30:15.607Z",
+      "msg": "Preciso de ajuda na emissão de nota fiscal"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:30:23.925Z",
+      "msg": "esta dando o seguinte erro:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T14:30:37.066Z",
+      "data": {
+        "uri": "https",
+        "name": "Rejeição Nota Fiscal Cliente.PNG",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:30:43.386Z",
+      "msg": "Aguardo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:31:02.322Z",
+      "msg": "Um instante, por gentileza, sr. Gilberto."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:40:39.865Z",
+      "msg": "Gilberto, a nota foi emitida! :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:42:15.192Z",
+      "msg": "Ah, ok. E qual foi o problema?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:42:42.272Z",
+      "msg": "O estado estava como SC."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:43:03.231Z",
+      "msg": "Ok. Muito obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:43:08.952Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa terça-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T14:43:10.982Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

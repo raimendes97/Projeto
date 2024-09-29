@@ -1,0 +1,114 @@
+{
+  "id": "118105e0-1540-11ea-9e44-53b05ac6cedc",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "graci",
+    "id": "7c2c22b4f6535b7daf5133f21aac590584cdce7a8bd8fa787d5a9f1964131480",
+    "email": "zonasul@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Cachoeirinha"
+  },
+  "messageCount": 10,
+  "chatDuration": 1226,
+  "rating": 0,
+  "createdOn": "2019-12-02T20:25:06.952Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:25:06.952Z",
+      "msg": "Nome : graci\r\nE-mail/Usuário : zonasul@verdeb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:25:06.967Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:25:21.694Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:25:37.993Z",
+      "msg": "Já estava falando com a Ana"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:27:37.910Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:29:25.708Z",
+      "msg": "Você consegue, por favor, dar um CTRL + F5 e tentar emitir as notas de devolução/troca, por favor? Colocamos a correção no ar, então deve emitir com sucesso agora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:33:27.998Z",
+      "msg": "ok vou testar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:34:26.314Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:44:24.104Z",
+      "msg": "agora sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:44:30.702Z",
+      "msg": "muito obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:44:40.466Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

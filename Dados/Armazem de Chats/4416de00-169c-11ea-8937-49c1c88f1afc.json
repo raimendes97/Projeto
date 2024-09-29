@@ -1,0 +1,238 @@
+{
+  "id": "4416de00-169c-11ea-8937-49c1c88f1afc",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Ana",
+    "id": "972f5f097cec64c941ca1f8d3ba10a840d3bfdcd74be2a2923751bdfd64993b3",
+    "email": "adm.sono@toccoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 24,
+  "chatDuration": 4056,
+  "rating": 0,
+  "createdOn": "2019-12-04T13:45:20.407Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:45:20.407Z",
+      "msg": "Nome : Ana\r\nE-mail/Usuário : adm.sono@toccoli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:45:20.425Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:45:33.683Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:47:06.265Z",
+      "msg": "Como posso saber de que forma foi lançado o financeiro da Nota 8398 do fornecedor RENOVE INDUSTRIA em base da empresa LA CASA E COLCHOES EIRELI?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:47:32.551Z",
+      "msg": "Eu consultei e sei que ela está lançada no estoque, porém tive que lançar o financeiro manual."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:48:26.176Z",
+      "msg": "Nos dê um instante, por gentileza, Ana."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:53:47.416Z",
+      "msg": "Ana, a nota foi importada através do XML, correto?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:57:52.278Z",
+      "msg": "Sim. Foi feito importação pelo XML correto. Provavelmente ele deve ter pulado o financeiro, mas queria saber se vocês conseguem me dar essa certeza. Pois tenho o caso da nota 8397, que consta a parcela 8397/1 no financeiro, porém a 8397/2 não. Só quero entender esse caso para reforçar com a equipe, por isso preciso saber exatamente o que ocorreu."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:58:07.242Z",
+      "msg": "Certo, Ana. Tens a data de quando foi importada esta nota, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T13:59:03.915Z",
+      "msg": "Foi importado no dia 10/09/2019?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T13:59:53.641Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:00:18.650Z",
+      "msg": "Show!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:00:44.079Z",
+      "msg": "Bom a 8397, é um caso mais complicado, vamos focar na 8398"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:00:51.255Z",
+      "msg": "acima"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:01:00.475Z",
+      "msg": "Já estamos consultando."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:02:14.562Z",
+      "msg": "Ana, nesta nota em questão, o financeiro também foi pulado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:09:03.139Z",
+      "msg": "ok, estava procurando a nota 8397 para dar um print também, mas não localizei."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:10:14.007Z",
+      "msg": "provavelmente se foi lançado foi também na mesma data, me faria a gentileza de confirmar se de fato não foi lançada a 8397, agradeço muiito."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:10:33.281Z",
+      "msg": "Um instante, por gentileza, Ana."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:14:09.011Z",
+      "msg": "A 8397 não foi lançada, Ana."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:28:49.766Z",
+      "msg": ":tired_face:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:29:36.424Z",
+      "msg": "Ok, bem que eu imaginei, vamos novamente treiná-los, isso afeta diretamente o resultado e o pagamento de impostos."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:30:03.510Z",
+      "msg": "Entendemos perfeitamente isso, Ana. E lastimamos. Na medida do possível, iremos ajudá-los."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:30:10.462Z",
+      "msg": "Tenham uma boa semana! Se precisarem da gente, estamos aqui."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:30:13.479Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

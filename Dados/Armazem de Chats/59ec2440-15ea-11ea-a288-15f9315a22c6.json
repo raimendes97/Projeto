@@ -1,0 +1,184 @@
+{
+  "id": "59ec2440-15ea-11ea-a288-15f9315a22c6",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Lucas",
+    "id": "f7a44540e25686bd747535ccc2a3ac66a93b8baf28d6bcd9284c3c4af647b34d",
+    "email": "Lucas@planetconnection.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 18,
+  "chatDuration": 1205,
+  "rating": 0,
+  "createdOn": "2019-12-03T16:31:44.413Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:31:44.413Z",
+      "msg": "Nome : Lucas\r\nE-mail/Usuário : Lucas@planetconnection.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:31:44.428Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:32:02.172Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:32:12.397Z",
+      "msg": "Boa Tarde, sou o Lucas da Paypet"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:33:21.979Z",
+      "msg": "O fernando acertou com vocês, que ia fazer mais testes. pra ter exito"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:33:33.823Z",
+      "msg": "precisamos ter os dados da transportadora?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:35:29.930Z",
+      "msg": "Para emitir a nota corretamente é necessário ter as Transportadoras que estão cadastradas no   também, no caso, seria necessário cadastrar a Correio Sedex e Correio PAC que você tem no Painel da rakuton."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-03T16:35:34.304Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:35:53.045Z",
+      "msg": "Entendi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:36:01.662Z",
+      "msg": "mas não iremos emitir NF emitida"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:36:34.137Z",
+      "msg": "A gente quer testar as integrações"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:36:37.918Z",
+      "msg": "e etc.."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:37:17.740Z",
+      "msg": "Para as integrações não é necessário, somente quando for emitir as notas destes pedidos de e-commerce."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:37:47.862Z",
+      "msg": "Ok! nós vamos testar aqui"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:38:04.682Z",
+      "msg": "se vcs quiserem acompanhar... qualquer coisa entrem em contato"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:38:12.119Z",
+      "msg": "Certo, tudo bem!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:44:53.746Z",
+      "msg": "Nos cancelamos o pedido 100002"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:45:55.018Z",
+      "msg": "Vocês cancelaram agora?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:51:49.645Z",
+      "msg": "Certo, como o pedido foi cancelado as 13:41hrs, é necessário aguardar 30 mins para ele sincronizar o cancelamento com o  ."
+    }
+  ],
+  "domain": "tawk.to"
+}

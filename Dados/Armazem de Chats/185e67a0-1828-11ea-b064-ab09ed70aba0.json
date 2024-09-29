@@ -1,0 +1,88 @@
+{
+  "id": "185e67a0-1828-11ea-b064-ab09ed70aba0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Bety",
+    "id": "1f7402e30d92e63b9f15a34b99fb9d29a3f8e63594680f48be5b082c4fadd35b",
+    "email": "contabil@tecnology.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 7,
+  "chatDuration": 997,
+  "rating": 0,
+  "createdOn": "2019-12-06T12:58:31.695Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:58:31.695Z",
+      "msg": "Nome : Bety\r\nE-mail/Usuário : contabil@tecnology.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:58:31.708Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:58:49.518Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:59:04.868Z",
+      "msg": "Bom dia, Ana"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:59:16.311Z",
+      "msg": "Preciso falar com o João ou Vinícius"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T12:59:42.917Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:00:20.467Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T13:15:08.290Z",
+      "msg": "Bety, o Vinicius esta em reunião com direção na parte da manhã, e o João não esta na empresa, estou tentando ligar para ele mas ele não atende. Você quer deixar um recado? O João deve estar na empresa a tarde."
+    }
+  ],
+  "domain": "tawk.to"
+}

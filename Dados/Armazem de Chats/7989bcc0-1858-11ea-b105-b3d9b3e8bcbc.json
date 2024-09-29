@@ -1,0 +1,254 @@
+{
+  "id": "7989bcc0-1858-11ea-b105-b3d9b3e8bcbc",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Eduardo",
+    "id": "b31d80b4b055d0b644df6f8c62327598aed870a064784ed5168f9eaee5fd1489",
+    "email": "financeiro@santabirra.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 27,
+  "chatDuration": 1381,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:44:51.105Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:44:51.105Z",
+      "msg": "Nome : Eduardo\r\nE-mail/Usuário : financeiro@santabirra.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:44:51.138Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:00.045Z",
+      "msg": "Olá"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:00.581Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:04.415Z",
+      "msg": "Tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:18.484Z",
+      "msg": "Que erro é esse?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:19.654Z",
+      "msg": "13 - Erro no schema XML."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:44.851Z",
+      "msg": "Preciso emitir uma NF de Remssa de locação para Minas."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:53.375Z",
+      "msg": "Tudo bem e você?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:46:11.578Z",
+      "msg": "Tudo bem"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:46:47.151Z",
+      "msg": "Vamos verificar o motivo do erro, mas geralmente o retorno 13 é bem genérico, orientamos que sempre que ele apareça, você nos avise no chat imediatamente que então verificamos para você."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:46:55.927Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:47:02.916Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:50:52.354Z",
+      "msg": "Eduardo, essa nota deve ter financeiro? A Rejeição é por conta das parcelas estarem zeradas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:05.151Z",
+      "msg": "Pois é."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:20.530Z",
+      "msg": "Remessa de locação não deve gerar financeiro, né?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:30.239Z",
+      "msg": "Uma vez que é apenas uma NF de acompanhamento."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:47.438Z",
+      "msg": "Pois quem tributa é a NF de Serviço."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:55.892Z",
+      "msg": "Como faz?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:56:14.921Z",
+      "msg": "Por favor, acessar em cadastro > Fiscal > Natureza da Operação, acessar essa de \"Remssa de locação\" e ajustar a opção para Não Gerar Financeiro então."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:57:17.941Z",
+      "msg": "Após, pode tentar emitir uma nova nota, quando estiver criando ela, na opção \"Gerar Nfe?\" maque a opção \"NÃO\" para que ele salve a nota no sistema antes de tentar gerar a nota, para que você não perca ela em caso de erro."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:58:33.287Z",
+      "msg": "Eita"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:58:35.547Z",
+      "msg": "Vamos lá"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:04:28.104Z",
+      "msg": "certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:06:32.074Z",
+      "msg": "Oi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:06:34.365Z",
+      "msg": "Deu certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:06:36.834Z",
+      "msg": "Obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:07:51.738Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

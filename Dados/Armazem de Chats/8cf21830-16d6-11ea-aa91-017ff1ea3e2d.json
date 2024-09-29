@@ -1,0 +1,260 @@
+{
+  "id": "8cf21830-16d6-11ea-aa91-017ff1ea3e2d",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fernando",
+    "id": "220815e07edbdb7121f2ef7a4202fccd9f457e48ccab269f1697a50e3b9313c4",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 27,
+  "chatDuration": 1467,
+  "rating": 0,
+  "createdOn": "2019-12-04T20:45:19.490Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:45:19.490Z",
+      "msg": "Nome : Fernando\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:45:19.627Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:45:29.680Z",
+      "msg": "Ola Fernando da PayPet."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:45:31.410Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:47:40.223Z",
+      "msg": "Já fiz os testes e agora sim integração, estoque estão ok."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:48:29.148Z",
+      "msg": "Preciso ver com voces agora como está a parte financeira dos pedidos, em especial a previsao do pagmaento no fluxo de caixa e ou no grupo de contas correto e o valor a ser pago. Já vi no fluxo que aparece, porém tem alguma deescricao que preeciso entender?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:49:53.699Z",
+      "msg": "Entendi. Na tela de fluxo de caixa, esses movimentos dos Pedidos aparecerão com o Número do Pedido e o número da parcela."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:50:14.473Z",
+      "msg": "Qual seria o grupo de contas correto para esses pedidos? Para que eu possa verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:53:25.196Z",
+      "msg": "vou verificar com o financeiro, mas estou preocupado com uma coisa o pedido no CD2 está vindo com o valor integral e não está certo isso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:54:00.594Z",
+      "msg": "preciso entender porque está vindo com o valor integral ou melhor deveria vir o valor integral com os descontos resepectivos da comissao do CD cadastrada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:54:05.643Z",
+      "msg": "Comissao de vendas"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:54:33.392Z",
+      "msg": "Você possui um pedido que  não esteja cancelado nesta situação? Para que possamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:00:25.874Z",
+      "msg": "vou fazeer um agora"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:00:45.741Z",
+      "msg": "Fernando, repassei a situação para a Thais, ela vai verificar com a Rakuten"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:01:13.642Z",
+      "msg": "Aproveitando aqui com meu financeiro para arrumarmos as contas de algumas receitas poderia me dizer como eu faço para cadastrar uma conta ou uma categoria financeira no DRE??"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:01:18.654Z",
+      "msg": "Podemos lhe passar um retorno sobre esse amanhã por favor? Nosso atendimento encerra agora as 18hrs e retornamos amanhã a partir das 8hrs."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:01:30.893Z",
+      "msg": "Sim pode só me da esta ultima resposta por favor."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:01:34.224Z",
+      "msg": "Sim, claro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:02:39.350Z",
+      "msg": "Você consegue cadastrar Categorias Financeiras e Subcontas no  , porém, elas apenas somam juntos com as Categorias e Subcontas que são fixas no nosso DRE, não é possível adicionar para que apareça elas com as novas descrição."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:03:35.142Z",
+      "msg": "Vou lhe passar os passo a passo para auxiliar com esses cadastros:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:04:02.799Z",
+      "msg": "Cadastro de Categoria Financeira"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:04:17.999Z",
+      "msg": "E o Cadastro das Sub-contas:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:07:27.573Z",
+      "msg": "E o DRE?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:08:10.595Z",
+      "msg": "Vou lhe passar um passo a passo que auxilia em como é gerado e como é calculado o nosso DRE:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:08:11.491Z",
+      "msg": "httpsdre"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:09:34.087Z",
+      "msg": "obrigado ate amanha"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:09:38.862Z",
+      "msg": "Imagina!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T21:09:41.854Z",
+      "msg": "Até amanhã!"
+    }
+  ],
+  "domain": "tawk.to"
+}

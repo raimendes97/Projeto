@@ -1,0 +1,198 @@
+ {
+  "id": "9a2eca50-150c-11ea-8bae-4b095770cd50",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "junior",
+    "id": "11bc330c736cc277dc4f17f3658c33d8ea8c6cda3e0a7c3d88bfdd5399bb5bcb",
+    "email": "junior@toccoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 20,
+  "chatDuration": 1661,
+  "rating": 0,
+  "createdOn": "2019-12-02T14:04:10.537Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:10.537Z",
+      "msg": "Nome : junior\r\nE-mail/Usuário : junior@toccoli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:10.560Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:17.400Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:19.258Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:33.775Z",
+      "msg": "Temos uma devolução de numero 61"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:42.483Z",
+      "msg": "Com erro no esquema"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:49.797Z",
+      "msg": "pode verificar para mim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:05:11.911Z",
+      "msg": "Claro, Junior. Um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:06:33.166Z",
+      "msg": "A devolução é de compra ou venda?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:07:13.254Z",
+      "msg": "de venda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:07:19.567Z",
+      "msg": "do sistema antigo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:07:48.733Z",
+      "msg": "Um instante, Junior."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:10:02.383Z",
+      "msg": "A cliente é Caroline de Araujo SCAIN?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:15:29.281Z",
+      "msg": "Junior, a chave de acesso da nota fiscal está errada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:15:41.263Z",
+      "msg": "A que se encontra no pedido hoje tem 46 carácteres, sendo que o máximo permitido é 44."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:24:19.357Z",
+      "msg": "Seria necessário digitar a chave de acesso de forma correta, Junior."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:25:10.890Z",
+      "msg": "certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:25:17.612Z",
+      "msg": "como faço"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:25:32.998Z",
+      "msg": "Será necessário gerar uma nova devolução com a chave de acesso correta, reforçando que o limite de caracteres é 44."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:31:24.985Z",
+      "msg": "certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:31:35.835Z",
+      "msg": "está 61 vc cancela?"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "d39d0a60-1a7d-11ea-a736-db3411fa447f",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Douglas Souza",
+    "id": "078552a0f9c7b1e48efbd88fd446ac9bd29667eaa4923c98f452db3acfaae71d",
+    "email": "dsouza@mcmartefatos.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 9,
+  "chatDuration": 561,
+  "rating": 0,
+  "createdOn": "2019-12-09T12:17:19.756Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:17:19.756Z",
+      "msg": "Nome : Douglas Souza\r\nE-mail/Usuário : dsouza@mcmartefatos.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:17:19.799Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:17:32.992Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:17:40.659Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:17:51.871Z",
+      "msg": "Estou vendo sobre a integracao com o ecommerce"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:18:10.489Z",
+      "msg": "mas nao aparece a plataforma vnda"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:19:29.431Z",
+      "msg": "No caso da VNDA, você precisa entrar em contato com eles solicitando essa integração, então eles realizam a integração por lá e se necessário nos encaminham um email diretamente, caso falte alguma informação que eles necessitam."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:20:09.579Z",
+      "msg": "Certo, voiu verificar com eles entao"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:21:20.176Z",
+      "msg": "Certo, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:26:40.790Z",
+      "msg": "ok"
+    }
+  ],
+  "domain": "tawk.to"
+}

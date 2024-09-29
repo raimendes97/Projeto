@@ -1,0 +1,80 @@
+{
+  "id": "79800260-17a0-11ea-a5a5-6b9633e2a6d4",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "mayara",
+    "id": "8cbaf32736405cfd16df6f642505d22df07e5ca34f19e15d9c4cd0a9c364d4ec",
+    "email": "gerencia@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 6,
+  "chatDuration": 329,
+  "rating": 0,
+  "createdOn": "2019-12-05T20:48:34.594Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:48:34.594Z",
+      "msg": "Nome : mayara\r\nE-mail/Usuário : gerencia@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:48:34.589Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:49:02.955Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:49:40.968Z",
+      "msg": "Gostaria de fazer uma sincronização no sistema, para mudar o preço"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:51:37.403Z",
+      "msg": "Seria necessário alterar os preços dos produtos na loja da Matriz e então aguardar a sincronização, ela seria a cada duas horas."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:53:38.325Z",
+      "msg": "Ok, obrigada!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:53:45.363Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quinta-feira e uma boa semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

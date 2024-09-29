@@ -1,0 +1,46 @@
+{
+  "id": "e0b3eed0-1a91-11ea-863c-315906f806fb",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Lucas",
+    "id": "bf3d301f1306457298b01158463ad9d78af411b235de6eb741541aea39d8e4d7",
+    "email": "santabirra@hotmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 2,
+  "chatDuration": 1011,
+  "rating": 0,
+  "createdOn": "2019-12-09T14:40:46.555Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:40:46.555Z",
+      "msg": "Nome : Lucas\r\nE-mail/Usuário : santabirra@hotmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:40:46.568Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:40:56.864Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,144 @@
+{
+  "id": "d044f860-1851-11ea-a0b2-d1b7c8b5c4c1",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "gilberto fedrizzi",
+    "id": "3e7b0682e14fc1bbf70b86746437011b8f46d7f4ea4b34cccdc62d43347b0bb7",
+    "email": "admmioraz@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 13,
+  "chatDuration": 2372,
+  "rating": 0,
+  "createdOn": "2019-12-06T17:57:10.012Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:57:10.012Z",
+      "msg": "Nome : gilberto fedrizzi\r\nE-mail/Usuário : admmioraz@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:57:10.056Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:57:21.373Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:57:27.778Z",
+      "msg": "Oi Ana!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:57:30.991Z",
+      "msg": "Tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:57:55.493Z",
+      "msg": "Precisamos resolver uma venda. A nota fiscal não emite."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:58:23.623Z",
+      "msg": "Essa situação tem acontecido com certa frequência. O que pode estar acontecendo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-06T17:58:36.498Z",
+      "data": {
+        "uri": "https",
+        "name": "Capturar.PNG",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:59:53.645Z",
+      "msg": "Tudo bem e você?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:00:08.413Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:10:48.763Z",
+      "msg": "Mais um momento, por favor, a Equipe Técnica já esta finalizando o ajuste"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:35:22.865Z",
+      "msg": "Deu certo, Gilberto!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:35:29.791Z",
+      "msg": "A nota foi emitida com sucesso."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:36:41.719Z",
+      "msg": "Orientamos você entrar em contato com a XNEO referente a este caso, pois eles estão encaminhando no Pedido a Cidade que não pertence ao estado, esse problema tem ocorrido quando existe duas cidades com o mesmo nome em dois estados diferentes, então, vem a cidade que pertence a outro estado."
+    }
+  ],
+  "domain": "tawk.to"
+}

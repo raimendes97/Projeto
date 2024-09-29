@@ -1,0 +1,108 @@
+{
+  "id": "cb2cc5d0-1ac5-11ea-91d0-41a9fa20f262",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Jessica",
+    "id": "69bd8983310d4d0c518d0be972c29935fb6e0e8c9826e939c81c3b78073b45cb",
+    "email": "jessica@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Barueri"
+  },
+  "messageCount": 9,
+  "chatDuration": 855,
+  "rating": 0,
+  "createdOn": "2019-12-09T20:52:33.519Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:52:33.519Z",
+      "msg": "Nome : Jessica\r\nE-mail/Usuário : jessica@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:52:33.558Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:52:47.247Z",
+      "msg": "Olá Jéssica"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:52:50.164Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:53:05.943Z",
+      "msg": "Mais um segundo, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:53:27.195Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T21:00:55.822Z",
+      "msg": "Jéssica, a Equipe Técnica identificou o erro, seria devido a uma permissão de usuário que esta com problema e mesmo você tendo a permissão para fazer as devoluções, esta bloqueando. Eles já estão trabalhando na correção, então essa semana deve entrar sem falta.\nEmitimos as notas de trocas para você, vou lhe passar o voucher delas. Caso você precise realizar alguma troca antes de entrar a correção no ar, por favor, nos avise que emitimos por aqui e lhe passamos o voucher."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T21:01:23.650Z",
+      "msg": "A troca da  cliente RITA MORAIS, gerou o voucher YYJLI2F0"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T21:01:50.894Z",
+      "msg": "A da cliente ANDREA JASO, gerou o voucher 4WX5"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T21:02:52.830Z",
+      "msg": "Podemos continuar o atendimento amanhã de manhã, na primeira hora, por favor? Nosso atendimento encerra agora as 18hrs e retornamos amanhã, a partir das 8hrs."
+    }
+  ],
+  "domain": "tawk.to"
+}

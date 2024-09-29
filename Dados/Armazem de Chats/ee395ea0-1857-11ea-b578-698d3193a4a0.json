@@ -1,0 +1,211 @@
+{
+  "id": "ee395ea0-1857-11ea-b578-698d3193a4a0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "lilian",
+    "id": "349d639222b80c3f729175b69fb009397f099e834697b8e1c7f97de25a42dd3c",
+    "email": "loja@cristofoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 22,
+  "chatDuration": 3435,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:41:09.035Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:41:09.035Z",
+      "msg": "Nome : lilian\r\nE-mail/Usuário : loja@cristofoli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:41:09.008Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:41:16.933Z",
+      "msg": "oi desculpa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:41:30.998Z",
+      "msg": "desapareceu a conversa anterior"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:41:55.245Z",
+      "msg": "a nota que quero fazer devolução é a de número 1806"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:43:10.269Z",
+      "msg": "Certo, Lilian. Para realizar a devolução, é necessário que você vá em Vendas > Devoluções."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:43:36.638Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:43:39.702Z",
+      "msg": "já fiz isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:43:43.525Z",
+      "msg": "o problema"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:43:59.694Z",
+      "msg": "é que quando faço a devolução da nota"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:44:29.699Z",
+      "msg": "ela vem incompleta"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:44:41.401Z",
+      "msg": "somente com os dados do frete na cobrança"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:44:57.729Z",
+      "msg": "sem o item de venda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:04.264Z",
+      "msg": "conforme a nota de saída"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:15.370Z",
+      "msg": "pode verificar o erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:22.820Z",
+      "msg": "nota 1608"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:45:30.599Z",
+      "msg": "Claro. Um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:48:49.472Z",
+      "msg": "Lilian, é uma troca?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:48:53.907Z",
+      "msg": "E além disso, iremos gerar uma NF-e?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:49:48.838Z",
+      "msg": "não é troca"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:50:08.367Z",
+      "msg": "iremos gerar Nf sim.."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:50:21.983Z",
+      "msg": "Um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:38:24.002Z",
+      "msg": "Lilian, ainda estamos consultando o motivo de não estar puxando o produto corretamente."
+    }
+  ],
+  "domain": "tawk.to"
+}

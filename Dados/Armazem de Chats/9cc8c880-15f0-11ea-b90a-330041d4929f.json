@@ -1,0 +1,88 @@
+{
+  "id": "9cc8c880-15f0-11ea-b90a-330041d4929f",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Carla",
+    "id": "846daa160100fc9cbe47389cbc944932b6327a4015f5033758f21aa66d20cd3e",
+    "email": "edson@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 7,
+  "chatDuration": 303,
+  "rating": 0,
+  "createdOn": "2019-12-03T17:16:18.384Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:16:18.384Z",
+      "msg": "Nome : Carla\r\nE-mail/Usuário : edson@paypet.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:16:18.407Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:16:35.028Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:16:47.231Z",
+      "msg": "Boa tarde! Como está o andamento da minha solicitação ref a baixa parcial?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:17:36.757Z",
+      "msg": "Hoje efetuei um pagamento que faz parte de uma baixa que já fiz parcialmente na semana passada, mas não posso mexer com o vencimento."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:18:11.327Z",
+      "msg": "O valor era 4.250, na semana passada baixei 2.000,00 e hoje tenho que baixar mais 2.000,00"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:18:54.885Z",
+      "msg": "Um momento, por favor, vou verificar com a Equipe Técnica"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T17:21:21.500Z",
+      "msg": "Infelizmente a Equipe Técnica ainda não tem previsão para entrega deste Chamado, ele será desenvolvido mais adiante. Assim que tiver uma previsão, eles entrarão em contato com você através do chamado avisando."
+    }
+  ],
+  "domain": "tawk.to"
+}

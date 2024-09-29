@@ -1,0 +1,98 @@
+{
+  "id": "e5e7b230-1508-11ea-8ce2-4dd444f23745",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Nathalia",
+    "id": "834d027baaa0d99a6a906f897177e699b55f25d3638d293121475029d6ecd31d",
+    "email": "contato@eubenta.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Unknown"
+  },
+  "messageCount": 8,
+  "chatDuration": 861,
+  "rating": 0,
+  "createdOn": "2019-12-02T13:37:40.544Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:37:40.544Z",
+      "msg": "Nome : Nathalia\r\nE-mail/Usuário : contato@eubenta.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:37:40.579Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:37:56.947Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:38:15.161Z",
+      "msg": "bom dia! gostaria de saber como gero as XMLs do mês anterior para enviar a minha contabilidade"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:39:11.385Z",
+      "msg": "Vou lhe passar um passo a passo que demonstra como você procede para conseguir extrair o XML:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:40:06.229Z",
+      "msg": "obrigada, vou ver"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:41:32.458Z",
+      "msg": "Imagina! Qualquer dúvida, estamos a disposição!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:41:37.157Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T13:41:42.044Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

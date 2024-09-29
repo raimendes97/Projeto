@@ -1,0 +1,290 @@
+{
+  "id": "32bb2c80-169f-11ea-b221-c9e478093d34",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Eugênio",
+    "id": "12f7efdf8ee0a138060d04c5355721dad5bb1951f3dfd739cbdeda6fa7e41ccc",
+    "email": "eugenio@crismiolodistribuidora.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Bento Gonçalves"
+  },
+  "messageCount": 31,
+  "chatDuration": 1199,
+  "rating": 0,
+  "createdOn": "2019-12-04T14:06:11.331Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:06:11.331Z",
+      "msg": "Nome : Eugênio\r\nE-mail/Usuário : eugenio@crismiolodistribuidora.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:06:11.356Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:06:22.275Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:06:29.060Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:07:24.419Z",
+      "msg": "como faço para alterar a natureza da operação da nota"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:07:39.476Z",
+      "msg": "preciso emitir uma nota bonificada para um cliente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:07:46.209Z",
+      "msg": "mas saiu como venda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:08:04.047Z",
+      "msg": "quando seleciono pagamento, coloquei bonificação"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:08:30.098Z",
+      "msg": "Para emitir uma nota em bonificação, é necessário que, primeiramente, tenhamos uma Natureza de Operação cadastrada como BONIFICAÇÃO. Após isso, é necessário que a gente vá em Vendas > Notas Eletrônicas > Outras Notas e adicione uma nova nota."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:08:51.456Z",
+      "msg": "esse cadastro eu que faço ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:09:08.953Z",
+      "msg": "Sim, é necessário. Para cadastrar uma natureza de operação, acesse Cadastro > Fiscal > Natureza de Operação."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:09:39.312Z",
+      "msg": "tem cadastrado já"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:10:03.668Z",
+      "msg": "Depois disso, é preciso que você vá em Cadastro > Fiscal > Tributações, localize o Destino / Origem corretos e veja se já existe a natureza de operação dentro deste cadastro."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:11:02.168Z",
+      "msg": "Realizado estes procedimentos, você precisa ir em Vendas > Notas Eletrônicas > Outras Notas e clicar no botão Adicionar, selecionando a NATUREZA DE OPERAÇÃO como BONIFICAÇÃO."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:12:03.312Z",
+      "msg": "desculpa, não entendi muito bem ali no destino/origem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:12:08.035Z",
+      "msg": "o que eu deveria ver?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:12:26.400Z",
+      "msg": "Se já existe a natureza de operação dentro do destino/origem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:12:30.695Z",
+      "msg": "No caso, bonificação."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:13:48.987Z",
+      "msg": "então dentro do destino/origem eu tenho que ter dentro da natureza de operação o cadastro da bonificação"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:14:15.792Z",
+      "msg": "Exatamente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:15:04.556Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:15:08.244Z",
+      "msg": "vou fazer aqui"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:23:38.073Z",
+      "msg": "na hora de emitir a nota ele pede modelo numero serie e chave, isso não deveria ser automatico ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:24:30.430Z",
+      "msg": "Pode deixar o modelo fiscal como Selecione."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:24:45.156Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:24:56.121Z",
+      "msg": "ai posso gerar normalmente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:25:06.985Z",
+      "msg": "Sim. :)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:25:58.618Z",
+      "msg": "show"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:26:01.086Z",
+      "msg": "deu certo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:26:04.903Z",
+      "msg": ":D"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:26:07.321Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quarta-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T14:26:10.290Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

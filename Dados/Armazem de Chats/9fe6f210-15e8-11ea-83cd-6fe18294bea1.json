@@ -1,0 +1,105 @@
+{
+  "id": "9fe6f210-15e8-11ea-83cd-6fe18294bea1",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Alice",
+    "id": "73f8d8f9741c80f2065e371126950d480c5c683fe842ac3d5db6536e75840955",
+    "email": "stacecilia@bolovo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 9,
+  "chatDuration": 109,
+  "rating": 0,
+  "createdOn": "2019-12-03T16:31:29.249Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:31:29.249Z",
+      "msg": "Nome : Alice\r\nE-mail/Usuário : stacecilia@bolovo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:31:29.273Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:31:58.027Z",
+      "msg": "Boa tarde. O João estava me atendendo anteriormente, antes do almoço. Ele ficou de dar continuidade no atendimento"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:32:13.987Z",
+      "msg": "Boa tarde, Alice!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:32:22.651Z",
+      "msg": "Pode nos passar um acesso do team viewer, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:32:29.035Z",
+      "msg": "Para darmos continuidade"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:32:55.737Z",
+      "msg": "ID 1 469 122 321"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:33:00.589Z",
+      "msg": "Senha 01061"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:33:14.602Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T16:33:18.674Z",
+      "msg": "Ok"
+    }
+  ],
+  "domain": "tawk.to"
+}

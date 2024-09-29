@@ -1,0 +1,245 @@
+{
+  "id": "286a6240-1a83-11ea-a3b1-57633db5454e",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Edson",
+    "id": "eca652e409dff20fb021b9ee4baf76a2805e29da4ff84057765864232b669902",
+    "email": "miloccacosmeticos@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 26,
+  "chatDuration": 1882,
+  "rating": 0,
+  "createdOn": "2019-12-09T12:55:26.407Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:55:26.407Z",
+      "msg": "Nome : Edson\r\nE-mail/Usuário : miloccacosmeticos@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:55:26.442Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:55:31.307Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:55:34.567Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:57:38.273Z",
+      "msg": "Sábado, dia 07/12 tivemos diversos problemas com o PDV."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:58:33.230Z",
+      "msg": "Porém posteriormente as vendas acabaram concretizando, porém uma especificamente por volta das  12:59 não registrou."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:59:03.371Z",
+      "msg": "Só temos o comprovante do cartão de Débito da cliente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:59:35.642Z",
+      "msg": "Tem como sabermos o que ocorreu?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:59:49.523Z",
+      "msg": "Você lembra o erro que estava ocorrendo na tela?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:11:10.190Z",
+      "msg": "Simplesmente o sistema não processando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:12:22.420Z",
+      "msg": "Quando eu cheguei na loja por volta das 14:00, algumas vendas que não estavam aparecendo simplesmente do nada apareceram. Aparentemente ficou somente este para trás."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:15:16.129Z",
+      "msg": "Mas essa você não conseguiu realizar por conta do erro, correto? Você conseguiria nos passar um acesso do team viewer e tentar passar essa venda agora novamente? Para verificarmos o que esta ocorrendo e o que ocorreu no final de semana."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:16:19.810Z",
+      "msg": "Desta venda eu só tenho o comprovante do Cartão de débito da cliente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:17:23.698Z",
+      "msg": "Certo. Não entendi muito bem, você conseguiu passar as vendas no PDV mas elas não sincronizaram com o   Web? Ou você não conseguiu fazer as vendas?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:19:13.516Z",
+      "msg": "Isso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:19:22.514Z",
+      "msg": "A venda não aparece."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:19:49.674Z",
+      "msg": "Fomos ver o espelho dos cupons fiscais e nada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:20:08.330Z",
+      "msg": "Os outros todos estão gravados."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:21:12.722Z",
+      "msg": "Nossa preocupação é se as vendas começarem a crescer e este problema começar a aparecer tambem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:21:29.097Z",
+      "msg": "Sábado infelizmente as vendas foram péssimas."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:21:58.760Z",
+      "msg": "Certo, entendi."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:22:08.596Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:22:29.020Z",
+      "msg": "Você pode me confirmar também o valor desta venda que você possui apenas o comprovante do cartão?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:22:46.420Z",
+      "msg": "Sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:23:04.634Z",
+      "msg": "R$ 77,20."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:23:31.895Z",
+      "msg": "O Comprovante do Débito aparece com  12:59"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:26:48.885Z",
+      "msg": "A equipe Técnica identificou um problema de sincronização, você consegue nos passar um acesso do team viewer ao seu computador do PDV, para verificarmos?"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "a750e970-150c-11ea-a0df-e363098c306c",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Leonardo",
+    "id": "683d05450e64b4ea648ae154000c61f0f8fe22edaf827424dc2d7f521e242b24",
+    "email": "ti.amai@outlook.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 23,
+  "chatDuration": 968,
+  "rating": 0,
+  "createdOn": "2019-12-02T14:05:37.972Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:05:37.972Z",
+      "msg": "Nome : Leonardo\r\nE-mail/Usuário : ti.amai@outlook.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:05:37.985Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:06:01.556Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:06:26.580Z",
+      "msg": "Bom dia Ana, estou entrando em contato sobre as devolução"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:06:53.768Z",
+      "msg": "fui verificar e notei que foi inserido a opção de nf ja emitida"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:07:28.266Z",
+      "msg": "e gostaria de confirmar o funcionamento para garantir que será realizado da maneira correta"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:08:51.280Z",
+      "msg": "se eu selecionar esta opção de NF já emitida já será realizada a atualização do estoque e financeiro ??ou apenas será inserido a devolução para confirmar a atualização posteriormente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:09:11.128Z",
+      "msg": "Um momento, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:13:07.127Z",
+      "msg": "Isso, quando você lançar a nota e marcar a opção de nota já emitida, quando você finaliza ela, já irá criar o financeiro e movimentar o seu estoque."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:13:19.762Z",
+      "msg": "Ela já confirma quando você finaliza ela."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:20.345Z",
+      "msg": "certo,muito obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:26.515Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:30.299Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:15:46.228Z",
+      "msg": "queria deixar apenas uma sugestão de enviar um e-mail notificando a entrega e o funcionamento para evitar erros"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:16:23.398Z",
+      "msg": "queria deixar apenas uma sugestão de enviar um e-mail notificando a entrega e o funcionamento para evitar erros"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:21:37.910Z",
+      "msg": "Perfeito! Vou repassar ao pessoal responsável."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:21:45.602Z",
+      "msg": "Muito obrigada pelo seu feedback"
+    }
+  ],
+  "domain": "tawk.to"
+}

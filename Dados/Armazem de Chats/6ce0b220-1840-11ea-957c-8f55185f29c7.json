@@ -1,0 +1,113 @@
+{
+  "id": "6ce0b220-1840-11ea-957c-8f55185f29c7",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fabiana",
+    "id": "b9c4eb6a1c6c1edb7063d2ebc4670e136831802f540c9832131976623b02cac4",
+    "email": "fabiana@selodecontrole.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 10,
+  "chatDuration": 3547,
+  "rating": 0,
+  "createdOn": "2019-12-06T15:52:42.337Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T15:52:42.337Z",
+      "msg": "Nome : Fabiana\r\nE-mail/Usuário : fabiana@selodecontrole.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T15:52:42.300Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T15:52:49.733Z",
+      "msg": "boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T15:53:03.439Z",
+      "msg": "onde faço  NF de devolução de consignação ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:23:17.314Z",
+      "msg": "?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:33:40.608Z",
+      "msg": "Boa tarde, Fabiana!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:34:20.440Z",
+      "msg": "Após você criar a Natureza da Operação e a Tributação de Retorno de Consignação, você pode acessar em Vendas > Notas eletronicas > Outras notas, para realizar a emissão."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:50:27.616Z",
+      "msg": "Boa tarde Ana!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:50:40.120Z",
+      "msg": "ok, muito obrigada e bom final de semana :kissing_heart:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:51:46.285Z",
+      "msg": "Para você tambem!:blush:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:51:49.796Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

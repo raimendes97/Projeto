@@ -1,0 +1,139 @@
+{
+  "id": "5e4a5f40-17a0-11ea-bd55-2db3fea4de40",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Marlos",
+    "id": "b4f4d2166b1f801fca51a17614377f4034ce7df59ae58ecfade6123909dd855d",
+    "email": "marlos@piratadolago.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Porto Alegre"
+  },
+  "messageCount": 12,
+  "chatDuration": 421,
+  "rating": 1,
+  "createdOn": "2019-12-05T20:46:56.354Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:46:56.354Z",
+      "msg": "Nome : Marlos\r\nE-mail/Usuário : marlos@piratadolago.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:46:56.366Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:47:01.261Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:47:17.692Z",
+      "msg": "onde consigo ver o quanto tenho de estoque? R$"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:47:58.448Z",
+      "msg": "Olá, Marlos."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:48:09.354Z",
+      "msg": "Você pode exportar uma planilha em Estoque > Consulta."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:48:22.943Z",
+      "msg": "sim, estou indo ali.."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:48:38.434Z",
+      "msg": "mas estou achando os numeros estranhos"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:49:21.354Z",
+      "msg": "Certo. Estranho em qual sentido, Marlos."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:49:39.291Z",
+      "msg": "achando o número alto."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:50:33.973Z",
+      "msg": "1 minuto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:53:04.495Z",
+      "msg": "Os números estão altos, mas devem estar certos. Estou conferindo aqui. Desconsidera..."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:53:17.370Z",
+      "msg": "Sem problemas, Marlos. Estamos aqui para te ajudar, sempre!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-05T20:53:27.776Z",
+      "data": {
+        "rating": 1
+      }
+    }
+  ],
+  "domain": "tawk.to"
+}

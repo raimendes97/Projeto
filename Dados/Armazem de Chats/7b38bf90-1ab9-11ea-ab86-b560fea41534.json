@@ -1,0 +1,63 @@
+{
+  "id": "7b38bf90-1ab9-11ea-ab86-b560fea41534",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Jessica",
+    "id": "69bd8983310d4d0c518d0be972c29935fb6e0e8c9826e939c81c3b78073b45cb",
+    "email": "jessica@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Barueri"
+  },
+  "messageCount": 4,
+  "chatDuration": 41,
+  "rating": 0,
+  "createdOn": "2019-12-09T19:24:25.868Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:24:25.868Z",
+      "msg": "Nome : Jessica\r\nE-mail/Usuário : jessica@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:24:25.918Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:24:48.154Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:24:58.250Z",
+      "msg": "Mais um momento, por favor, estamos verificando"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:25:06.507Z",
+      "msg": "Okay"
+    }
+  ],
+  "domain": "tawk.to"
+}

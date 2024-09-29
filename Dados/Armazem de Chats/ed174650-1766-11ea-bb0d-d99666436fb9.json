@@ -1,0 +1,220 @@
+{
+  "id": "ed174650-1766-11ea-bb0d-d99666436fb9",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "suelen",
+    "id": "64f4c6b9aaf47c6ad5dcfa8156731c9dcd617080b12dd6cb3f7009f953cfc8e9",
+    "email": "scasagrande@woom.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 22,
+  "chatDuration": 868,
+  "rating": 0,
+  "createdOn": "2019-12-05T13:55:44.132Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:55:44.132Z",
+      "msg": "Nome : suelen\r\nE-mail/Usuário : scasagrande@woom.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:55:44.148Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:55:51.303Z",
+      "msg": "bom diaaa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:55:53.956Z",
+      "msg": "tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:56:04.131Z",
+      "msg": "Boooom dia! Tudo bem e com você? Como podemos ajudá-la? (:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:56:16.777Z",
+      "msg": "tudo bele também!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:56:18.074Z",
+      "msg": "apareceu esse erro :"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T13:56:25.484Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:57:11.221Z",
+      "msg": "Um instante, Su! Já iremos ver o que está acontecendo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:57:44.316Z",
+      "msg": "blz"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:04:15.092Z",
+      "msg": "Su, pode tentar emitir agora, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:05:33.401Z",
+      "msg": "outra"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T14:05:34.808Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:07:17.273Z",
+      "msg": "A nota do cliente Tiago Pinheiro se encontra emitida, pode verificar, por gentileza? :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:08:09.934Z",
+      "msg": "deu certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:08:13.432Z",
+      "msg": "tudo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:08:16.122Z",
+      "msg": "\\o/"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:08:16.320Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:08:17.887Z",
+      "msg": ";)"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:08:23.413Z",
+      "msg": "aaaa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:08:30.081Z",
+      "msg": "bj"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:08:43.569Z",
+      "msg": "Beijos, Su! Bom trabalho. :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:10:04.774Z",
+      "msg": "pra ti também!"
+    }
+  ],
+  "domain": "tawk.to"
+}

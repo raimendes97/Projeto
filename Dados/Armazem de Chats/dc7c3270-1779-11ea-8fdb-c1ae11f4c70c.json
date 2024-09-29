@@ -1,0 +1,536 @@
+{
+  "id": "dc7c3270-1779-11ea-8fdb-c1ae11f4c70c",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Levy",
+    "id": "566e1333ea8becca7443535218e86c469655fa2c6fea0903a3128b19fd546431",
+    "email": "levy@ofrancesgravataria.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 58,
+  "chatDuration": 6826,
+  "rating": 0,
+  "createdOn": "2019-12-05T16:11:21.420Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:11:21.420Z",
+      "msg": "Nome : Levy\r\nE-mail/Usuário : levy@ofrancesgravataria.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:11:21.425Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:30:47.836Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:42:42.704Z",
+      "msg": "boa tarde tudo bom?"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:42:42.716Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:43:00.022Z",
+      "msg": "Olá, Levy! Eu estou bem e você? :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:43:04.198Z",
+      "msg": "Bem também"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:43:13.210Z",
+      "msg": "precisava de uma ajuda com relação as etiquetas"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:43:23.465Z",
+      "msg": "estou exportando o arquivo zpl"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:44:01.877Z",
+      "msg": "porém quando vou imprimir na impressora termica de etiquetas, sai tudo desconfigurado, texto em cima do código de barras, tamanho da fonte diferente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:44:28.909Z",
+      "msg": "você sabe me dizer se o arquivo gerada pelo   só funciona em modelos específicos de impressora?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:44:44.615Z",
+      "msg": "Levy, você pode nos anexar uma foto exemplificando o modelo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:45:14.554Z",
+      "msg": "posso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:45:17.805Z",
+      "msg": "já estou tirando a foto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T16:45:58.535Z",
+      "data": {
+        "uri": "https",
+        "name": "IMG_5489.JPG",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T16:46:00.082Z",
+      "data": {
+        "uri": "https",
+        "name": "IMG_4237.JPG",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:46:29.701Z",
+      "msg": "a 4273 é quando eu imprimo o arquivo exportado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:46:49.297Z",
+      "msg": "a 5489 é quando eu monto o arquivo na mão em um programa que chama bartender"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:47:02.167Z",
+      "msg": "Um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:51:16.338Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:53:34.590Z",
+      "msg": "Levy, você pode realizar mais um teste exportando pelo  ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:56:26.658Z",
+      "msg": "eu exporto do zero novamente?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:56:57.059Z",
+      "msg": "Sim, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:58:26.656Z",
+      "msg": "exportei"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:58:30.201Z",
+      "msg": "vou tentar imprimir novamente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:58:44.925Z",
+      "msg": "Certo, Levy."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:02:04.521Z",
+      "msg": "continuou igual"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:02:23.789Z",
+      "msg": "Exatamente igual, Levy?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:02:27.777Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:03:32.569Z",
+      "msg": "e o que acontece é que a primeira etiqueta fica diferente da segunda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:03:38.068Z",
+      "msg": "muda uns códigos no meia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:03:40.113Z",
+      "msg": "meio"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:03:47.165Z",
+      "msg": "mas na foto que eu te enviei já da pra ver isso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:04:08.024Z",
+      "msg": "Provavelmente pelo tamanho do nome do produto."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:04:09.563Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:08:28.699Z",
+      "msg": "entendi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:09:19.385Z",
+      "msg": "quando eu monto o modelo da etiquete tinha diminuido o tamanho, mas mesmo assim, é como se a impressora só estivesse lendo parte do código, tipo, informações, e tamanho da etiqueta, mas perde todas as formatações"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:09:47.800Z",
+      "msg": "Vamos tentar realizar uns ajustes por aqui. Um instante, por gentilteza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:09:50.866Z",
+      "msg": "Gentileza*"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:19:29.820Z",
+      "msg": "Levy, realizamos alguns ajustes. Você pode verificar, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:20:10.149Z",
+      "msg": "já estou gerando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:20:55.892Z",
+      "msg": "Por favor, recarregue a página, adicione os produtos novamente e gere novamente o arquivo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T17:22:00.816Z",
+      "data": {
+        "uri": "https",
+        "name": " .zpl",
+        "mime": "application/octet-stream"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:22:03.909Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:23:47.928Z",
+      "msg": "visualmente saiu igua"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:24:01.516Z",
+      "msg": "igual, só mudou que apareceu r40I na frente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:24:14.868Z",
+      "msg": "Levy, pode nos enviar uma foto, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T17:25:04.250Z",
+      "data": {
+        "uri": "https",
+        "name": "IMG_2389.JPG",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:29:50.217Z",
+      "msg": "Levy, você tem as medidas da etiqueta?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:29:59.023Z",
+      "msg": "4x2,5"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:30:36.144Z",
+      "msg": "4 de altura por 2,5 de largura?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:34:32.485Z",
+      "msg": "isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:34:46.409Z",
+      "msg": "0,3 entre uma etiqueta e outra"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:34:49.920Z",
+      "msg": "1 coluna"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:35:07.371Z",
+      "msg": "margem de 0,3 de cada lado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:41:42.430Z",
+      "msg": "a impressora que eu estou usando é a elgin lp42 pro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:42:00.048Z",
+      "msg": "l42 pro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:42:37.162Z",
+      "msg": "Beleza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:43:02.344Z",
+      "msg": "Já estamos verificando, Levy."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:43:42.621Z",
+      "msg": "ok, obrigado"
+    }
+  ],
+  "domain": "tawk.to"
+}

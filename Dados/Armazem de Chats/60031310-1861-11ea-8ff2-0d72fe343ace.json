@@ -1,0 +1,62 @@
+{
+  "id": "60031310-1861-11ea-8ff2-0d72fe343ace",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "lilian",
+    "id": "349d639222b80c3f729175b69fb009397f099e834697b8e1c7f97de25a42dd3c",
+    "email": "loja@foli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 4,
+  "chatDuration": 659,
+  "rating": 0,
+  "createdOn": "2019-12-06T19:48:37.461Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:48:37.461Z",
+      "msg": "Nome : lilian\r\nE-mail/Usuário : loja@foli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:48:37.481Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:48:41.777Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:48:48.204Z",
+      "msg": "fico no aguardo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:59:36.537Z",
+      "msg": "Lilian, você pode realizar a devolução agora, por gentileza?"
+    }
+  ],
+  "domain": "tawk.to"
+}

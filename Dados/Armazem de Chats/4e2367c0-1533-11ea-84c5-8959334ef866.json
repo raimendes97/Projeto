@@ -1,0 +1,232 @@
+{
+  "id": "4e2367c0-1533-11ea-84c5-8959334ef866",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Tatiane",
+    "id": "ed40639dab0c429a04df8d4a678e49b8195851bec6edb5db37ae215649741750",
+    "email": "sapiranga@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 24,
+  "chatDuration": 2889,
+  "rating": 0,
+  "createdOn": "2019-12-02T18:41:14.108Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:41:14.108Z",
+      "msg": "Nome : Tatiane\r\nE-mail/Usuário : sapiranga@verdeb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:41:14.218Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:41:30.628Z",
+      "msg": "Olá, caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:41:35.765Z",
+      "msg": "sim desculpa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:41:50.626Z",
+      "msg": "Imagina, não tem problema"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:41:55.606Z",
+      "msg": "Você esta tentando Trocar todos os itens da nota 31292/2?\nPode nos passar o item que você precisa trocar para que possamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:42:05.959Z",
+      "msg": "o produto foi um pijama"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:42:10.224Z",
+      "msg": "no valor de 35,99"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:42:29.454Z",
+      "msg": "Podemos tentar realizar a Troca por aqui?\nQual seria a vendedora da Troca?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:42:58.620Z",
+      "msg": "Steffen"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:43:09.271Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:43:22.950Z",
+      "msg": "tem mais uma troca que precisamos fazer"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:44:57.398Z",
+      "msg": "A Equipe Técnica fez um ajuste no sistema para que não ocorra mais esse erro.\nVocê consegue tentar novamente, por favor? Vamos acompanhar por aqui"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:01:03.908Z",
+      "msg": "Deu certo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:05:44.236Z",
+      "msg": "oi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:05:48.271Z",
+      "msg": "tentai outra agora"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:05:52.716Z",
+      "msg": "e deu o mesmo erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:09:10.183Z",
+      "msg": "Vamos verificar, um momento por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:17:53.411Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:17:55.304Z",
+      "msg": "aguardo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:21:18.158Z",
+      "msg": "Pode me passar o nome deste pijama ou o código dele, por favor? O técnico não localizou ele na nota 31292/2 para fazer a troca"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:24:45.067Z",
+      "msg": "5142643"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:24:48.414Z",
+      "msg": "codigo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:24:58.750Z",
+      "msg": "Um segundo, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:23.324Z",
+      "msg": "A Equipe Técnica encontrou um erro, eles já estão trabalhando na correção, mais alguns minutinhos já estará ok.\num momento, por favor."
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "240dc140-1846-11ea-9d93-1b40c69cfed0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fernando",
+    "id": "220815e07edbdb7121f2ef7a4202fccd9f457e48ccab269f1697a50e3b9313c4",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 6,
+  "chatDuration": 57,
+  "rating": 0,
+  "createdOn": "2019-12-06T16:45:48.793Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:45:48.793Z",
+      "msg": "Nome : Fernando\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:45:48.809Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:45:58.033Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:46:08.598Z",
+      "msg": "Fernando PayPet Aguardando retorno do Problema da Integração."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:46:28.405Z",
+      "msg": "Também não estou mais conseguindo acessar o sistema na loja 2"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:46:32.667Z",
+      "msg": "expirou."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:46:45.854Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    }
+  ],
+  "domain": "tawk.to"
+}

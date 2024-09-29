@@ -1,0 +1,97 @@
+{
+  "id": "5337c360-1528-11ea-9386-873d321cddcc",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "mayara",
+    "id": "8cbaf32736405cfd16df6f642505d22df07e5ca34f19e15d9c4cd0a9c364d4ec",
+    "email": "gerencia@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 8,
+  "chatDuration": 599,
+  "rating": 0,
+  "createdOn": "2019-12-02T17:23:00.171Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:23:00.171Z",
+      "msg": "Nome : mayara\r\nE-mail/Usuário : gerencia@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:23:00.200Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:23:22.763Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:27:56.094Z",
+      "msg": "Olá, eu falei mais cedo com um de vcs pra resolver um problema pra mim, só q depois de tudo resolvido e desligado a chamada do anydesk,o meu teclado desconfigurou, e isso acontece toda vez q entro em contato com o suporte, queria saber se tem como vcs resolverem isso. As teclas de letras saem números e fica uma bagunça, inclusive estou digitando pelo teclado virtual"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:29:51.160Z",
+      "msg": "você consegue entrar em contato com o administrador da sua Loja ou com o Diego, por favor? O Técnico não fez nenhuma alteração de configuração  no teclado, somente verificou o PDV."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:30:28.422Z",
+      "msg": "Consigo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:30:47.958Z",
+      "msg": "Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:31:16.751Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:31:19.560Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

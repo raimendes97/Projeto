@@ -1,0 +1,709 @@
+{
+  "id": "71f54700-1523-11ea-8b82-a98255b09455",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "luana",
+    "id": "88079c701e31fef9eeea57156ac581243d7d8e9c12aa610b03d9408487725c37",
+    "email": "luana.dias@akorrio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rio de Janeiro"
+  },
+  "messageCount": 81,
+  "chatDuration": 3871,
+  "rating": 1,
+  "createdOn": "2019-12-02T16:52:22.942Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:52:22.942Z",
+      "msg": "Nome : luana\r\nE-mail/Usuário : luana.dias@akorrio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:52:22.963Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:52:30.475Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:52:30.835Z",
+      "msg": "Boa Tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:52:46.726Z",
+      "msg": "Eu estava em um atendimento e caiu"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:55:11.117Z",
+      "msg": "Mais um momento, por favor, estamos verificando"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:55:42.629Z",
+      "msg": "Estou aguardando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:01:11.459Z",
+      "msg": "Luana, observamos que foi criada uma nova Tributação, chamada \"Simples Remessa\", para a Operação REMESSA PARA EXPOSIÇÃO OU FEIRA.\nNeste caso, você precisará acessar a tela de cadastro de produtos, acessar o produto, acessar a Aba Fiscal, e alterar no Campo Chamado Tributação, selecionando a Opção Simples Remessa, então você conseguirá emitir a nota dela.\n\nOu então, você acessa em Cadastros > Fiscal > Tributações > Venda > RJ / RJ, clica em Adicionar e cria a opção  REMESSA PARA EXPOSIÇÃO OU FEIRA aqui dentro, assim não é necessária alterar a Tributação dos itens para esse tipo de nota."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:01:46.509Z",
+      "msg": "Vou tentar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:05:53.642Z",
+      "msg": "Agora esta aparecendo este erro:  Não foram geradas parcelas para a nota ou ela está zerada!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:06:14.991Z",
+      "msg": "Essa nota deve possuir financeiro mesmo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:06:30.101Z",
+      "msg": "Receita?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:06:35.378Z",
+      "msg": "isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:06:50.511Z",
+      "msg": "Sim, porque tera vendas na feira"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:07:11.506Z",
+      "msg": "Perfeito! Quando você estava criando a nota, apareceu a opção para você selecionar a forma de pagamento?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:07:47.102Z",
+      "msg": "Não apareceu"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:08:13.609Z",
+      "msg": "Um segundo, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:09:50.706Z",
+      "msg": "Você consegue, por favor, atualizar a página e tentar gerar uma nova nota?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:10:16.633Z",
+      "msg": "Fizemos um teste agora e mostrou certinho"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:10:19.568Z",
+      "msg": "Não vou perder os produtos?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:10:59.344Z",
+      "msg": "Vou ter que listar todos produtos novamente?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:12:12.530Z",
+      "msg": "Você pode marcar a opção Não, em \"Gerar Nfe?\" por favor? Então ele deve salvar, como se fosse um pedido para ser emitida depois, para verificarmos se é possível alterar nesta mesma."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:13:13.355Z",
+      "msg": "Não foram geradas parcelas para a nota ou ela está zerada!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:13:17.637Z",
+      "msg": "Aparece essa mesma mensagem"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:13:38.882Z",
+      "msg": "Um segundo, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:16:22.579Z",
+      "msg": "Aguardando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:16:56.919Z",
+      "msg": "Você consegue, por favor clicar no campo de Natureza da Operação bem em cima, trocar a Natureza da operação para outra qualquer, dar um TAB, para o sistema carregar e depois, voltar para a opção REMESSA PARA EXPOSIÇÃO OU FEIRA"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:17:09.447Z",
+      "msg": "ela deve liberar a opção para você selecionar a forma de pagamento"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:19:16.112Z",
+      "msg": "Deu certo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:24:55.104Z",
+      "msg": "Vou tentar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:25:03.026Z",
+      "msg": "Certo, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:26:20.697Z",
+      "msg": "Ainda esta dando o mesmo erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:26:37.224Z",
+      "msg": "Pode me passar um acesso do team viewer, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:27:25.075Z",
+      "msg": "Sim!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:28:10.501Z",
+      "msg": "Meu ID:1 160 444 066"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:28:25.857Z",
+      "msg": "senha:4srb34"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:29:56.010Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:30:48.303Z",
+      "msg": "Você consegue, por favor, fazer o download do Anydesk e nos passar o ID?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:30:49.120Z",
+      "msg": "https"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:31:01.264Z",
+      "msg": "Infelizmente a versão do seu team viewer é muito recente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:31:09.743Z",
+      "msg": "não temos licenças para acessar ainda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:33:08.319Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:33:11.381Z",
+      "msg": "Um instante"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:33:18.379Z",
+      "msg": "Mas o meu é MAC"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:34:19.750Z",
+      "msg": "Certo, tem essa opção para MAC"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:34:20.685Z",
+      "msg": "https"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:36:03.441Z",
+      "msg": "423 114 679"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:36:15.440Z",
+      "msg": "Vou conectar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:36:19.783Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:36:44.743Z",
+      "msg": "Consegue clicar em Aceitar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:36:46.367Z",
+      "msg": "por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:36:58.745Z",
+      "msg": "Aceitei"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:37:23.528Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:39:03.019Z",
+      "msg": "Pode aceitar novamente, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:39:53.591Z",
+      "msg": "Você tem outra tela?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:40:06.824Z",
+      "msg": "Esta mexendo em outra tela? Não conseguimos mexer"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:40:40.572Z",
+      "msg": "Como eu libero?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:42:25.746Z",
+      "msg": "Acredito que seja um erro no programa.\nConsegue instalar a versão 12 do team viewer, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:42:26.710Z",
+      "msg": "https"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:45:10.252Z",
+      "msg": "Tenta agora"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:45:23.896Z",
+      "msg": "No Anydesk?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:45:27.580Z",
+      "msg": "Sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:45:36.660Z",
+      "msg": "Acho que era um problema de privacidade do mac"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:45:45.439Z",
+      "msg": "Ok, vou conectar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:51:19.352Z",
+      "msg": "Oi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:51:38.639Z",
+      "msg": "Oi"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:51:51.567Z",
+      "msg": "Pode selecionar a forma de pagamento, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:52:00.118Z",
+      "msg": "agora você deve conseguir emitir com sucesso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:53:49.232Z",
+      "msg": "Esta carregando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:53:57.800Z",
+      "msg": "Um momento, por favor, vamos acompanhar aqui nos logs a emissão"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:54:10.839Z",
+      "msg": "acredito que é porque tem bastante itens, esteja demorando"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:55:05.721Z",
+      "msg": "Sim!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:55:17.109Z",
+      "msg": "Deu certo!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:56:20.441Z",
+      "msg": "Conseguimos!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:56:22.307Z",
+      "msg": "Obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:56:34.803Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:56:37.439Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-02T17:56:40.808Z",
+      "data": {
+        "rating": 1
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-02T17:56:51.252Z",
+      "data": {
+        "rating": 0
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-02T17:56:54.371Z",
+      "data": {
+        "rating": 1
+      }
+    }
+  ],
+  "domain": "tawk.to"
+}

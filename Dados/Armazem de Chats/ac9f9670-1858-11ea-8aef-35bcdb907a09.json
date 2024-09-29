@@ -1,0 +1,87 @@
+{
+  "id": "ac9f9670-1858-11ea-8aef-35bcdb907a09",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "gilberto fedrizzi",
+    "id": "3e7b0682e14fc1bbf70b86746437011b8f46d7f4ea4b34cccdc62d43347b0bb7",
+    "email": "admmioraz@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 7,
+  "chatDuration": 680,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:46:35.600Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:46:35.600Z",
+      "msg": "Nome : gilberto fedrizzi\r\nE-mail/Usuário : admmioraz@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:46:35.610Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:46:49.642Z",
+      "msg": "Oi Ana!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:46:54.769Z",
+      "msg": "Perdi a tua mensagem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:47:06.323Z",
+      "msg": "Como recupero?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:35.724Z",
+      "msg": "A nota foi emitida com sucesso.\nOrientamos você entrar em contato com a XNEO referente a este caso, pois eles estão encaminhando no Pedido a Cidade que não pertence ao estado, esse problema tem ocorrido quando existe duas cidades com o mesmo nome em dois estados diferentes, então, vem a cidade que pertence a outro estado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:55:06.871Z",
+      "msg": "Ah, ok. Vou avisar. Obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:57:55.336Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

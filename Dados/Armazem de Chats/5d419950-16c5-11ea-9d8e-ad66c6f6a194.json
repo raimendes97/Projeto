@@ -1,0 +1,172 @@
+{
+  "id": "5d419950-16c5-11ea-9d8e-ad66c6f6a194",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "luan",
+    "id": "2ba35e85cba8a710855f0a4920bdea3ac8578a8deeb29a6303aad16b683c8954",
+    "email": "luan@lumo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 17,
+  "chatDuration": 1201,
+  "rating": 0,
+  "createdOn": "2019-12-04T18:39:22.838Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:22.838Z",
+      "msg": "Nome : luan\r\nE-mail/Usuário : luan@lumo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:22.891Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:26.615Z",
+      "msg": "Boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:28.702Z",
+      "msg": "Tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:29.764Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:36.490Z",
+      "msg": "Tudo bem sim e com você, Luan?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:39.095Z",
+      "msg": "tudo bem tambem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:44.752Z",
+      "msg": "emitimos uma nota hoje"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:40:02.692Z",
+      "msg": "e eu percebi que o valor dos produtos ficou 0,01 a menos que o valor da nota"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:40:21.192Z",
+      "msg": "e devido a isso o meu cliente solicitou o cancelamento da nota"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:40:37.868Z",
+      "msg": "Certo. Qual é o e-mail de acesso ao  , Luan?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:40:52.827Z",
+      "msg": "luan.varga@hotmail.com"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:41:20.923Z",
+      "msg": "Certo, Luan. Você pretende emitir uma nova nota?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:41:58.474Z",
+      "msg": "sim, vamos fazer isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:42:17.172Z",
+      "msg": "só gostaria de saber o motivo que o sistema puxou esse 0,01 diferente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:42:36.693Z",
+      "msg": "Tente repetir todo  o processo. Normalmente, quando acontece este tipo de problema, é pelo fato de o produto ser de e-commerce"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:42:49.145Z",
+      "msg": "Contudo, vocês não utilizam e-commerce, creio."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:47:32.639Z",
+      "msg": "Luan, nos comunique quando você estiver finalizando o procedimento, por gentileza."
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "379a25c0-151f-11ea-9b30-437dabc65748",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Luana",
+    "id": "e837bfc5e0a599ec998cd822f6cc7064ca1ab0afb7f9b19635ab400c3629cfb0",
+    "email": "luana.dias@akorrio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rio de Janeiro"
+  },
+  "messageCount": 14,
+  "chatDuration": 1593,
+  "rating": 0,
+  "createdOn": "2019-12-02T16:17:42.228Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:17:42.228Z",
+      "msg": "Nome : Luana\r\nE-mail/Usuário : luana.dias@akorrio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:17:42.250Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:17:49.133Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:26:37.108Z",
+      "msg": "Urgente!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:32:13.514Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:37:46.492Z",
+      "msg": "Eu não estou conseguir emitir uma NF para remessa para um feira"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:37:49.773Z",
+      "msg": "Como eu faço?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:38:46.053Z",
+      "msg": "Esta apresentando alguma mensagem de erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:41:09.668Z",
+      "msg": "Esta falando que esta faltando a tributação do produto, mas esta configurado ja pra venda"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:41:37.276Z",
+      "msg": "A nota ficou salva no sistema?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:41:47.751Z",
+      "msg": "Não chega nem emitir"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:42:16.885Z",
+      "msg": "Certo. Consegue me passar o nome da Natureza da Operação e do Fornecedor/Cliente, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:43:30.638Z",
+      "msg": "A Natureza de operação é REMESSA PARA EXPOSIÇÃO OU FEIRA"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:43:42.543Z",
+      "msg": "e o Fornecedor  ESSENCIA DE GRAMADO"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:44:14.972Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    }
+  ],
+  "domain": "tawk.to"
+}

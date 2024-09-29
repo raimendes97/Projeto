@@ -1,0 +1,388 @@
+{
+  "id": "28a711d0-150c-11ea-bd88-71bdbc44a4e0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "LeoNeffa",
+    "id": "59e474a6c11a4f870d5fd7e90f9425eef28dbca38746d3ebcf807212060c9a5a",
+    "email": "leonardoneffa@pax.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rio de Janeiro"
+  },
+  "messageCount": 41,
+  "chatDuration": 3541,
+  "rating": 1,
+  "createdOn": "2019-12-02T14:01:07.690Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:01:07.690Z",
+      "msg": "Nome : LeoNeffa\r\nE-mail/Usuário : leonardoneffa@pax.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:01:07.716Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:01:14.391Z",
+      "msg": "Bom dia."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:01:19.829Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:04:31.622Z",
+      "msg": "Temos uma conta, o   Top, com vocês pela Charlote.  É possível adicionar mais uma empresa utilizando os produtos já cadastrados na Charlote?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:05:40.429Z",
+      "msg": "Na mesma conta não é possível. Seria uma filial com mesma raiz de CNPJ? Ou seria um CNPJ diferente?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:06:09.039Z",
+      "msg": "seria um CNPJ diferente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:06:58.867Z",
+      "msg": "Certo. Um momento, por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:07:04.724Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:10:01.639Z",
+      "msg": "Bom dia! Cada CNPJ requer um plano diferente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:10:44.834Z",
+      "msg": "Então, teríamos que realizar a contratação de mais adicional"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:10:54.558Z",
+      "msg": "um*"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:12:16.091Z",
+      "msg": "saberia me informar quanto tempo leva este processo?  da realização de uma contratação adicional?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:12:31.608Z",
+      "msg": "em média"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:06.549Z",
+      "msg": "Você mesmo pode realizar essa operação"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:36.978Z",
+      "msg": "Entrando em nosso site e criando uma nova conta"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:14:47.476Z",
+      "msg": "correto."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:15:13.082Z",
+      "msg": "a forma de pagamento é em boleto e cartão de crédito?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:15:49.088Z",
+      "msg": "Sim, você pode selecionar a opção que melhor te atende."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:17:25.536Z",
+      "msg": "saberia dizer se, quando paga via cartão o plano é ativado na hora ou não? e com relação ao boleto bancário, quanto tempo leva para ativar o plano?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:19:32.556Z",
+      "msg": "No cartão de crédito é ativado logo após a aprovação bancária, e por meio de boleto normalmente entre 1 ou 2 dias úteis."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:19:43.329Z",
+      "msg": "certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:21:13.225Z",
+      "msg": "depois que eu criar a conta da nova empresa saberia me dizer se eu consigo copiar ou migrar todos os produtos da Charlote, que já tem conta, para a nova empresa?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:23:39.178Z",
+      "msg": "Não são filias né?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:24:00.268Z",
+      "msg": "filiais*"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:24:53.522Z",
+      "msg": "não..."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:25:38.929Z",
+      "msg": "Certo! Então você consegue realizar por meio de exportação e importação de dados."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:28:40.454Z",
+      "msg": "saberia me dizer se essa exportação e importação de dados pode ser feita com vários ítens de uma vez ou se é de um em um?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:30:50.958Z",
+      "msg": "Você consegue importar produtos, clientes, vendedores e fornecedores a partir de planilha Excel."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:32:32.988Z",
+      "msg": "ah, então exporta em formato de planilha"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:32:56.326Z",
+      "msg": "Exatamente!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:36:00.645Z",
+      "msg": "um min"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:36:05.184Z",
+      "msg": "por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:36:13.992Z",
+      "msg": "Claro!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:41:45.367Z",
+      "msg": "ok, era só isso mesmo, muito obrigado!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:41:49.204Z",
+      "msg": "boa semana!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:43:54.579Z",
+      "msg": "Imagina!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:44:05.148Z",
+      "msg": "Dúvidas, estou à disposição"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:44:52.478Z",
+      "msg": "Tenha uma ótima semana! :)"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:44:59.883Z",
+      "msg": "Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:45:19.553Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-02T14:52:44.794Z",
+      "data": {
+        "rating": 1
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:52:53.877Z",
+      "msg": ":grinning:"
+    }
+  ],
+  "domain": "tawk.to"
+}

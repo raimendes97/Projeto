@@ -1,0 +1,292 @@
+{
+  "id": "35713390-1846-11ea-9f2b-91a148949e9b",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Iasmin",
+    "id": "8cbaf32736405cfd16df6f642505d22df07e5ca34f19e15d9c4cd0a9c364d4ec",
+    "email": "gerencia@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 31,
+  "chatDuration": 1789,
+  "rating": 0,
+  "createdOn": "2019-12-06T16:34:04.490Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:34:04.490Z",
+      "msg": "Nome : Iasmin\r\nE-mail/Usuário : gerencia@estudio.com.br\r\nDepartamento : Comercial"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:34:04.509Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:36:36.424Z",
+      "msg": "Boa tarde Iasmin"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:36:38.872Z",
+      "msg": "tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:36:42.103Z",
+      "msg": "como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:41:58.812Z",
+      "msg": "Boa  tarde. Eu preciso realizar uma troca, tenho todos os dados da cliente e consegui preencher todas as informações na \"devolução\", no entanto quando fui finalizar deu erro na emissão do cupom e não consegui concluir"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:42:39.730Z",
+      "msg": "Deu erro na emissão da nota de troca? Ou na venda com o voucher?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:42:51.289Z",
+      "msg": "Erro na emissão de nota de troca."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:43:07.334Z",
+      "msg": "A nota esta salva no sistema, para que possamos verificar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:44:31.096Z",
+      "msg": "Sim. O nome da cliente é Márcia CPF 074266758-82, a troca é apenas o produto cartões iniciais G color letra A."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:44:45.318Z",
+      "msg": "Em qual loja você esta tentando emitir essa troca?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:45:01.761Z",
+      "msg": "Anydesk  608472899 loja do Shopping Morumbi mesmo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:45:08.753Z",
+      "msg": "A troca é daqui."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:45:24.214Z",
+      "msg": "Certo, um momento, por favor, vamos verificar antes de conectar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:45:29.659Z",
+      "msg": "Obrigada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:47:55.030Z",
+      "msg": "Cliquei para Gerar a Nfe e ela emitiu com sucesso, gerou o Voucher de código  HNFL0ONJ"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:48:01.878Z",
+      "msg": "Consegue verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:49:44.021Z",
+      "msg": "Sim. Um momento por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:51:13.433Z",
+      "msg": "Gerou sim."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:51:51.948Z",
+      "msg": "A verdade que é nunca conseguimos realizar a troca até o final com sucesso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:52:01.360Z",
+      "msg": "Você saberia informar o por quê desse problema?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:53:03.557Z",
+      "msg": "Você lembra a mensagem de erro que apresenta quando você tenta emitir a nota? Vou pedir para a Equipe Técnica analisar melhor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:55:12.126Z",
+      "msg": "Erro ao emitir nota fiscal"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:55:58.548Z",
+      "msg": "Certo, vou pedir uma atenção especial da Equipe Técnica, para identificar o porque esta dando essa mensagem de erro e corrigir o mais breve possível."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T16:59:33.801Z",
+      "msg": "Conversei com a Equipe Técnica sobre esse erro, até o final da semana que vem, vai ser colocado uma correção no ar, para que não ocorra mais essa mensagem. Enquanto isso, orientamos que após a mensagem de erro, você apenas clique para gerar a nota, quando ela abrir na tela, clicar no botão para Gerar a Nfe dentro dela novamente que emitirá com sucesso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:00:54.916Z",
+      "msg": "Tudo bem, mas para nós não aparece o número do Voucher. Então não conseguimos concluir de qualquer jeito."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:01:51.053Z",
+      "msg": "Após você clicar para Gerar novamente e ela emitir, não mostra a mensagem nesta mesma tela?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:02:04.640Z",
+      "msg": "Não mostra."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:01.715Z",
+      "msg": "Entendi, peço desculpas pelo transtorno! Vou pedir urgência, enquanto isso, você pode nos avisar no chat que emitimos na mesma hora e lhe passamos o Voucher."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:19.421Z",
+      "msg": "Ok. Muito obrigada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:25.787Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa sexta-feira e um bom resto de semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T17:03:53.427Z",
+      "msg": "Igualmente."
+    }
+  ],
+  "domain": "tawk.to"
+}

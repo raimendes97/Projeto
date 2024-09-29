@@ -1,0 +1,173 @@
+{
+  "id": "4357e1d0-153e-11ea-9a48-9fc9957b18d9",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Andre",
+    "id": "67a309246855af1fd1f84ff055e47663b1a8f3bde12a1281dcd8002df9bc2923",
+    "email": "financeiro@bolovo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 17,
+  "chatDuration": 1626,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:59:39.613Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:59:39.613Z",
+      "msg": "Nome : Andre\r\nE-mail/Usuário : financeiro@bolovo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:59:39.646Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:59:47.464Z",
+      "msg": "oi boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:59:58.303Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:00:49.685Z",
+      "msg": "Oi Ana boa tarde, tudo bem? Estou tendo um problema para emitir uma NF, a Mensagem que aparece é \"A tributação para esta operação, origem e destino está incompleta - Item: BLV04DN Corta Vento Tangerina\""
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:01:15.975Z",
+      "msg": "Tudo bem e você?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:01:29.135Z",
+      "msg": "Pode me passar o número do Pedido, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:03:09.476Z",
+      "msg": "Está sem numero o pedido ainda, pois e uma remessa para bonificação ai estou fazendo através do Vendas>Notas Eletrônicas>Outras Notas"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:03:57.580Z",
+      "msg": "Consegue me passar o nome do Fornecedor/Cliente da nota, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:04:29.360Z",
+      "msg": "Luiza Silva Carvalho"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:05:07.913Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:06:44.248Z",
+      "msg": "Tudo bem"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:08:50.676Z",
+      "msg": "me confirma o nome do cliente/fornecedor, por favor? Não localizei Luiza Silva Carvalho nesta base"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:14:56.936Z",
+      "msg": "Luiza  Silva Carvalho | 42859873848"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:15:10.815Z",
+      "msg": "É assim que esta aqui o nome"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:15:25.483Z",
+      "msg": "Um segundo, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:21:02.683Z",
+      "msg": "Tudo bem"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:26:45.873Z",
+      "msg": "Você consegue clicar para Salvar essa nota novamente, por favor?"
+    }
+  ],
+  "domain": "tawk.to"
+}

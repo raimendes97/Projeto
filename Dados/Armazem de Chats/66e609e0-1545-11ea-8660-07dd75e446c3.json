@@ -1,0 +1,105 @@
+{
+  "id": "66e609e0-1545-11ea-8660-07dd75e446c3",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Marisol",
+    "id": "e5b0c37b56571317c9a9e26aa2df6dec97894e995372afcb29be43b0671611b6",
+    "email": "linguadetrapokids@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Encantado"
+  },
+  "messageCount": 9,
+  "chatDuration": 725,
+  "rating": 0,
+  "createdOn": "2019-12-02T20:50:49.171Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:50:49.171Z",
+      "msg": "Nome : Marisol\r\nE-mail/Usuário : linguadetrapokids@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:50:49.191Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:51:11.305Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:52:12.642Z",
+      "msg": "Boa tarde. como procedo para gerar voucher em um cupom fiscal cujo cliente não foi especificado, ficou como consumidor final?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:52:40.915Z",
+      "msg": "consumidor não especificado"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:54:09.253Z",
+      "msg": "mas esse mesmo cliente veio realizar uma troca. Como faço para gerar o voucher e ajeitar essas peças no estoque e não comprometer a contablidade"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:57:00.127Z",
+      "msg": "Para poder realizar a troca/devolução das peças, você precisará cadastrar o cliente no sistema, pois é necessário emitir uma nota de troca/devolução no modelo 55, neste caso, a Sefaz não aceita nota fiscal para Consumidor Final."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T21:01:12.765Z",
+      "msg": "Podemos continuar o atendimento amanhe de manhã na primeira hora, por favor? Nosso atendimento encerra agora as 18hrs e retornamos amanhã de manhã a partir das 08hrs."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T21:02:29.710Z",
+      "msg": "ok."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T21:02:48.071Z",
+      "msg": "Combinado! Obrigada!"
+    }
+  ],
+  "domain": "tawk.to"
+}

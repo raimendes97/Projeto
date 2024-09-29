@@ -1,0 +1,144 @@
+{
+  "id": "29c59d30-1538-11ea-b92d-ab79d7bae3fa",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Diego Mendes",
+    "id": "897841094dae674e07b5a63326fa38e4061c7fea75e14e036cfe4cb2844ea898",
+    "email": "diego@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 13,
+  "chatDuration": 1415,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:15:58.886Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:15:58.886Z",
+      "msg": "Nome : Diego Mendes\r\nE-mail/Usuário : diego@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:15:58.901Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:16:13.283Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:16:23.259Z",
+      "msg": "Olá, Vanesa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:17:02.098Z",
+      "msg": "perguntei ha pouco como fazer para alterar o endereço da Filial 2 para que no cupom fiscal já saia o endereço correto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:17:20.729Z",
+      "msg": "Me instruiram a mexer nos \"Dados da empresa\""
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:17:43.996Z",
+      "msg": "eu mexi, mas o endereço continua saindo o antigo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:17:47.222Z",
+      "msg": "no cupom fiscal"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T19:18:12.953Z",
+      "data": {
+        "uri": "https",
+        "name": "WhatsApp Image 2019-12-02 at 16.40.48.jpeg",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T19:18:55.178Z",
+      "data": {
+        "uri": "https",
+        "name": "Screen Shot 2019-12-02 at 16.18.50.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:19:01.407Z",
+      "msg": "Como seria SAT, precisaria acessar o software do SAT e configurar também. Sei que tem uma opção interna dentro do SAT que você insere o seu endereço da empresa, para que saia no cupom."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:19:17.479Z",
+      "msg": "entendi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:19:42.461Z",
+      "msg": "melhor falar com o suporte do SAT, ne?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:21:24.202Z",
+      "msg": "Isso, por favor"
+    }
+  ],
+  "domain": "tawk.to"
+}

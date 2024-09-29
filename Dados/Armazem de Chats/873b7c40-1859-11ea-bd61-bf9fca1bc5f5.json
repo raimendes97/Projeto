@@ -1,0 +1,46 @@
+{
+  "id": "873b7c40-1859-11ea-bd61-bf9fca1bc5f5",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Livia",
+    "id": "8576d14f1fe3e0862d814fa3164267ea3b90b6de23943bfe18112aa368b14229",
+    "email": "cruzalta@cavernadodino.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Cruz Alta"
+  },
+  "messageCount": 2,
+  "chatDuration": 141,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:53:01.608Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:01.608Z",
+      "msg": "Nome : Livia\r\nE-mail/Usuário : cruzalta@cavernadodino.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:01.614Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:55:22.366Z",
+      "msg": "Livia, o problema esta ocorrendo, por conta da sincronização entre as lojas, esta sendo cadastrado novos itens neste momento, então o PDV, não consegue finalizar a sincronização dos itens que você já possui na loja, e os novos itens. Você consegue, entrar no chat as 17:30hrs, por favor? Então os cadastros já foram finalizados, e conseguimos forçar uma sincronização dos dados."
+    }
+  ],
+  "domain": "tawk.to"
+}

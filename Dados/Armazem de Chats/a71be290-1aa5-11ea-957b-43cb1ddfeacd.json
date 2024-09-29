@@ -1,0 +1,138 @@
+{
+  "id": "a71be290-1aa5-11ea-957b-43cb1ddfeacd",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Josiele",
+    "id": "da6e90adde413e1cc44c28ec4a964aa44cbe853b67d8b47ec3ac42959b960fdd",
+    "email": "alvorada@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Alvorada"
+  },
+  "messageCount": 13,
+  "chatDuration": 1358,
+  "rating": 0,
+  "createdOn": "2019-12-09T17:02:28.689Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:02:28.689Z",
+      "msg": "Nome : Josiele\r\nE-mail/Usuário : alvorada@verdeb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:02:28.706Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:02:45.479Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:02:49.497Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:03:34.448Z",
+      "msg": "Estou com  uma troca no sistema de sexta feira e ate entao nao estou conseguindo gerar a nf"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:03:45.384Z",
+      "msg": "Esta apresentando alguma mensagem de erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:04:02.254Z",
+      "msg": "aparece que a nota ja foi emitida"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:05:15.592Z",
+      "msg": "A nota que você precisa fazer a troca já esta salva no sistema? Pode me passar o nome do cliente e o valor da nota, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:05:46.697Z",
+      "msg": "valor: 149,99"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:06:07.507Z",
+      "msg": "Jenifer Dos Santos Borges"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:06:19.062Z",
+      "msg": "Perfeito! vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:06:28.170Z",
+      "msg": "Ta bom"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:06:38.682Z",
+      "msg": "Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:25:06.397Z",
+      "msg": "Mais um momento, por favor, estamos verificando."
+    }
+  ],
+  "domain": "tawk.to"
+}

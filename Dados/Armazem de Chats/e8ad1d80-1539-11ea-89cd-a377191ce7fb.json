@@ -1,0 +1,163 @@
+{
+  "id": "e8ad1d80-1539-11ea-89cd-a377191ce7fb",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "tainara",
+    "id": "5673f1d832fb6b4e9daf6322887279291b5180c8079c7804edd766625d3f294f",
+    "email": "nhamburgo@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 19,
+  "chatDuration": 200,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:28:32.998Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:28:32.998Z",
+      "msg": "Nome : tainara\r\nE-mail/Usuário : nhamburgo@verdeb.com.br\r\nDepartamento : Comercial"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:28:33.023Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:28:50.088Z",
+      "msg": "Boa tarde Tainara, tudo  bem?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:28:56.625Z",
+      "msg": "oi tudo bom?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:01.460Z",
+      "msg": "Tudo certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:05.250Z",
+      "msg": "pode me ajudar ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:05.890Z",
+      "msg": "Como posso te ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:15.918Z",
+      "msg": "eu to tentando fazer uma troca e nao estou conseguindo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Roberta"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:35.370Z",
+      "msg": "Certo, vou te passar pro setor de suporte técnico, um instante"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:30:11.071Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:30:15.995Z",
+      "msg": "A Equipe Técnica encontrou um erro na devolução/troca, eles já estão trabalhando na correção, mais alguns minutinhos já estará ok.\num momento, por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:30:54.223Z",
+      "msg": "ah sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:31:01.111Z",
+      "msg": "entao é no sitema?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:31:28.256Z",
+      "msg": "Isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:31:30.943Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:31:34.069Z",
+      "msg": "aguardo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:31:36.087Z",
+      "msg": "obrigada"
+    }
+  ],
+  "domain": "tawk.to"
+}

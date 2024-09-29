@@ -1,0 +1,121 @@
+{
+  "id": "deefaac0-1aab-11ea-957b-43cb1ddfeacd",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Andre",
+    "id": "67a309246855af1fd1f84ff055e47663b1a8f3bde12a1281dcd8002df9bc2923",
+    "email": "financeiro@bolovo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 11,
+  "chatDuration": 312,
+  "rating": 0,
+  "createdOn": "2019-12-09T17:46:52.334Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:46:52.334Z",
+      "msg": "Nome : Andre\r\nE-mail/Usuário : financeiro@bolovo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:46:52.352Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:47:01.913Z",
+      "msg": "oi boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:47:06.299Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:48:18.841Z",
+      "msg": "Foi cadastrado um produto na nossa outra conta no  , o da lojinha, e quando se cadastra um produto la esta programado para replicar o cadastro no financeiro, porem não encontro os itens aqui"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:48:39.456Z",
+      "msg": "o codigo são BLV06JD e BLV06JE"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:49:19.156Z",
+      "msg": "Certo, a replicação demora em torno de 2hrs para finalizar e os itens serem mostrados na sua outra Loja.\nVocê lembra mais ou menos, que horas você realizou o cadastramento dos mesmos?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:49:35.955Z",
+      "msg": "faz uma meia hora ja"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:50:02.851Z",
+      "msg": "Entendi, seria necessário você aguardar esse tempo de 2hrs para que eles mostrem certinho."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:50:27.513Z",
+      "msg": "se eu cadastrar esses produtos aqui depois das duas horas o cadastro vai estar em duplicidade?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:51:15.963Z",
+      "msg": "Vou confirmar com a Equipe Técnica, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T17:52:04.800Z",
+      "msg": "tudo bem"
+    }
+  ],
+  "domain": "tawk.to"
+}

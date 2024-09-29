@@ -1,0 +1,105 @@
+{
+  "id": "6b72b790-153d-11ea-b4c7-9d29f0bdb6eb",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Tatiane",
+    "id": "ed40639dab0c429a04df8d4a678e49b8195851bec6edb5db37ae215649741750",
+    "email": "sapiranga@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 9,
+  "chatDuration": 935,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:53:35.627Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:35.627Z",
+      "msg": "Nome : Tatiane\r\nE-mail/Usuário : sapiranga@verdeb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:35.687Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:50.255Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:54.260Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:54.975Z",
+      "msg": "Mais um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:05:55.773Z",
+      "msg": "Você consegue, por favor, dar um CTRL + F5 e tentar emitir as notas de devolução/troca, por favor? Colocamos a correção no ar, então deve emitir com sucesso agora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:08:27.280Z",
+      "msg": "nada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:08:36.318Z",
+      "msg": "voce quer que eu feche e abra de novo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:08:39.044Z",
+      "msg": "de repentew"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T20:09:10.389Z",
+      "msg": "Pode ser também. para atualizar a tela."
+    }
+  ],
+  "domain": "tawk.to"
+}

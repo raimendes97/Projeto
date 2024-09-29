@@ -1,0 +1,106 @@
+{
+  "id": "4d1b50f0-1780-11ea-9276-9547937f053c",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Ana",
+    "id": "64f0b3534ff647ccf8573734209fe2a7174ed264fe47bfb3374935a4172f3f07",
+    "email": "Ana@toccoli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 9,
+  "chatDuration": 1909,
+  "rating": 0,
+  "createdOn": "2019-12-05T16:57:24.271Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:24.271Z",
+      "msg": "Nome : Ana\r\nE-mail/Usuário : Ana@toccoli.com.br\r\nDepartamento : Comercial"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:24.285Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:28.609Z",
+      "msg": "BOA TARDE"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:40.004Z",
+      "msg": "Boa tarde, Ana. Como posso te ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:40.779Z",
+      "msg": "PODE VERIFICAR O PEDIDO VINCULADO A OC 33031?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:46.855Z",
+      "msg": "Boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:57:55.215Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:15:44.445Z",
+      "msg": "Mais um momento, por favor, a Equipe Técnica esta verificando"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:21:23.167Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:29:13.259Z",
+      "msg": "Não possui nenhum pedido vinculado a ela, identificamos que ela foi criada manualmente em Compras > Ordem de Compra"
+    }
+  ],
+  "domain": "tawk.to"
+}

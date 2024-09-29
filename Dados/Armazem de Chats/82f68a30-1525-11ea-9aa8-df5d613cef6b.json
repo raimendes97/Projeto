@@ -1,0 +1,239 @@
+{
+  "id": "82f68a30-1525-11ea-9aa8-df5d613cef6b",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "WILLIAN",
+    "id": "8a18eba0272c84edb1e1a2bc6b2c7edbbe83c4cfbe2618803adf4714560acfb5",
+    "email": "willian.paraiso@movecosmeticos.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 24,
+  "chatDuration": 2376,
+  "rating": 0,
+  "createdOn": "2019-12-02T17:02:29.129Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:02:29.129Z",
+      "msg": "Nome : WILLIAN\r\nE-mail/Usuário : willian.paraiso@movecosmeticos.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:02:29.157Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:02:42.680Z",
+      "msg": "Boa tarde."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:02:55.647Z",
+      "msg": "como faço para gerar uma bonificação?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:03:09.673Z",
+      "msg": "Boa tarde, William!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:03:25.881Z",
+      "msg": "Você já tem cadastrada a Natureza de Operação e a Tributação, para Bonificação?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:11:03.735Z",
+      "msg": "Boa tarde ainda não"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:13:19.107Z",
+      "msg": "Certo. Essa seria a primeira Etapa, após, você pode acessar em Vendas > notas eletronicas > Outras Notas, para realizar a emissão da mesma."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:16:52.284Z",
+      "msg": "MAS NA CRIAÇÃO DO PEDIDO, PRECISO COLOCAR COMO BONIFICAÇÃO"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:17:05.140Z",
+      "msg": "JÁ CRIEI A NATUREZA DE OPERAÇÃO"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:18:38.196Z",
+      "msg": "Para realizar a emissão desta nota, não pode ser em Vendas > Pedidos.\nPrecisa ser em Vendas > notas eletronicas > Outras Notas, para que possa selecionar essa Natureza da Operação."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:20:45.409Z",
+      "msg": "NÃO CONSIGO FAZER ESTA OPERAÇÃO NA HORA DE EMITIR O PEDIDO?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:21:20.069Z",
+      "msg": "ENCONTREI"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:21:23.365Z",
+      "msg": "Infelizmente não é possível usar ela na tela de Pedidos, precisa ser emitido uma nota separada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:21:46.549Z",
+      "msg": "OK"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:33:41.476Z",
+      "msg": "ESTOU VERIFICANDO NA OPÇÃO RELATÓRIOS E DE LUCRATIVIDADE, EU LANCEI O PREÇO DE CUSTO NO ITENS E NÃO ESTÁ APARECENDO NO RELATÓRIO"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:34:58.865Z",
+      "msg": "Pode me passar um print da tela, por favor? Para entendermos melhor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T17:36:01.477Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:36:15.282Z",
+      "msg": "APARECE SEM CUSTO"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:36:30.096Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:39:31.677Z",
+      "msg": "Willian, boa tarde. Para que seja calculada a lucratividade, é necessário que você tenha um preço de custo adicionado na seção de Preços, no cadastro de Produtos."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:39:49.412Z",
+      "msg": "EU TENHO"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:40:21.829Z",
+      "msg": "Acabamos de consultar o produto em questão e o preço de CUSTO se encontra zerado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T17:41:10.087Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:42:04.789Z",
+      "msg": "Um instante, por gentileza."
+    }
+  ],
+  "domain": "tawk.to"
+}

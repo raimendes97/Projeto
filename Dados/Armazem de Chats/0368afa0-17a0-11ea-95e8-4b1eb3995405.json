@@ -1,0 +1,143 @@
+{
+  "id": "0368afa0-17a0-11ea-95e8-4b1eb3995405",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fernando",
+    "id": "220815e07edbdb7121f2ef7a4202fccd9f457e48ccab269f1697a50e3b9313c4",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 13,
+  "chatDuration": 1360,
+  "rating": 0,
+  "createdOn": "2019-12-05T20:44:23.547Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:44:23.547Z",
+      "msg": "Nome : Fernando\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:44:23.543Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:44:27.568Z",
+      "msg": "Fernando PayPet"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:44:39.919Z",
+      "msg": "Boa tarde, Fernando!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:45:01.426Z",
+      "msg": "Apenas para informar pra que voces possam olhar amanha novamente. o problema dos pedidos nao está resolvido. Novamente hoje fizemos um pedido ja tem algum tempo e ainda nao caiu no  ."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:45:17.908Z",
+      "msg": "Pode nos passar o número do Pedido, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T20:45:32.601Z",
+      "data": {
+        "uri": "https",
+        "name": "Screen Shot 2019-12-05 at 17.45.21.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:46:31.476Z",
+      "msg": "Já vou repassar para a Thais verificar esse caso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:46:34.510Z",
+      "msg": "20008"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:46:44.650Z",
+      "msg": "ok já tem mais de 20 minutos e nada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:48:54.911Z",
+      "msg": "Entendi. Já estamos verificando, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T21:02:56.086Z",
+      "msg": "A Equipe Técnica conseguiu integrar o pedido, ele seria o pedido nº 6 no sistema.\nAgora eles irão analisar o porque ocorreu esse erro. Poemos lhe passar um retorno amanhã de manhã, por email sobre essa situação? Pois nosso atendimento via chat encerra as 18hrs, embora a Equipe Técnica vai ficar analisando o caso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T21:03:36.493Z",
+      "msg": "ok eu vou deixar ele em aberto porque os testes agora estao no financeiro e já queria ter passado desta etapa, porque onteemn achavamos que já tinha sido resolvido."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T21:04:06.546Z",
+      "msg": "Pedimos novamente desculpas pelo transtorno! Vou pedir uma atenção especial e também urgência para esse caso."
+    }
+  ],
+  "domain": "tawk.to"
+}

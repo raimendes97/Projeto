@@ -1,0 +1,387 @@
+{
+  "id": "d149f1d0-15cb-11ea-9fdc-ed04d46e6270",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fernando",
+    "id": "220815e07edbdb7121f2ef7a4202fccd9f457e48ccab269f1697a50e3b9313c4",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 40,
+  "chatDuration": 3202,
+  "rating": 0,
+  "createdOn": "2019-12-03T12:53:02.729Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:53:02.729Z",
+      "msg": "Nome : Fernando\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:53:02.775Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:53:18.407Z",
+      "msg": "Ola Meninas bom dia."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:53:22.769Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:53:45.773Z",
+      "msg": "Fernando da Paypet, estou chamando só pra acompanhar os problemas que estamos tendo nas integracoes."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:54:10.848Z",
+      "msg": "Um momento, por favor, vou verificar com a Eliza como esta essa situação."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:56:51.635Z",
+      "msg": "Foi finalizado o ajuste agora pouco, foi identificado que o problema ocorreu pois foi excluído as Marcas na Matriz, agora já esta tudo certo.\nVocê pode fazer um pedido de testes, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:57:32.398Z",
+      "msg": "ja foi feito"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:57:47.639Z",
+      "msg": "Integrou com sucesso?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:58:10.339Z",
+      "msg": "vou fazer um novo este foi feito ontem pela rakuton nao integrou nao, mas marcou como integrado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T12:58:29.802Z",
+      "data": {
+        "uri": "https",
+        "name": "Screen Shot 2019-12-03 at 09.58.18.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T12:58:44.031Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:17:01.866Z",
+      "msg": "Você possui alguma Transportadora cadastrada no painel da rakuton? O pedido não foi integrado porque não houve o vínculo das Transportadoras cadastradas no   com a rakuton."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:17:05.928Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:19:03.923Z",
+      "data": {
+        "uri": "https",
+        "name": "Screen Shot 2019-12-03 at 10.18.51.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:21:59.959Z",
+      "msg": "Você consegue, acessar no Painel da rakuton em Frete/Entregas > Serviços > Consultas, clicar no botão pesquisar.\nVai aparecer duas Transportadoras Ativas dos Correios, de PAC e Sedex, você já tem elas cadastradas em Cadastros > Transportadoras no   Web?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:22:10.238Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T13:23:13.835Z",
+      "data": {
+        "uri": "https",
+        "name": "Screen Shot 2019-12-03 at 10.23.04.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:24:13.060Z",
+      "msg": "Colocamos a Transportadora de Correios PAC com o código 4 que faltava, agora vamos reprocessar o Pedido ele deve integrar com sucesso.\nPorém, quando você for emitir a nota fiscal para cliente real, o cadastro delas no   precisará estar completo em Cadastro > Transportadora."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:24:46.219Z",
+      "msg": "Nao entendi a associacao, mas se puder me explicar eeu ajusto o que for necessário."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:25:27.361Z",
+      "msg": "Já ajustamos o vinculo delas, para que o pedido possa ser integrado.\nSó preciso que acesse em Cadastro > Transportadora. no   Web e preencha todo o cadastro delas."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:25:48.784Z",
+      "msg": "nao tem como editar estas informacoes no   da loja 2"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:25:51.938Z",
+      "msg": "só na loja 1"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:26:22.596Z",
+      "msg": "Certo. Na Matriz esta cadastrada com todo o cadastro completo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:28:38.724Z",
+      "msg": "O Cadastro completo qeu voce diz é por os dados do correeio?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:29:47.719Z",
+      "msg": "Isso, quando você acessa em  Cadastro > Transportadora e clica sobre essas duas opções de Correios PAC e Correios Sedex, teria que verificar se os dados como CNPJ, IE, endereço estão preenchidos."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:30:24.595Z",
+      "msg": "eu posso preencher qualqueer coisa ai?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:30:52.387Z",
+      "msg": "porque n';ois temos contrato com os ciorreios mas cada hora é uma agencia que presta o servico e ai sao cnpjs diferentes."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:31:40.034Z",
+      "msg": "Um momento, por favor, vou confirmar com a Eliza.\nO pedido integrou agora, é o nº 12 no  . Pode verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:33:30.058Z",
+      "msg": "Até porque este contrato é da rakuton conforme está no genlog"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:33:48.340Z",
+      "msg": "o nosso eventualmente sera pela tabela que virá da Mandae"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:37:37.591Z",
+      "msg": "Certo, ela orientou que neste caso, você entre em contato com a contabilidade para que eles possam lhe orientar corretamente em como você pode fazer o cadastro destas \"Transportadoras\" de Correios Sedex e PAC, pois esses dados serão os que irão na nota fiscal, então precisará estar certinho, para que você não corra o risco de ter nenhum problema fiscal."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:40:00.073Z",
+      "msg": "Estes dados amiga nao sao nossos sao da rakuton"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:40:15.158Z",
+      "msg": "nós nao temos convenio como disse é um convenio da rakuton compartilhado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:40:47.104Z",
+      "msg": "nem no site da rakutonlog tem estes dados cadastrados"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:41:13.454Z",
+      "msg": "Correto, mas o dados que saem na nota fiscal são do  , por isso precisa ser corretamente preenchido conforme orientação que passamos a cima."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:41:47.295Z",
+      "msg": "vou falar com a rakuton sobre os estoques, pedidos ee tudo mais querem quee façamos mais testes para os dois ambientes?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:41:50.993Z",
+      "msg": "loja 1 e loja 2?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:43:19.789Z",
+      "msg": "Certo. Conversei com a Eliza, ela acredita que não precise mais de pedidos de testes, que já esta tudo ok agora. Mas se você deseja por fazer os testes nas duas lojas, não tem problema."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:46:14.718Z",
+      "msg": "eu prefiro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T13:46:24.617Z",
+      "msg": "Certo, tudo bem"
+    }
+  ],
+  "domain": "tawk.to"
+}

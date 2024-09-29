@@ -1,0 +1,138 @@
+{
+  "id": "882da9b0-1512-11ea-99da-91af6c56b212",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "mayara",
+    "id": "8cbaf32736405cfd16df6f642505d22df07e5ca34f19e15d9c4cd0a9c364d4ec",
+    "email": "gerencia@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 13,
+  "chatDuration": 898,
+  "rating": 0,
+  "createdOn": "2019-12-02T14:46:39.413Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:46:39.413Z",
+      "msg": "Nome : mayara\r\nE-mail/Usuário : gerencia@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:46:39.432Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:46:44.592Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:47:06.580Z",
+      "msg": "Olá, são duas coisas, 1º n~]ao"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:47:09.391Z",
+      "msg": "ops"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:47:27.795Z",
+      "msg": "não estamos conseguindo imprimir cupom de cancelamento"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:49:22.421Z",
+      "msg": "e a outra coisa é que tentamos fazer uma troca de produto no sistema e não apareceu o numero do voucher, ele esta reconhecendo como devolução e não troca, por mais que eu coloque a opção de È uma troca, continu a reconhecendo como se fosse somente devolução"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:49:46.209Z",
+      "msg": "Certo, Mayara, vamos por partes:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:49:54.986Z",
+      "msg": "Referente ao cupom de cancelamento, está aparecendo algum erro em específico?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:51:06.326Z",
+      "msg": "não, ele só não imprime, conseguimos cancelar normalmente ele só não está imprimindo mesmo, os cupons de vendas por exemplo estão saindo normal, é só o de cancelamento"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:51:26.733Z",
+      "msg": "Certo, vocês podem nos passar um acesso do Team Viewer 12?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:51:39.856Z",
+      "msg": "pode ser por anydesk?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:51:53.825Z",
+      "msg": "Pode"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T14:52:08.320Z",
+      "msg": "608 472 899"
+    }
+  ],
+  "domain": "tawk.to"
+}

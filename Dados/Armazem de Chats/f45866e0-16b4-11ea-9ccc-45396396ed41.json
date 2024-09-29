@@ -1,0 +1,220 @@
+{
+  "id": "f45866e0-16b4-11ea-9ccc-45396396ed41",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Leonardo",
+    "id": "acbb1298ba85a7b1bd32dafc6798c04e7559ff8c55c7ef8b8b1529d40fa3a9dd",
+    "email": "ti2@fullfit.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 22,
+  "chatDuration": 3766,
+  "rating": 0,
+  "createdOn": "2019-12-04T16:41:57.164Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:41:57.164Z",
+      "msg": "Nome : Leonardo\r\nE-mail/Usuário : ti2@fullfit.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:41:57.188Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:42:04.911Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:42:59.339Z",
+      "msg": "boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:43:22.950Z",
+      "msg": "marquei um acesso com a Ana para finalizar a reinstalação do PDV"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:44:35.277Z",
+      "msg": "Leonardo, pode nos passar um acesso, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:44:43.901Z",
+      "msg": "1 116 118 560"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:44:49.198Z",
+      "msg": "prt97895"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:52:38.105Z",
+      "msg": "//"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:52:40.803Z",
+      "msg": "??*"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:52:46.148Z",
+      "msg": "Acho que o acesso caiu"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:53:27.432Z",
+      "msg": "Já estamos conectando novamente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:15:41.288Z",
+      "msg": "??"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:17:27.926Z",
+      "msg": "O pessoal ainda está mexendo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:28:33.096Z",
+      "msg": "consegue dizer quanto tempo pode levar ??"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:28:47.057Z",
+      "msg": "Uma estimativa de vinte minutos."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:28:53.103Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:35:45.905Z",
+      "msg": "Ja posso utilizar o PDV normalmente"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:35:45.923Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:36:09.064Z",
+      "msg": "O técnico disse que tudo está tranquilamente resolvido."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:36:13.428Z",
+      "msg": "Pode verificar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:36:27.245Z",
+      "msg": "sim um momento"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:44:39.297Z",
+      "msg": "ok funcionou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:44:43.107Z",
+      "msg": "obrigada"
+    }
+  ],
+  "domain": "tawk.to"
+}

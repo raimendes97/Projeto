@@ -1,0 +1,189 @@
+{
+  "id": "7a2a6b90-1ab3-11ea-a374-53c88826e215",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Jessica",
+    "id": "69bd8983310d4d0c518d0be972c29935fb6e0e8c9826e939c81c3b78073b45cb",
+    "email": "jessica@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Barueri"
+  },
+  "messageCount": 19,
+  "chatDuration": 1054,
+  "rating": 0,
+  "createdOn": "2019-12-09T18:41:20.102Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:41:20.102Z",
+      "msg": "Nome : Jessica\r\nE-mail/Usuário : jessica@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:41:20.099Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:41:31.430Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:41:35.694Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:41:45.458Z",
+      "msg": "estou tendo problemas com a troca"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:42:02.524Z",
+      "msg": "não está gerando a nota."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:42:39.806Z",
+      "msg": "tenho 2 trocas, uma do fim de semana N° de venda 3512 e 3583"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:43:13.670Z",
+      "msg": "Ocorreu o mesmo problema da semana passada? Você clicou para Gerar a nota dela depois do erro novamente?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:43:27.407Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:43:36.933Z",
+      "msg": "deu o mesmo erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:44:21.713Z",
+      "msg": "aparece \" FALHA AO EMITIR A NOTA FISCAL. None - None"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:44:36.533Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:44:43.909Z",
+      "msg": "Ok!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:46:04.357Z",
+      "msg": "Seria a Troca da cliente \"Rita Morais\" e da \"Andrea Japiasso\", isso?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:47:40.417Z",
+      "msg": "Isso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:48:00.033Z",
+      "msg": "Certo. A Equipe Técnica esta verificando para corrigir de vez esse problema"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:48:03.675Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:50:19.758Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:58:38.610Z",
+      "msg": "Mais um momento, por favor, a Equipe Técnica esta verificando"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T18:58:53.892Z",
+      "msg": "ok sem problemas"
+    }
+  ],
+  "domain": "tawk.to"
+}

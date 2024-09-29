@@ -1,0 +1,390 @@
+{
+  "id": "0767e0a0-1767-11ea-b237-01bd3d982656",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Renata",
+    "id": "17ea86e63c160700e1f1406a0dda0fa6a62830dc8104578f1600aa2e240258a4",
+    "email": "renatarech@terra.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 42,
+  "chatDuration": 2331,
+  "rating": 0,
+  "createdOn": "2019-12-05T13:56:29.813Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:56:29.813Z",
+      "msg": "Nome : Renata\r\nE-mail/Usuário : renatarech@terra.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:56:29.845Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:56:41.241Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:56:48.658Z",
+      "msg": "bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:56:57.170Z",
+      "msg": "ontem tentei emitir uma NF de devolução"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:57:04.160Z",
+      "msg": "e deu o seguinte erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:57:05.133Z",
+      "msg": "99 - Erro nao catalogado (Verificar complemento de erro no servidor)"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:57:40.168Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:06:18.662Z",
+      "msg": "Renata, infelizmente não é possível emitir nota fiscal para Consumidor Final, a Sefaz não aceita.\nSeria necessário fazer o cadastro deste cliente no sistema, para que você possa estar emitindo a nota para ele."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:11:46.228Z",
+      "msg": "mas ele é fornecedor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:12:09.156Z",
+      "msg": "eu seleciono o fornecedor na tela de emissão de nf de devolução"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:12:29.018Z",
+      "msg": "eu sigo o seguinte caminho:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:04.597Z",
+      "msg": "compras - devoluções - adicionar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:11.661Z",
+      "msg": "e seleciono o fornecedor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:24.346Z",
+      "msg": "Qual o nome do seu Fornecedor ou CNPJ dele?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:45.731Z",
+      "msg": "G Paniz"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:58.994Z",
+      "msg": "90.771.833/0001-49"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:14:16.799Z",
+      "msg": "o cadastro esta sem IE"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:14:56.346Z",
+      "msg": "será que é isso?,"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:15:52.735Z",
+      "msg": "Se ele realmente tiver IE, seria necessário preencher ela.\nVocê consegue ajustar a IE, caso ele tenha e depois tentar emitir a nota novamente, por favor? Então acompanhamos ela, para lhe auxiliar com a emissão"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:16:21.103Z",
+      "msg": "já ajustei"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:16:35.028Z",
+      "msg": "o que é estranho é que não puxa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T14:16:45.537Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:17:04.670Z",
+      "msg": "diz que o fornecedor não é encontrado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:17:19.951Z",
+      "msg": "Vou verificar, um segundo, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T14:17:58.713Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:18:11.060Z",
+      "msg": "mas na lista aparece"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:19:25.222Z",
+      "msg": "Certo. Você consegue selecionar ele?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:16.121Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T14:20:18.429Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:30.213Z",
+      "msg": "ontem tb conseguia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:40.181Z",
+      "msg": "ai na hora de gerar dava o erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:22:03.661Z",
+      "msg": "Certo. Consegue montar a nota e marcara opção NÃO, no campo \"Gerar NF-e?\" para ele salvar ela no sistema sem tentar realizar a emissão, para que possamos verificar melhor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:22:30.804Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:23:36.465Z",
+      "msg": "pronto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:23:56.054Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:23:59.182Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:25:59.263Z",
+      "msg": "Podemos tentar emitir a nota por aqui?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:32:00.358Z",
+      "msg": "claro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:32:12.657Z",
+      "msg": "Perfeito! Um segundo, por favor, vamos tentar emitir"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:34:59.183Z",
+      "msg": "A Equipe Técnica já esta verificando o porque apresentou a mensagem de erro, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:35:09.143Z",
+      "msg": "deu erro de novo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:35:20.517Z",
+      "msg": "Sim. Já estamos verificando"
+    }
+  ],
+  "domain": "tawk.to"
+}

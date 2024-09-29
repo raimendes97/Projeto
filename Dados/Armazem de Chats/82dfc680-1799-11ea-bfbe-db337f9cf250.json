@@ -1,0 +1,214 @@
+{
+  "id": "82dfc680-1799-11ea-bfbe-db337f9cf250",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "lilian",
+    "id": "349d639222b80c3f729175b69fb009397f099e834697b8e1c7f97de25a42dd3c",
+    "email": "loja@foli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 39,
+  "chatDuration": 1916,
+  "rating": 0,
+  "createdOn": "2019-12-05T19:57:51.136Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:57:51.136Z",
+      "msg": "Nome : lilian\r\nE-mail/Usuário : loja@foli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:57:51.185Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:57:56.772Z",
+      "msg": "boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:58:02.833Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:58:37.311Z",
+      "msg": "vc poder a nf 1608 emitida em 19/11 esta cancelada, mas no sefaz aparece como ativa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:59:04.555Z",
+      "msg": "nossa contabilidade nos passou esta informação"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:59:13.977Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:06:14.773Z",
+      "msg": "Pedimos desculpas pelo transtorno! Já realizamos o ajuste da nota no sistema, já esta autorizada, conforme esta na sefaz."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:06:19.360Z",
+      "msg": "Consegue verificar."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:08:30.435Z",
+      "msg": "mas, ela foi cancelada mesmo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:08:40.093Z",
+      "msg": "deveria estar cancelada no sefaz"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:09:00.613Z",
+      "msg": "foi emitida outra nota 1608 , no lugar desta"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:09:22.202Z",
+      "msg": "alias a 1609 , que substituiu a 1608"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:09:46.489Z",
+      "msg": "nao podemos ter duas notas, da mesma venda"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:10:38.301Z",
+      "msg": "Verifiquei aqui que a nota 1609 é para a cliente Clivia Maria Navegante Dias e a nota 1608 é para a cliente Ana Paola Denk, com valores diferentes, acredito não ser a mesma nota."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:10:42.751Z",
+      "msg": "Pode verificar por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:10:52.915Z",
+      "msg": "sim ,"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:12:20.611Z",
+      "msg": "a nota que substituiu foi 1610"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:12:56.920Z",
+      "msg": "Um momento, por favor, vamos verificar o que ocorreu"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:16:24.262Z",
+      "msg": "Essa nota a 1608, eu cancelei no  , porém no sefaz ela esta emitida... provavelmente ocorreu um erro no sistema. gostaria que verificasse o motivo e que a mesma de fato fosse cancelada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:18:42.579Z",
+      "msg": "Estamos verificando o porque ocorreu o erro, para corrigir e impedir que volte a ocorrer.\nPorém, infelizmente, já passou do prazo de cancelamento permitido pela sefaz que seria de 7 dias, após a emissão da nota e como ela foi emitida em 19/11, será necessário realizar uma devolução, para anular a mesma."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:27:54.402Z",
+      "msg": "e como faz isso?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T20:29:47.425Z",
+      "msg": "Seria necessário primeiramente verificar se você tem Natureza da Operação e Tributação de Devolução de Venda para o estado de destino do cliente.\nApós, você acessa em Vendas > Devolução para emitir a nota. Vou lhe passar um passo a passo, para auxiliar com esta etapa:\nhttps://suporte. erp.com/portal/kb/articles/como-fazer-uma-devolu%C3%A7%C3%A3o-de-venda"
+    }
+  ],
+  "domain": "tawk.to"
+}

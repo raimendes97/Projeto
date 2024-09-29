@@ -1,0 +1,123 @@
+{
+  "id": "ecb90560-1ab6-11ea-8f43-2b331211dd6d",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "junior",
+    "id": "11bc330c736cc277dc4f17f3658c33d8ea8c6cda3e0a7c3d88bfdd5399bb5bcb",
+    "email": "junior@tonolli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 10,
+  "chatDuration": 1716,
+  "rating": 0,
+  "createdOn": "2019-12-09T19:05:57.719Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:05:57.719Z",
+      "msg": "Nome : junior\r\nE-mail/Usuário : junior@tonolli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:05:57.738Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:06:37.186Z",
+      "msg": "Preciso de uma ajuda para imprimir a venda 1640."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:07:00.376Z",
+      "msg": "Boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:07:13.608Z",
+      "msg": "Está ocorrendo algum erro?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:07:25.585Z",
+      "msg": "Pode me passar um print, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:11:51.512Z",
+      "msg": "Erro status"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:11:51.527Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:12:08.737Z",
+      "msg": "Pede verificação em notas fiscais."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:14:19.314Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:14:20.890Z",
+      "msg": "Está ocorrendo algum erro?\nPode me passar um print, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:34:33.726Z",
+      "msg": "Em qual Loja? Não localizei o usuário alvarres@tonolli.com.br"
+    }
+  ],
+  "domain": "tawk.to"
+}

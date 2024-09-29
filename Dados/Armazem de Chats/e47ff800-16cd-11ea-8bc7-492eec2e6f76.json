@@ -1,0 +1,123 @@
+{
+  "id": "e47ff800-16cd-11ea-8bc7-492eec2e6f76",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "roger",
+    "id": "9955b6755fa162c79d28c4fec76d6c2434755021be172fd10c15980b17ebae21",
+    "email": "rogerfolle@tonolli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 11,
+  "chatDuration": 597,
+  "rating": 0,
+  "createdOn": "2019-12-04T19:40:19.083Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:40:19.083Z",
+      "msg": "Nome : roger\r\nE-mail/Usuário : rogerfolle@tonolli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:40:19.116Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:40:33.452Z",
+      "msg": "boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:40:41.492Z",
+      "msg": "poderia verificar a venda 1599"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:40:54.214Z",
+      "msg": "Não consigo emitir a nota fiscal."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:40:59.086Z",
+      "msg": "Boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:41:06.200Z",
+      "msg": "esta apresentando alguma rejeição?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:41:59.431Z",
+      "msg": "Em qual Loja você esta tentando emitir?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:42:39.917Z",
+      "msg": "sinimbu"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:43:26.884Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:50:09.003Z",
+      "msg": "Prontinho! Conseguimos emitir a nota com sucesso."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Vanessa"
+      },
+      "type": "msg",
+      "time": "2019-12-04T19:50:15.776Z",
+      "msg": "Consegue verificar, por favor?"
+    }
+  ],
+  "domain": "tawk.to"
+}

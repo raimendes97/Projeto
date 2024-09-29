@@ -1,0 +1,470 @@
+{
+  "id": "b7b18300-1783-11ea-89a1-170f3eeb471f",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Ricardo",
+    "id": "16717e39a7303713fd77acd21d4b828b8efd52cbe4a13767304abf279d302cae",
+    "email": "lojinha@bolovo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 51,
+  "chatDuration": 2596,
+  "rating": 0,
+  "createdOn": "2019-12-05T17:21:52.323Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:21:52.323Z",
+      "msg": "Nome : Ricardo\r\nE-mail/Usuário : lojinha@bolovo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:21:52.356Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:22:13.584Z",
+      "msg": "Boa tarde. Como faço trocas?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:22:16.146Z",
+      "msg": "Olá, Ricardo."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:22:26.274Z",
+      "msg": "A nota de venda foi emitida pelo  ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:22:31.737Z",
+      "msg": "Sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:22:49.120Z",
+      "msg": "No PDV ja coloquei o credito. Agora preciso ajustar o estoque com base no que voltou de produto no   Web"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:22:52.891Z",
+      "msg": "  ERP*"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:22:58.586Z",
+      "msg": "Certo, você já realizou a Devolução?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:23:05.401Z",
+      "msg": "Nao"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:23:10.610Z",
+      "msg": "Para realizar a devolução, é necessário ir em Vendas > Devoluções"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:23:29.667Z",
+      "msg": "Clicar no botão Adicionar, preencher as informações e selecionar se é o modelo fiscal NF-e (55) ou NFC-e (59)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:24:53.055Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:24:59.694Z",
+      "msg": "E ai so devolveu um produto"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:25:03.882Z",
+      "msg": "O que faço agora?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:25:17.731Z",
+      "msg": "Ledo engano, você pode excluir os produtos que não foram devolvidos."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:25:29.585Z",
+      "msg": "Se não for possível, será necessário realizar um ajuste manual de estoque, através de Estoque > Inventário."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:25:41.034Z",
+      "msg": "Ok. So deixo o que foi devolvido. Correto?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:26:16.440Z",
+      "msg": "Correto."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:27:14.887Z",
+      "msg": "Diz que nao pode fazer para o CONSUMIDOR FINAL"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:27:21.039Z",
+      "msg": "Eu preciso cadastrar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:28:41.449Z",
+      "msg": "Sim, preferencialmente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:28:48.188Z",
+      "msg": "Ok."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:28:54.070Z",
+      "msg": "E o estoque altera sozinho?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:29:07.536Z",
+      "msg": "Ou ainda assim preciso ajustar manualmente?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:29:28.713Z",
+      "msg": "O estoque altera automaticamente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:29:42.973Z",
+      "msg": "Nao alterou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:29:48.220Z",
+      "msg": ":/"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:29:55.195Z",
+      "msg": "Pode demorarum poucp?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:30:50.380Z",
+      "msg": "Ricardo, qual seria o produto em questão?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:31:10.754Z",
+      "msg": "Block Party Soks"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:31:15.459Z",
+      "msg": "BLV07FY"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:31:38.934Z",
+      "msg": "Foram dois produtos, mas eu so peguei o estoque inicial deste como exemplo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:32:04.103Z",
+      "msg": "Ahh ainda nao gerei a NF"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:32:08.064Z",
+      "msg": "Eh isso ne"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:32:29.977Z",
+      "msg": "Você está devolvendo dois produtos ou somente o Block Party Socks?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T17:32:45.742Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:38:51.666Z",
+      "msg": "A venda foi de 4 produtos e a devolucao foi 1 Block Party Socks e 1 BLV Colors Mescla GG"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:38:59.648Z",
+      "msg": "Quando tento gerar a NF me dá este erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:43:20.119Z",
+      "msg": "Um instante, Ricardo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:43:25.710Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:46:23.110Z",
+      "msg": "Ricardo, você poderia verificar a tributação dos produtos em questão?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:46:39.500Z",
+      "msg": "Como faço isso?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:46:55.967Z",
+      "msg": "Você precisa ir em Cadastro > Produtos > Produtos"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:47:16.685Z",
+      "msg": "Na aba de Fiscal, você precisa verificar qual é a tributação cadastrada."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:47:27.935Z",
+      "msg": "Verificada esta tributação, você precisa ir em Cadastro > Fiscal > Tributações."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T17:47:44.411Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:50:59.469Z",
+      "msg": "Indo em Cadastro > Fiscal > Tributações, verás que não tem a natureza de operação Devolução de Venda, gerando este transtorno."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T17:51:56.423Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:55:26.345Z",
+      "msg": "A tributação devolução de venda não tem nenhuma natureza de operação como devolução de venda."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:55:32.326Z",
+      "msg": "O ideal seria trocar no produto para Tributação de Produto."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T17:57:25.083Z",
+      "msg": "É necessário que dentro das Naturezas de Operação tenha uma chamada Devolução de Venda."
+    }
+  ],
+  "domain": "tawk.to"
+}

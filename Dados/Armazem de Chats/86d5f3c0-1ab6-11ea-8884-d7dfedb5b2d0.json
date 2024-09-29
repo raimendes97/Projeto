@@ -1,0 +1,278 @@
+{
+  "id": "86d5f3c0-1ab6-11ea-8884-d7dfedb5b2d0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Gilmar Fortunato",
+    "id": "3bb645b53ba82ff61d461411ddb66467812fe2970e9e6f20eff96e6cc4dbb415",
+    "email": "gilmar.firesolution@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Rio de Janeiro"
+  },
+  "messageCount": 29,
+  "chatDuration": 1608,
+  "rating": 0,
+  "createdOn": "2019-12-09T19:03:32.331Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:03:32.331Z",
+      "msg": "Nome : Gilmar Fortunato\r\nE-mail/Usuário : gilmar.firesolution@gmail.com\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:03:32.330Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:04:19.146Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:16:15.078Z",
+      "msg": "Boa tarde, Gilmar. Como posso te ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:16:24.444Z",
+      "msg": "Boa tarde."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:16:53.355Z",
+      "msg": "Estou precisando de uma ajuda... O meu sistema venceu, eu pago o plano anual."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:17:20.440Z",
+      "msg": "Realizei o pagamento hoje cedo, porém ainda continuo sem acesso ao sistema."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:17:27.188Z",
+      "msg": "Você pode me ajudar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:17:42.214Z",
+      "msg": "Certo! Consegue me encaminhar o comprovante de pagamento e seu CNPJ, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:18:07.619Z",
+      "msg": "O CNPJ é 12.648.504/0001-00"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:18:21.735Z",
+      "msg": "O comprovante te envio como?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:19:07.073Z",
+      "msg": "Pode encaminhar aqui mesmo, Gilmar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:19:14.560Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:19:29.778Z",
+      "msg": "Só um minuto que já vou te enviar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:19:44.302Z",
+      "msg": "Claro!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:21:37.728Z",
+      "msg": "Estou pegando o comprovante no sistema do banco. Já localizei e vou te enviar."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:21:50.284Z",
+      "msg": "Perfeito, aguardo!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-09T19:23:38.766Z",
+      "data": {
+        "uri": "https",
+        "name": "Pagamento  .pdf",
+        "mime": "application/pdf"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:24:16.449Z",
+      "msg": "Um momento, por favor! Vou solicitar a liberação do sistema."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:24:24.330Z",
+      "msg": "Ok, obrigado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:04.011Z",
+      "msg": "Acesso liberado, Gilmar."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:25.338Z",
+      "msg": "Posso te ajudar com mais alguma questão?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:33.559Z",
+      "msg": "Muito obrigado pela ajuda!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:37.692Z",
+      "msg": "Imagina!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:40.086Z",
+      "msg": "Dúvidas, estou à disposição!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:44.620Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:52.253Z",
+      "msg": "Boa tarde e bom trabalho."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:26:55.256Z",
+      "msg": "Desejamos uma ótima semana"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:27:11.909Z",
+      "msg": "Obrigada, pra você também :)"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eduarda"
+      },
+      "type": "msg",
+      "time": "2019-12-09T19:27:20.966Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

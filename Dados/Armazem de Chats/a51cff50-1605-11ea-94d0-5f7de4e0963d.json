@@ -1,0 +1,346 @@
+{
+  "id": "a51cff50-1605-11ea-94d0-5f7de4e0963d",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fabiana",
+    "id": "b9c4eb6a1c6c1edb7063d2ebc4670e136831802f540c9832131976623b02cac4",
+    "email": "fabiana@selodecontrole.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 34,
+  "chatDuration": 1864,
+  "rating": 1,
+  "createdOn": "2019-12-03T19:46:52.193Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:46:52.193Z",
+      "msg": "Nome : Fabiana\r\nE-mail/Usuário : fabiana@selodecontrole.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:46:52.207Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:46:58.002Z",
+      "msg": "Olá, boa tarde!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:47:18.655Z",
+      "msg": "Olá, Fabiana! Como podemos ajudá-la?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:48:11.196Z",
+      "msg": "Meu contador precisa da opção da situação tributária de Venda de produto de São Paulo para SP\nHome > Cadastros > Fiscal > Tributações > Tributação de Produtos > SP / SP"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:48:43.166Z",
+      "msg": "Venda de Produto - Física\nVenda de Produto - Jurídica"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:49:21.945Z",
+      "msg": "Está como 102 para Física e 101 para Jurídica (ICMS)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:49:30.780Z",
+      "msg": "vocês conseguem me enviar o arquivo com as  opções que temos em PIS e Confins"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:49:48.979Z",
+      "msg": "E do PIS/COFINS está como 99 - Outras Operações."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:49:53.819Z",
+      "msg": "sim, mas eles querem saber todas as opções que temos"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:50:31.021Z",
+      "msg": "As opções para selecionar é todas as que estão vigentes na legislação atual."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:51:09.560Z",
+      "msg": "conseguem me enviar ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:53:46.692Z",
+      "msg": "?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:54:18.817Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:54:24.844Z",
+      "msg": "ok, obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:58:53.554Z",
+      "msg": "Enviaremos para fabi@selodecontrole.com.br?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:03:01.489Z",
+      "msg": "isso mesmo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:03:38.200Z",
+      "msg": "Já estamos extraindo o que necessitas..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:03:56.917Z",
+      "msg": "ok, muito obrigada :wink:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:06:12.921Z",
+      "msg": "Fabi, está aí ainda? :D"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "file",
+      "time": "2019-12-03T20:06:33.175Z",
+      "data": {
+        "uri": "https",
+        "name": "ipi.xlsx",
+        "mime": "application/octet-stream"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "file",
+      "time": "2019-12-03T20:06:41.905Z",
+      "data": {
+        "uri": "https",
+        "name": "pis_cofins.xlsx",
+        "mime": "application/octet-stream"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:06:53.252Z",
+      "msg": "Para facilitar nosso envio, te enviei por aqui mesmo!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:06:59.599Z",
+      "msg": "Confirme o recebimento se possível. :)))"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:08:58.521Z",
+      "msg": "De qualquer forma, também acabo de enviar em teu e-mail."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:11:34.604Z",
+      "msg": "o de pessoa física e jurídica é o mesmo certo?"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:11:34.633Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:11:45.345Z",
+      "msg": "iiixiii abre assim o que mandou por aqui"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-03T20:11:48.538Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:11:54.608Z",
+      "msg": "kkkkk"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:12:02.298Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:12:19.248Z",
+      "msg": "obrigada Ana :wink:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:13:30.510Z",
+      "msg": "Van, o do e-mail deu certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:13:37.405Z",
+      "msg": "acabei de receber"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:13:53.912Z",
+      "msg": "muito obrigada por enquanto kkk"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-03T20:13:58.808Z",
+      "data": {
+        "rating": 1
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:14:46.402Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa terça-feira e uma boa semana para você.  "
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,563 @@
+{
+  "id": "50b48290-1857-11ea-864c-8bd71737f693",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Fernando",
+    "id": "220815e07edbdb7121f2ef7a4202fccd9f457e48ccab269f1697a50e3b9313c4",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 63,
+  "chatDuration": 7409,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:36:30.329Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:36:30.329Z",
+      "msg": "Nome : Fernando\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:36:30.291Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:36:47.256Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:36:53.650Z",
+      "msg": "Boa tarde, estou aguardando o retorno ainda da Alexia sobre o problema da Integracao - Fernando PayPet."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:37:07.020Z",
+      "msg": "A loja 2 de teste continua sem acesso por assinatura vencida."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:38:11.448Z",
+      "msg": "Um momento, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:39:20.688Z",
+      "msg": "Pode atualizar a página e tentar acessar novamente, por favor? A Loja 2 esta liberada desde que você entrou no chat e me repassou essa situação."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:39:56.819Z",
+      "msg": "abgora liberou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:40:41.217Z",
+      "msg": "Agora vi que o pedido entrou com o status problema como deveria. Porém o que houve para a demora de quase 1 dia para esetee pedido entrar no  ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:41:19.544Z",
+      "msg": "Precisamos ter seguranca quando formos liberar, como tinhamos outro ERP que usavamos na inteegra com contabilidade, financeiro, vendas etc. estamos preocupados e ja externei isso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:41:49.634Z",
+      "msg": "Tem coisas que precisamos ter e nao temos. Temos um processo de FIFO aqui e nao conseguimos usar o ERP tambem para fazer isso (mas isso eu abro chamado depois)."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:44:25.587Z",
+      "msg": "Conversei com a Alexia sobre o retorno que ela precisa lhe passar, pedindo urgência novamente, ela me disse que na sequência, ela já lhe passar um retorno por email deste caso. No email, vou pedir para ele já explicar o porque esta apresentando essa lentidão e todos esses problemas para integrar os pedidos.\n\nCerto, por favor, então através do Chamado a Equipe Técnica consegue analisar melhor e consegue lhe passar mais detalhes a respeito do andamento do mesmo, caso aprovado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:47:21.649Z",
+      "msg": "ok eu vou cancelar o pedido e ver como vai ser o retorno. Também queria falar sobre a parte financeira dos pedidos para as outras lojas e CDs."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:50:54.644Z",
+      "msg": "já cancelado no rakuton 20008"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:51:23.815Z",
+      "msg": "Certo, em até 30 mins ele deve sincronizar o cancelamento corretamente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:51:38.099Z",
+      "msg": "Qual seria as dúvidas sobre o financeiro dos pedidos?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:33.632Z",
+      "msg": "Já mandei para a Alexia no email tudo descrito completo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:53:57.497Z",
+      "msg": "Acho que é mais fácil olharem lá porque explico exatamente o que tem que ser. Pense na Paypet / rakuton como um MarketPlace."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:54:30.668Z",
+      "msg": "Cada loja e um CD novo sao os Sellers eles noa podem ver o valor do pedido como uma contas a receber com o valor cheio. Tem a comissao do CD a descontar e ainda os custos dos fretes."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:59:27.920Z",
+      "msg": "Certo. Vou verificar com a Alexia, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:02:51.386Z",
+      "msg": "Oi Fernando"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:02:53.867Z",
+      "msg": "tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:02:55.969Z",
+      "msg": "li seu emai l"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:03:30.217Z",
+      "msg": "entendi como vai funcionar, cada um dos sellers vao pagar uma taxa por venda para a paypet, correto?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:04:25.794Z",
+      "msg": "no   do seller vamos ter que gerar um financeiro com este pagamento, e no   da paypet \"matriz\" vamos ter que gerar um recebimento de mesmo valor. Isso para cada uma das vendas."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:05:12.967Z",
+      "msg": "Ainda estamos analisando o melhor jeito de fazer isto, e assim que tivermos uma alternativa, te descrevo a solução por email para você confirmar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:11:36.319Z",
+      "msg": "CORRETO A TAXA DA PAYPET."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:12:15.606Z",
+      "msg": "Porém voce tem que gerar um contas a pagar para a PayPet que é referente a aquele pedido com a data de recebimento do cartao no caso se for cartao (igual ao da rakuton) já descontado tudo que é referente aos custos."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:12:37.884Z",
+      "msg": "No lado do Cliente tera que gerar um contas a receber com o valor total das vendas mostrando os descontos que ele teve com aquela venda."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:12:41.051Z",
+      "msg": "É isso ai."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:13:34.762Z",
+      "msg": "Nós vamos tentar desta forma até o final de janeiro se nao rodar vamos ter de achar outra saida para as lojas credenciadas, Pois o volume é grande e nao podemos mais esperar. A rakuton é muito sabonete rs kkk."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:17:20.392Z",
+      "msg": "ja cancelou no   o pedido. vamos ver o financeiro e estoque agora."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:20:08.843Z",
+      "msg": "quem paga a comissão para o vendedor é a paypet? \nquais seriam esses custos que vao ter que ser descontados?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:21:35.834Z",
+      "msg": "Vou te mandar um print de como é descontado de nós no site da rakuton do pedido é como se eu tivesse eseperando receber um valor diferente do que é o de venda, apesar de que a venda é do valor cheio, mas o a receber nao é do valor cheio"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:21:45.086Z",
+      "msg": "os descontos sao a nossa taxa e o frete."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:31:30.936Z",
+      "msg": "entendi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:40:02.203Z",
+      "msg": "Assim que puder me retorna quero fazer mais testes."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:44:14.290Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:44:29.791Z",
+      "msg": "como te falei, de qualquer forma vamos precisar desenvolver esta parte"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:44:43.254Z",
+      "msg": "mas vamos entrar em contato com a rakuton também"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:44:58.354Z",
+      "msg": "blz se precisar podemos fazer uma call."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:44:59.590Z",
+      "msg": "para conseguirmos buscar este valor com as taxas descontadas"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:45:00.854Z",
+      "msg": "okk"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:45:19.976Z",
+      "msg": "vou conversar com eles para ver o que eles já tem disponível para consultarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:48:06.492Z",
+      "msg": "Ok, temos interesse em que nossos vendedeores possam fazer os pedidos direto de um aplicativo voces tem interesse ou tem algo que possamos usar neste sentido."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:48:51.666Z",
+      "msg": "tem um produto que estavamos observando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:53:58.460Z",
+      "msg": "Acabei de fazer um ovo pedido para cd 2 20009"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T19:58:35.783Z",
+      "msg": "No caso isso seria com a rakuton que cuida do ecommerce e dos pedidos. Não sei te dizer se eles tem alguma solução pra mobile"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:04:04.667Z",
+      "msg": "nao é rakuton nao ;e nossas vendas de rua mesmo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:04:44.425Z",
+      "msg": "Nós temos vendedores que vendem a outros petshops e os credenciam para vender pelo ecommerce também os pedidos dos produtos na rua sao feito direto pelo   só que tenho que ter alguem no backoffice só para ficar lancando pedido o que é muito caro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:05:09.962Z",
+      "msg": "ah entendi"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:05:33.036Z",
+      "msg": "na verdade temos no planejamento isso sim, mas hoje não temos nada desenvolvido."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:11:32.628Z",
+      "msg": "Ja rgistrou como aguardando pagamento mas já está confirmado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:26:51.417Z",
+      "msg": "O status demora 30 mins para sincronizar para o  , por isso ainda esta diferente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:27:58.211Z",
+      "msg": "ok eu estou aguardando como está ficando tarde e parece que o hoarario ai é bem em cima para voces, eu vou deixar para cancelar este pedido só na segunda, mas preciso resolveer agora as questoes financeiras para poder liberar pelo meneos uma loja de teste"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:33:45.448Z",
+      "msg": "Certo, combinado! Vou solicitar urgência a Eliza, para que ela lhe passe o retorno."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:33:49.226Z",
+      "msg": "Preciso também saber como faço para controlar os FIFOs dos produtos ou datas de vencimentos (se existe isso no  ). Antes de irmos ebmora."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:35:12.607Z",
+      "msg": "Infelizmente não temos controle de data de vencimento no sistema."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:35:42.312Z",
+      "msg": "Voces nao querem contratar alguewm para especifidar funcionalidades pra vocese nao hahahaha"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:36:19.051Z",
+      "msg": "Acho que um bom modelo é criar um usuario e uma senha dentro do MarketUp (Sebrae) Gratuito e começarem a pelo menos tentar acompanhar as funcionalidades do ERP deles."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:37:14.463Z",
+      "msg": "Vou passar sua sugestão para a Equipe Técnica, para eles avaliarem."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:37:33.577Z",
+      "msg": "Brincadeiras a parte viu. Até segunda bom final de semana. shalom"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:38:11.270Z",
+      "msg": "Sim, tudo bem! Para você também!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:38:16.663Z",
+      "msg": ":grinning:"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "840f7110-1521-11ea-8e80-1fb5340638f8",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Juliano",
+    "id": "89077fe84c1f398cf4b8588fe5d68e8d48882bcef4fdf0de87924ada1efae332",
+    "email": "vendas2@ebikestore.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 7,
+  "chatDuration": 1353,
+  "rating": 0,
+  "createdOn": "2019-12-02T16:33:52.226Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:33:52.226Z",
+      "msg": "Nome : Juliano\r\nE-mail/Usuário : vendas2@ebikestore.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:33:52.257Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:34:08.807Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:34:41.089Z",
+      "msg": "Olá, Boa Tarde!\nNão estou conseguindo gerar uma Nota, o numero é : 12414"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:35:02.366Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:35:06.190Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:46:38.914Z",
+      "msg": "Juliano, você consegue acessar em Cadastros > Fiscal > Tributações > Prod. Nacional p/ Revenda > SP / DF > Venda > Aba IPI.\nOrientamos você a verificar a Situação Tributária do IPI e Enquadramento do IPI, pois a combinação de CST 052 não aceita o Enquadramento 999.\nNo caso de CST 052, precisaria escolher um código de enquadramento entra 301 e 399, neste caso orientamos você a entrar em contato com a sua contabilidade para que eles possam lhe instruir melhor com o código que você deve usar neste caso.\nApós o ajuste, é necessário duplicar o pedido para ele conseguir pegar a nova tributação, depois você pode cancelar o pedido antigo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T16:56:04.035Z",
+      "msg": "ok, obrigado Ana."
+    }
+  ],
+  "domain": "tawk.to"
+}

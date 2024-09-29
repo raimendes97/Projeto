@@ -1,0 +1,168 @@
+{
+  "id": "9445e6d0-14fa-11ea-a41d-7dd4308e3884",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Marta",
+    "id": "5769ce9fc04ac04345f39278517bad6743f437433f63c0d58c5bb7cfac83050f",
+    "email": "financeirodinocg@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Campo Grande"
+  },
+  "messageCount": 17,
+  "chatDuration": 2255,
+  "rating": 0,
+  "createdOn": "2019-12-02T11:55:09.142Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:55:09.142Z",
+      "msg": "Nome : Marta\r\nE-mail/Usuário : financeirodinocg@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:55:26.528Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:58:14.261Z",
+      "msg": "Bom dia!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:58:23.849Z",
+      "msg": "Está dando erro na hora de baxiar os arqvuios da NFE"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:58:35.447Z",
+      "msg": "Home - Vendas - Notas eletrónicas - Consultar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:58:54.958Z",
+      "msg": "Pode me passar um print do erro, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:02:11.596Z",
+      "msg": "Só um segundo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:02:15.866Z",
+      "msg": "portaria 500 alguma coisa"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:02:19.330Z",
+      "msg": "pedi pra rodar d enovo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:02:25.667Z",
+      "msg": "certo, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:03:22.114Z",
+      "msg": "Erro: 504 / Gateway Timeout / error"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:04:24.183Z",
+      "msg": "Pode me confirmar, por favor, qual i filtro que você esta usando para extrair os XMLs das notas? Seria por número de notas? Ou pelo período?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T12:05:06.828Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:05:20.258Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:10:53.279Z",
+      "msg": "Você consegue acessar em Relatórios > Processos > Outros, clicar no processo botão Detalhes, ao lado do processo de nº 40399"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:11:08.806Z",
+      "msg": "Então você vai conseguir extrair com sucesso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T12:32:44.620Z",
+      "msg": "Obrigada"
+    }
+  ],
+  "domain": "tawk.to"
+}

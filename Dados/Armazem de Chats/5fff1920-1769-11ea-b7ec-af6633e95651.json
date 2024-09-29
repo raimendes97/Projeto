@@ -1,0 +1,95 @@
+{
+  "id": "5fff1920-1769-11ea-b7ec-af6633e95651",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "kadu",
+    "id": "28754cec0bf0ce9dd436b9b22fd9b04316392e21ffc6caf0ef4ee4389e364f12",
+    "email": "kadu_cordeiro@hotmail.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Belo Jardim"
+  },
+  "messageCount": 8,
+  "chatDuration": 104,
+  "rating": 0,
+  "createdOn": "2019-12-05T14:13:17.233Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:17.233Z",
+      "msg": "Nome : kadu\r\nE-mail/Usuário : kadu_cordeiro@hotmail.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:17.247Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:21.080Z",
+      "msg": "bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:28.347Z",
+      "msg": "estou com uma sugestão"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:32.015Z",
+      "msg": "Olá, kadu! Bom dia. Como podemos ajudá-lo? :D"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:13:37.970Z",
+      "msg": "quando eu vou editar o cadastro de um cliente no  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:14:22.469Z",
+      "msg": "pela area de vendas, quando executo a edição, os preços dos produtos que estão no pedido são alterados automaticamente para o valor padrão"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:14:33.260Z",
+      "msg": "tem como retirar essa automação?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:15:01.591Z",
+      "msg": "Para tanto, seria necessário abrir um chamado para que a Equipe pudesse analisar o seu pedido, Kadu."
+    }
+  ],
+  "domain": "tawk.to"
+}

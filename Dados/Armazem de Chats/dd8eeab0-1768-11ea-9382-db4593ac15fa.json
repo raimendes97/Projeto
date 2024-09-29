@@ -1,0 +1,150 @@
+{
+  "id": "dd8eeab0-1768-11ea-9382-db4593ac15fa",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "karilene",
+    "id": "328c448db1dd65c84423aaf01ae32e6e7ef74bbe11a0a73ebd12ac215580968a",
+    "email": "karilene.silva@ucb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Areal"
+  },
+  "messageCount": 14,
+  "chatDuration": 3026,
+  "rating": 0,
+  "createdOn": "2019-12-05T14:09:38.749Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:09:38.749Z",
+      "msg": "Nome : karilene\r\nE-mail/Usuário : karilene.silva@ucb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:09:38.766Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:09:51.401Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:18:52.629Z",
+      "msg": "Bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:19:11.485Z",
+      "msg": "Estou com problema com uma nota"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:19:28.324Z",
+      "msg": "a nota 2804 foi gerada indevida"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:02.932Z",
+      "msg": "foi feito duas devoluções no dia 21/11 e a primeira vez deu erro e depois deu certo as devoluções"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:32.409Z",
+      "msg": "mais agora quando fui importar as notas para outro sistema esta aparecendo essa nota 2804"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:20:44.924Z",
+      "msg": "tem como vc verificar por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:21:17.763Z",
+      "msg": "Certo. Então, precisaríamos cancelar a 2804?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:35:44.028Z",
+      "msg": "isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:36:00.243Z",
+      "msg": "por que ja tem a devolução desse cupom"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "file",
+      "time": "2019-12-05T14:37:39.178Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:37:43.714Z",
+      "msg": "Karilene, podemos cancelar a nota?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T14:53:16.766Z",
+      "msg": "Nota 2804 cancelada."
+    }
+  ],
+  "domain": "tawk.to"
+}

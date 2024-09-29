@@ -1,0 +1,578 @@
+{
+  "id": "05dd8560-178e-11ea-9208-8f6fdc1fd6f3",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Leonardo",
+    "id": "acbb1298ba85a7b1bd32dafc6798c04e7559ff8c55c7ef8b8b1529d40fa3a9dd",
+    "email": "ti2@fullfit.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 65,
+  "chatDuration": 5814,
+  "rating": 0,
+  "createdOn": "2019-12-05T18:35:57.422Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:35:57.422Z",
+      "msg": "Nome : Leonardo\r\nE-mail/Usuário : ti2@fullfit.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:35:57.443Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:36:09.669Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:36:42.668Z",
+      "msg": "A Equipe Técnica já esta fazendo o ajuste, para que não ocorra mais essa mensagem de validação da tributação neste caso. Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:37:14.142Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:53:40.328Z",
+      "msg": "conseguiu?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T18:59:07.672Z",
+      "msg": "Mais um momento, por favor, estamos quase finalizando o ajuste."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:01:30.236Z",
+      "msg": "Essa devolução que você esta lançando é de uma venda que você emitiu através do  , isso?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:13:15.283Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:13:42.323Z",
+      "msg": "estou tentando inserir a NF do cliente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:14:53.102Z",
+      "msg": "Oi Leonardo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:14:59.571Z",
+      "msg": "quando você inicia a devolução"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:15:08.006Z",
+      "msg": "você clica em qual dessas opções:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "file",
+      "time": "2019-12-05T19:15:19.901Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:23:31.752Z",
+      "msg": "vamos ter que usar a segunda"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:24:39.326Z",
+      "msg": "mas a nota de venda não foi emitida no  ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:25:13.143Z",
+      "msg": "a devolução foi emitida pelo cliente, mas o pedido para buscar os itens e o cliente está no  , não está?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:27:37.093Z",
+      "msg": "sim claro que foi emitida pelo  "
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:27:49.910Z",
+      "msg": "a venda"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:27:51.975Z",
+      "msg": "então, nessa tela você escolhe a primeira opção"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:28:01.823Z",
+      "msg": "para puxar os itens do pedido"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:28:04.014Z",
+      "msg": "qual ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "file",
+      "time": "2019-12-05T19:28:13.201Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:28:13.983Z",
+      "msg": "esta"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:28:46.837Z",
+      "msg": "logo na maquina por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:29:04.758Z",
+      "msg": "para fazer qual procedimento?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:30:13.789Z",
+      "msg": "passar a NF de devolução"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:30:24.044Z",
+      "msg": "assim poderá ver o erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:30:32.093Z",
+      "msg": "1 456 411 560"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:30:42.081Z",
+      "msg": "md1sssij067"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:30:50.879Z",
+      "msg": "ja colocamos a atualização"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:31:00.196Z",
+      "msg": "você pode dar ctrl + F5 e tentar novamente?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:31:16.464Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:31:31.903Z",
+      "msg": "é para usar a primeira alternativa?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:32:48.650Z",
+      "msg": "isso. a primeira opção é para notas de venda que foram emitidas no  . aí você informa o numero e serie da nota de VENDA e clica em carregar informações, para puxar os itens e o cliente do pedido."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:33:14.798Z",
+      "msg": "a segunda opção seria caso a nota de venda tivesse sido emitida por vocês só que por outro sistema  que não o  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:33:16.356Z",
+      "msg": "entende?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:33:46.024Z",
+      "msg": "entende a msg"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:34:36.104Z",
+      "msg": "mas não tem logica e legislação, que ampara a sua segunda msg"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:34:56.127Z",
+      "msg": "Pode acompanhar por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:38:31.741Z",
+      "msg": "vou te mandar o passo a passo para você fazer essa devolução:\n1 - clicar em adicionar devolução\n2 - preencher o numero e serie da NFe ou NFCe de VENDA que foi emitida no  \n3 - clicar em carregar informações\nisso vai fazer ser aberta outra tela com os itens da venda e com o cliente já selecionado.\n4 - fazer as alterações nos itens se necessário\n5 - na opção Gerar NF-e? você seleciona: NF-e já emitida"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:38:55.158Z",
+      "msg": "você pode ir seguindo esse processo e caso tiver alguma dúvida pode me mandar print"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:39:09.491Z",
+      "msg": "Eu não preciso de passo a passo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:39:21.289Z",
+      "msg": "Eu quero demonstrar a deficiencia do seu sistema"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:39:31.746Z",
+      "msg": "ok, pode me mandar um print?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:39:32.227Z",
+      "msg": "eu perdi a minha tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:40:11.960Z",
+      "msg": "nós colocamos uma correção agora, pode simular de novo para ver se a deficiência persiste?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:40:27.971Z",
+      "msg": "se é o caso da validação da tributação que você se refere."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:43:11.212Z",
+      "msg": "mas, a NF é do cliente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:43:35.693Z",
+      "msg": "O lançamento ficou igual o que eu já tinha feito"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:43:57.949Z",
+      "msg": "a diferença é que você não vai emitir a nota par afazer as movimentações de estoque e financeiro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:44:30.105Z",
+      "msg": "antes, a única opção para fazer as movimentações de devolução era emitindo a nota de devolução"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:44:50.251Z",
+      "msg": "agora você tem a opção de \"Gerar NF-e?\" > NF-e já emitida"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:45:25.933Z",
+      "msg": "marcando essa opção, a nota de devolução nao vai ser emitida, pois o cliente ja fez ela, certo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T19:46:01.299Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:46:15.591Z",
+      "msg": "cancela estes dois lançamentos por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:46:38.788Z",
+      "msg": "e te corrigindo, é a segunda alternativa que deve ser usado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:46:55.433Z",
+      "msg": "posso entrar em contato contigo por telefone?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:46:58.148Z",
+      "msg": "qual seu nome?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:47:13.742Z",
+      "msg": "sim, vou fazer o cancelamento deles"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:48:47.887Z",
+      "msg": "pode claro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Eliza"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:49:39.950Z",
+      "msg": "me confirma seu telefone e ddd por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:53:28.799Z",
+      "msg": "0001 09090"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T19:53:38.480Z",
+      "msg": "me passa o seu tbm"
+    }
+  ],
+  "domain": "tawk.to"
+}

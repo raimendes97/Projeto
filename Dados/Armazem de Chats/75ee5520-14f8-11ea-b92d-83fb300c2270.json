@@ -1,0 +1,238 @@
+{
+  "id": "75ee5520-14f8-11ea-b92d-83fb300c2270",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "suelen",
+    "id": "64f4c6b9aaf47c6ad5dcfa8156731c9dcd617080b12dd6cb3f7009f953cfc8e9",
+    "email": "scasagrande@woom.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 25,
+  "chatDuration": 831,
+  "rating": 0,
+  "createdOn": "2019-12-02T11:40:11.187Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:11.187Z",
+      "msg": "Nome : suelen\r\nE-mail/Usuário : scasagrande@woom.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:11.203Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:18.115Z",
+      "msg": "oi VAn"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:20.303Z",
+      "msg": "vaiu..."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:20.689Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:23.012Z",
+      "msg": "*caiu]"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:27.969Z",
+      "msg": "Suelen, consegue me confirmar se o total do Pedido é R$ 394,60?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:32.619Z",
+      "msg": "não consegui ver o que respondeu.."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:33.219Z",
+      "msg": "rsrs"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:41.785Z",
+      "msg": "é isso mesmo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:52.982Z",
+      "msg": "mas foi pago 394,62"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:40:58.284Z",
+      "msg": "por isso a diferença"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:41:54.610Z",
+      "msg": "Perfeito! Um segundo, por favor, estamos finalizando o ajuste.\nA Equipe Técnica já esta em contato com a rakuton, para que essa situação seja resolvida e não volte mais a ocorrer problemas como esse."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:42:52.580Z",
+      "msg": "blz"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:42:56.712Z",
+      "msg": "Podemos tentar emitir por aqui?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:43:01.298Z",
+      "msg": "pode"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:43:18.170Z",
+      "msg": "certo, um segundo, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:44:06.494Z",
+      "msg": "Conseguimos emitir"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:44:14.808Z",
+      "msg": "Consegue verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:53:46.075Z",
+      "msg": "fechou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:53:47.561Z",
+      "msg": "deu certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:53:49.756Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:53:50.769Z",
+      "msg": ":)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:53:55.154Z",
+      "msg": "óTima semana!!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:53:56.546Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T11:54:02.406Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

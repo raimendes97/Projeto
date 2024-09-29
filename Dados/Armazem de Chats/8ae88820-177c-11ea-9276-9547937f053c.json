@@ -1,0 +1,242 @@
+{
+  "id": "8ae88820-177c-11ea-9276-9547937f053c",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Renata",
+    "id": "17ea86e63c160700e1f1406a0dda0fa6a62830dc8104578f1600aa2e240258a4",
+    "email": "renatarech@terra.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 24,
+  "chatDuration": 1768,
+  "rating": 1,
+  "createdOn": "2019-12-05T16:30:29.756Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:30:29.756Z",
+      "msg": "Nome : Renata\r\nE-mail/Usuário : renatarech@terra.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:30:29.774Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:30:52.949Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:30:57.743Z",
+      "msg": "oi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:31:08.329Z",
+      "msg": "conseguiram emitir a NF de devolução?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:33:07.525Z",
+      "msg": "A Equipe Técnica ainda esta analisando o porque esta ocorrendo o erro, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:33:14.865Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:33:24.186Z",
+      "msg": "fico no aguardo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:33:26.093Z",
+      "msg": "obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:34:22.347Z",
+      "msg": "Imagina! Mais um momento, já lhe aviso aqui no chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-05T16:41:32.380Z",
+      "data": {
+        "rating": 1
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:50:56.539Z",
+      "msg": "Realizamos um ajuste, então você consegue criar uma nova nota de devolução, por favor? Então ela deve emitir com sucesso."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:53:13.437Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:53:15.975Z",
+      "msg": "vou tentar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:53:39.084Z",
+      "msg": "e essas que deram erro mas que tem numero de NF"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:53:46.039Z",
+      "msg": "tem como cancelar?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:56:10.544Z",
+      "msg": "Na verdade, ela tentou gerar com esse número, mas devido ao erro, ela não conseguiu emitir, então esse número ainda esta livre, mas podemos remover ela da tela para você."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:56:49.563Z",
+      "msg": "tentei emitir mas deu o mesmo erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:56:59.671Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:58:51.407Z",
+      "msg": "enquanto vcs olham isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:58:58.645Z",
+      "msg": "tentei emitir uma NF de venda"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:59:02.071Z",
+      "msg": "mas..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-05T16:59:05.935Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:59:23.440Z",
+      "msg": "a NF de devolução com erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:59:36.526Z",
+      "msg": "ocupou o numero da sequencia da NF"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T16:59:57.716Z",
+      "msg": "Certo. Vamos verificar, um momento, por favor"
+    }
+  ],
+  "domain": "tawk.to"
+}

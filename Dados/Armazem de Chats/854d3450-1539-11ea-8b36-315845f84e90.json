@@ -1,0 +1,79 @@
+{
+  "id": "854d3450-1539-11ea-8b36-315845f84e90",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "graci",
+    "id": "7c2c22b4f6535b7daf5133f21aac590584cdce7a8bd8fa787d5a9f1964131480",
+    "email": "zonasul@verdeb.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Cachoeirinha"
+  },
+  "messageCount": 6,
+  "chatDuration": 135,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:29:44.659Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:44.659Z",
+      "msg": "Nome : graci\r\nE-mail/Usuário : zonasul@verdeb.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:29:44.688Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:30:01.889Z",
+      "msg": "Olá, caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:30:07.296Z",
+      "msg": "Boa tarde ainda estou com problemas para fazer a troca"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:30:26.948Z",
+      "msg": "tenho 3 trocas para lançar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:30:38.545Z",
+      "msg": "A Equipe Técnica encontrou um erro na devolução/troca, eles já estão trabalhando na correção, mais alguns minutinhos já estará ok.\num momento, por favor."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:31:59.393Z",
+      "msg": "Ok"
+    }
+  ],
+  "domain": "tawk.to"
+}

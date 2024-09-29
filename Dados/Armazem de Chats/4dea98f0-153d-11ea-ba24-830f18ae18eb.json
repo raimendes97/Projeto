@@ -1,0 +1,146 @@
+{
+  "id": "4dea98f0-153d-11ea-ba24-830f18ae18eb",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Lucas",
+    "id": "a8a6c32cc1333b1e5fb92609eee65a9b5b27a8dad1e2a6a65e03995515c7ae7e",
+    "email": "fpcandido@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 14,
+  "chatDuration": 423,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:52:49.892Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:52:49.892Z",
+      "msg": "Nome : Lucas\r\nE-mail/Usuário : fpcandido@paypet.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:52:49.911Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:10.376Z",
+      "msg": "Boa tarde gostaria de falar com a Thais"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:27.496Z",
+      "msg": "O Fernando pediu pra entrar em contato com ela"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:33.895Z",
+      "msg": "Boa tarde, Lucas!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:53:43.205Z",
+      "msg": "pra gente fazer alguns testes"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:54:04.067Z",
+      "msg": "Um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:54:12.005Z",
+      "msg": "Ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:57:07.007Z",
+      "msg": "Infelizmente ela não consegue atender você agora, ela esta trabalhando na correção da Sincronização das Lojas que passamos para o Fernando, para poder colocar no ar agora a tarde ainda. Podemos lhe auxilar com os testes? \nAcredito que ela só se liberará manhã de manhã, neste caso, se você quiser deixar um recado para ela, eu posso transferir."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:58:32.183Z",
+      "msg": "Bom, ele não me inteirou muito sobre o assunto, mas acredito que esses testes estão associados justamente com esse trabalho que ela está realizando. Então eu aguardo."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:58:59.512Z",
+      "msg": "Você consegue me deixar seu email, por favor? Daí quando ela acabar e colocar a correção no ar, já avisamos você e o Fernando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:59:22.195Z",
+      "msg": "Ok! Lucas@planetconnection.com.br"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:59:31.161Z",
+      "msg": "do Fernando, você sabe?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:59:41.659Z",
+      "msg": "fpcandido@paypet.com.br"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:59:52.999Z",
+      "msg": "Sim, perfeito! Vou anotar aqui o seu, o dele já temos o contato"
+    }
+  ],
+  "domain": "tawk.to"
+}

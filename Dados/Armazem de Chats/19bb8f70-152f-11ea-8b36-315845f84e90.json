@@ -1,0 +1,146 @@
+{
+  "id": "19bb8f70-152f-11ea-8b36-315845f84e90",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "jean",
+    "id": "57601f7542ea96df49ddc36da6b265939490f6ee1540ed9c14eae211aec9629b",
+    "email": "jean.vargas19@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 14,
+  "chatDuration": 2979,
+  "rating": 0,
+  "createdOn": "2019-12-02T18:11:19.433Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:11:19.433Z",
+      "msg": "Nome : jean\r\nE-mail/Usuário : jean.vargas19@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:11:19.448Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:11:25.802Z",
+      "msg": "continua sem imprimir"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:11:30.952Z",
+      "msg": "ja alterei o TOKEN"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:11:44.153Z",
+      "msg": "Pode me passar um acesso do team viewer, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:12:14.670Z",
+      "msg": "1 471 536 450"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:12:20.178Z",
+      "msg": "5j1g"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:12:27.897Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:58:40.391Z",
+      "msg": "ola"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:59:15.867Z",
+      "msg": "preciso que seja realizado a limpeza. para que dessa forma fique configurado o sistema para venda corretamente em ambiente de produção"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:00:09.089Z",
+      "msg": "A Equipe Técnica recebeu seu chamado com essa solicitação, eles já estão verificando, assim que finalizado, eles já lhe avisam através do Chamado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:00:25.136Z",
+      "msg": "entendi"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:00:30.757Z",
+      "msg": "muito obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:00:37.343Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa segunda-feira e uma boa semana para você. Por favor, classifique nosso atendimento clicando no botão ao lado da caixa de mensagem."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:00:40.493Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

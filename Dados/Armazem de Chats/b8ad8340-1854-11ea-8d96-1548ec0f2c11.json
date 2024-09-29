@@ -1,0 +1,103 @@
+{
+  "id": "b8ad8340-1854-11ea-8d96-1548ec0f2c11",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "lilian",
+    "id": "349d639222b80c3f729175b69fb009397f099e834697b8e1c7f97de25a42dd3c",
+    "email": "loja@foli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 9,
+  "chatDuration": 170,
+  "rating": 0,
+  "createdOn": "2019-12-06T18:17:57.907Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:17:57.907Z",
+      "msg": "Nome : lilian\r\nE-mail/Usuário : loja@foli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:17:57.873Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:18:04.118Z",
+      "msg": "OLÁ BOA TARDE"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:18:17.457Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:18:28.510Z",
+      "msg": "estou tentando fazer uma nota de devolução"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:19:01.024Z",
+      "msg": "porém ao colocar o número da nota"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:19:24.646Z",
+      "msg": "ela puxa só o frete"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:19:33.578Z",
+      "msg": "o item e valor nãpo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:19:36.473Z",
+      "msg": "não"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T18:20:48.250Z",
+      "msg": "Pode me passar o número desta nota que você precisa devolver por favor? Para verificarmos o porque esta apresentando esse problema"
+    }
+  ],
+  "domain": "tawk.to"
+}

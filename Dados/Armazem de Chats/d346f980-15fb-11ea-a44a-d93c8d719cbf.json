@@ -1,0 +1,138 @@
+{
+  "id": "d346f980-15fb-11ea-a44a-d93c8d719cbf",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Raquel",
+    "id": "72ae03892c362d67ee8aa3999a912c8d1614d1fbb2c0de20d234be153b62c76e",
+    "email": "raquel.florenciano@unasp.edu.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Areal"
+  },
+  "messageCount": 13,
+  "chatDuration": 1046,
+  "rating": 0,
+  "createdOn": "2019-12-03T18:36:34.604Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:36:34.604Z",
+      "msg": "Nome : Raquel\r\nE-mail/Usuário : raquel.florenciano@unasp.edu.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:36:34.619Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:36:42.371Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:36:42.957Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:37:00.430Z",
+      "msg": "Preciso parcelar uma nota fiscal em 6x"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:37:17.620Z",
+      "msg": "mas não conisgo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:37:51.942Z",
+      "msg": "Raquel, as condições de parcelamento já estão cadastradas?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:39:52.098Z",
+      "msg": "Acabei de verificar e não estava"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:40:01.207Z",
+      "msg": "vou tentar novamente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:41:17.992Z",
+      "msg": "Tudo bem, Raquel! (:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:53:12.403Z",
+      "msg": "Deu certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:53:15.431Z",
+      "msg": "Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:53:59.473Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa terça-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T18:54:00.692Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "259379f0-1761-11ea-be8c-3f44c1c3bb29",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "isaac",
+    "id": "4f05004b862ccf4abd0144da9dbce226dfa2ea833228cb6c064f1542d7200806",
+    "email": "isaacrodrigues@moda.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Uberlândia"
+  },
+  "messageCount": 9,
+  "chatDuration": 319,
+  "rating": 0,
+  "createdOn": "2019-12-05T13:14:22.530Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:14:22.530Z",
+      "msg": "Nome : isaac\r\nE-mail/Usuário : isaacrodrigues@moda.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:14:22.574Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:14:34.362Z",
+      "msg": "Boa tarde a Ana por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:14:35.678Z",
+      "msg": "Bom da"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:14:36.372Z",
+      "msg": "dia"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:14:57.816Z",
+      "msg": "Bom dia!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:15:04.558Z",
+      "msg": "Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:15:16.326Z",
+      "msg": "Ana o produto 5203-01-507-VERM - Carrinho de Bebê Travel System Kiddo Omega - Vermelho"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:15:28.618Z",
+      "msg": "Tem 1 unidade adicionada em estoque"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-05T13:18:54.311Z",
+      "msg": "Ele não deve ter estoque?"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,234 @@
+{
+  "id": "c5711bb0-16b4-11ea-927c-af9dc7b6f6d5",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Carla",
+    "id": "846daa160100fc9cbe47389cbc944932b6327a4015f5033758f21aa66d20cd3e",
+    "email": "edson@paypet.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 45,
+  "chatDuration": 2626,
+  "rating": 0,
+  "createdOn": "2019-12-04T16:40:27.684Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:40:27.684Z",
+      "msg": "Nome : Carla\r\nE-mail/Usuário : edson@paypet.com.br\r\nDepartamento : Financeiro"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:40:27.701Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:41:04.939Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:41:23.403Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:41:55.820Z",
+      "msg": "Estou com uma diferença no meu saldo final do extrato do Itau"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:42:46.355Z",
+      "msg": "Além da diferença que de fato tem por conta da baixa parcial que estou aguardando retorno do  , tem uma diferença de R$ 187,70 dos saldo inicial do mes de novembro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:43:17.696Z",
+      "msg": "O final do mes de outubro está certo, mas o inical de novembro não é o mesmo e isso está dando essa diferença informada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:45:12.274Z",
+      "msg": "Qual seria o valor de Saldo Inicial do mês de Novembro, correto?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:45:24.934Z",
+      "msg": "R$ 210,62"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:45:33.485Z",
+      "msg": "o mesmo que fechou o mes de outubro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:45:54.059Z",
+      "msg": "Um momento, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:48:16.502Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:53:24.348Z",
+      "msg": "Pode me passar um print da sua tela, por favor? Consultando o saldo inicial do mês de novembro, para entendermos melhor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T16:53:52.072Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:55:32.753Z",
+      "msg": "Você esta pesquisando por qual período? E por qual categoria?\nNão esta aparecendo os filtros no print que você me passou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:58:47.916Z",
+      "msg": "Mes passado e conta Itau"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T16:59:09.323Z",
+      "msg": "Estou filtrando somente com o banco e data"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:00:21.749Z",
+      "msg": "A equipe Técnica vai verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:00:26.382Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:15:01.628Z",
+      "msg": "Carla a Equipe Técnica esta analisando todos os lançamentos, para verificar o porque da diferença. Como tem muitos lançamentos, e vai demorar um pouquinho até todos serem analisados, abrimos o chamado de nº \t5583 para que a Equipe Técnica possa lhe passar um retorno desse caso, para você não precisar ficar aguardando no chat."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:18:44.970Z",
+      "msg": "Tudo bem, mas eu já fiz toda conferencia e todos os lançamentos do mes de novembro (com exceção aquelas baixas parciais que está dando uma diferença de 2.250,25 + 0,80 que no lugar do sistema deixar em aberto porque não foi pago, ele está debitando o banco) e a diferença está no saldo inicial de novembro, só de olhar o fechamento de outubro e a abertura de novembro já dá para achar a diferença."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:19:12.916Z",
+      "msg": "Mas eu aguardo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:23:28.222Z",
+      "msg": "Certo, vou passar essa informação para eles também, então assim que eles identificarem, eles já entram em contato avisando. Vou pedir urgência para esse caso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:23:54.083Z",
+      "msg": "Ok. Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:24:13.501Z",
+      "msg": "Imagina! Disponha!"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,322 @@
+{
+  "id": "0021c1b0-1692-11ea-9494-bfbe3b221e41",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "tainara",
+    "id": "cbb255211cf3b3c64dbf88b8ac65815bcf3405d89312cca7f4c43bc4d0fd3614",
+    "email": "sixliliam@yahoo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 35,
+  "chatDuration": 692,
+  "rating": 0,
+  "createdOn": "2019-12-04T12:33:26.209Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:33:26.209Z",
+      "msg": "Nome : tainara\r\nE-mail/Usuário : sixliliam@yahoo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:33:26.223Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:33:34.035Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:35:08.668Z",
+      "msg": "bom dia"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:35:17.483Z",
+      "msg": "gostaria de uma informação"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:35:23.257Z",
+      "msg": "É claro, Tainara. (:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:35:46.087Z",
+      "msg": "quando a venda cancela por algum motivo de erro ela aparece, no sistema ou não?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:36:03.155Z",
+      "msg": "tipo eu finalizei a venda e deu erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:36:15.288Z",
+      "msg": "ai ela vai constar no sistema ?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:36:21.739Z",
+      "msg": "mesmo com o erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:36:27.627Z",
+      "msg": "nos cancelados"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:36:35.427Z",
+      "msg": "Certo. Tainara, qual é o seu usuário de acesso ao  , por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:38:02.701Z",
+      "msg": "Além disso, a venda foi realizada para qual cliente?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:39:07.729Z",
+      "msg": "0191385"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:39:10.420Z",
+      "msg": "fabio"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:39:36.633Z",
+      "msg": "no valor 119,96"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:39:58.320Z",
+      "msg": "A venda foi realizada hoje?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:40:09.380Z",
+      "msg": "nhamburgo@verdeb.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:40:11.534Z",
+      "msg": "ontem"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:40:40.152Z",
+      "msg": "Te recorda o erro, por gentileza?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:41:29.572Z",
+      "msg": "não lembro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:41:41.223Z",
+      "msg": "mas o caixa fechou"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:41:45.061Z",
+      "msg": "deu erro"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:41:51.492Z",
+      "msg": "mas não recordo qual"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:42:09.368Z",
+      "msg": "Certo, na data de ontem temos uma venda no nome de Fábio, contudo, o valor é de 238,96 reais."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:42:24.509Z",
+      "msg": "e cancelada ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:42:50.440Z",
+      "msg": "Cancelada não temos nenhuma, ou seja, se aconteceu realmente um erro, a venda sequer foi criada."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:43:02.605Z",
+      "msg": "quero saber quando ocorre o erro, fica resgistrado ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:43:03.567Z",
+      "msg": "Perguntei o erro pelo fato de dependendo o erro, cria a venda mas não dá continuidade."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:43:12.656Z",
+      "msg": "Mas, existem outros erros que sequer registram a venda."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:43:42.429Z",
+      "msg": "mesmo eu finalizando?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:43:49.680Z",
+      "msg": "Mesmo finalizando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:44:08.170Z",
+      "msg": "humm"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:44:12.749Z",
+      "msg": "ta bom obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:44:18.104Z",
+      "msg": "Ficamos felizes em ajudar. Desejamos uma boa quarta-feira e uma boa semana para você.  "
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-04T12:44:22.592Z",
+      "msg": "Avalie o   ERP na Kmaleon e concorra a 2 Kindles.   -erp/review/1"
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "bf11c010-152b-11ea-a7dd-1ba384f2a50b",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "WILLIAN",
+    "id": "8a18eba0272c84edb1e1a2bc6b2c7edbbe83c4cfbe2618803adf4714560acfb5",
+    "email": "willian.paraiso@movecosmeticos.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 18,
+  "chatDuration": 1134,
+  "rating": 0,
+  "createdOn": "2019-12-02T17:47:05.119Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:47:05.119Z",
+      "msg": "Nome : WILLIAN\r\nE-mail/Usuário : willian.paraiso@movecosmeticos.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:47:05.141Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:47:21.940Z",
+      "msg": "OI JÁ ESTAVA EM ATENDIMENTO"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:47:57.572Z",
+      "msg": "Olá, Willian. O relatório que estávamos conversando captura as informações no momento da venda. Ou seja, a lucratividade será calculada neste item de acordo com as vendas realizadas de hoje em diante."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:48:40.293Z",
+      "msg": "No momento que você realizou a venda no dia 12/11, o item estava com o custo zerado. E ao analisar nosso banco de dados, consultamos que tivemos alterações no preço do custo há exatos oito minutos atrás."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:49:07.726Z",
+      "msg": "DESTE ITEM SIM"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:50:06.634Z",
+      "msg": "MAS TEMOS VÁRIOS, MAS NO MOMENTO QUE EU COLOCO O CUSTO ELE DEVERIA CALCULAR"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:50:15.771Z",
+      "msg": "Nos cite um exemplo, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:51:54.502Z",
+      "msg": "OUTRO DETALHE, ESTOU CONSULTANDO O ESTOQUE E O PREÇO DE CUSTO DELE AINDA NÃO APARECE"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:52:36.427Z",
+      "msg": "Do item que estávamos falando?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "file",
+      "time": "2019-12-02T17:53:04.990Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:53:13.931Z",
+      "msg": "Vá em Home > Estoque > Inventário."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:53:42.282Z",
+      "msg": "E realize a busca pelo item necessário."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:02:51.761Z",
+      "msg": "NÃO APARECE CUSTO E NEM VALOR DE VENDA"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T18:03:45.647Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:04:30.691Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "file",
+      "time": "2019-12-02T18:05:29.855Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:05:41.618Z",
+      "msg": "Também se encontra com custo zerado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:05:58.906Z",
+      "msg": "Recomendamos que você exporte uma planilha em Excel e importe-a novamente, com os preços de custo devidamente ajustados."
+    }
+  ],
+  "domain": "tawk.to"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "7e24feb0-1606-11ea-a181-a59649ef42ba",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "rodrigo",
+    "id": "a63ecdae2150f2c954b4a1604dcc26e8f70d412a21ba066e0492f4af83de2244",
+    "email": "administrativo@coffeeshoes.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Bernardo do Campo"
+  },
+  "messageCount": 11,
+  "chatDuration": 460,
+  "rating": 1,
+  "createdOn": "2019-12-03T19:53:34.519Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:53:34.519Z",
+      "msg": "Nome : rodrigo\r\nE-mail/Usuário : administrativo@coffeeshoes.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:53:34.526Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:54:09.473Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:54:14.907Z",
+      "msg": "boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:54:29.599Z",
+      "msg": "gostaria de saber se o sistema aceita a impressora ARGOX"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:55:00.912Z",
+      "msg": "impressora igual a zebra"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:57:20.618Z",
+      "msg": "Sim, temos compatibilidade."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:57:52.603Z",
+      "msg": "como faço para imprimir? tentei testar e é gerado um arquivo ."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:58:06.077Z",
+      "msg": "da pra instalar a  impressora?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:58:13.964Z",
+      "msg": "ou como abro o arquivo?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:58:32.485Z",
+      "msg": "São três arquivos que podem te auxiliar:"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T19:59:16.447Z",
+      "msg": "vou analisar, se precisar chamo de novo!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-03T19:59:19.104Z",
+      "data": {
+        "rating": 1
+      }
+    }
+  ],
+  "domain": "tawk.to"
+}

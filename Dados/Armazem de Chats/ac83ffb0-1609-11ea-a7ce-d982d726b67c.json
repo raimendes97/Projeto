@@ -1,0 +1,80 @@
+{
+  "id": "ac83ffb0-1609-11ea-a7ce-d982d726b67c",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Marlos",
+    "id": "b4f4d2166b1f801fca51a17614377f4034ce7df59ae58ecfade6123909dd855d",
+    "email": "marlos@piratadolago.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Porto Alegre"
+  },
+  "messageCount": 6,
+  "chatDuration": 242,
+  "rating": 0,
+  "createdOn": "2019-12-03T20:15:41.995Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:15:41.995Z",
+      "msg": "Nome : Marlos\r\nE-mail/Usuário : marlos@piratadolago.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:15:42.051Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:15:50.924Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:16:04.338Z",
+      "msg": "uma vez eu vi que o   tinha uma planilha para controle de estoque.."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:18:02.004Z",
+      "msg": "Certo..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:18:43.083Z",
+      "msg": "na verdade quero montar o pedido de inverno... queria saber que material vcs tem disponível"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:19:44.355Z",
+      "msg": "Certo. Para você baixar a planilha de estoque, é necessário que você vá em Inventário e exporte o arquivo em .xls"
+    }
+  ],
+  "domain": "tawk.to"
+}

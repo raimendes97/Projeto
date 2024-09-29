@@ -1,0 +1,370 @@
+{
+  "id": "6bb11030-1529-11ea-b534-f124329eb6cd",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "BETE",
+    "id": "b8d4a838c3dd37b99d974c031c637900568912976db09e1c753fed04e3d2d422",
+    "email": "bete@foli.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Novo Hamburgo"
+  },
+  "messageCount": 40,
+  "chatDuration": 4824,
+  "rating": 0,
+  "createdOn": "2019-12-02T17:30:28.719Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:30:28.719Z",
+      "msg": "Nome : BETE\r\nE-mail/Usuário : bete@foli.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:30:28.769Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:30:36.775Z",
+      "msg": "boa tarde"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:30:58.605Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:31:09.473Z",
+      "msg": "vc pode verificar , pq uma entrada de produto (por ordem de compra ) não atualizou o estoque"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:31:24.884Z",
+      "msg": "a ordem de compra foi recebida 26/09/19"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:31:28.574Z",
+      "msg": "Qual seria a ordem de compra em questão, Bete?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:31:45.051Z",
+      "msg": "Nf 20190926"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:32:01.947Z",
+      "msg": "a ref. 12.006 esta zerada no estoque"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:32:12.244Z",
+      "msg": "estava nesta ordem compra"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:32:31.718Z",
+      "msg": "Certo, um instante, por gentileza."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:37:21.610Z",
+      "msg": "Bety, não estamos conseguindo localizar a OC. Tu tens o número da ordem?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:42:06.817Z",
+      "msg": "32221"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T17:42:24.216Z",
+      "msg": "dia recebimento 26/09"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:00:03.545Z",
+      "msg": "Bete, será aberto um chamado para averiguar a causa de isto ter acontecido. Um instante."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:03:15.178Z",
+      "msg": "Estamos consultando."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:03:40.403Z",
+      "msg": "ok,"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:12:27.354Z",
+      "msg": "Bete"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:12:55.825Z",
+      "msg": "Consultamos em nossa base os produtos da foli e analisamos que houveram saídas por inventário. Ou seja, por algum motivo, um usuário importou planilhas de inventário com quantidade menor do que havia exportado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:13:04.289Z",
+      "msg": "Exemplificamos na captura de tela abaixo:"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "file",
+      "time": "2019-12-02T18:13:10.649Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:16:40.593Z",
+      "msg": "nao entendi,, esta operação"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:16:58.119Z",
+      "msg": "pois sou sempre eu que dou as entradas nos produtos,"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:17:11.822Z",
+      "msg": "uso as vezes ajuste de estoque"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:17:25.496Z",
+      "msg": "mas ajuste de inventario?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:18:09.951Z",
+      "msg": "São nomenclaturas diferentes, mas o propósito é o mesmo. Exatamente o mesmo."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:18:21.644Z",
+      "msg": "todo esta ordem de compra 32221 ,foi feito isso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:18:38.961Z",
+      "msg": "Na verdade, com os itens que vieram na ordem 32221"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:18:43.796Z",
+      "msg": "que usuario fez a operação , foi bete@foli"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:19:48.121Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:19:55.862Z",
+      "msg": "tenho que identificar pois meu estoque esta errado,"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:20:14.072Z",
+      "msg": "se foi feito isto, so se por engano"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:22:24.032Z",
+      "msg": "Bete, estamos averiguando para poder te indicar o que foi realizado e por quem foi realizado."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:30:55.626Z",
+      "msg": "todos os itens desta ordem de compra estão zerados no estoque, anulou a entrada da ordem..."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:31:22.164Z",
+      "msg": ",foi somente esta? ou todas as ordem compra foram \"anuladas\""
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:31:33.733Z",
+      "msg": "Bete, constatamos que a movimentação foi realizada pelo sr. Marti Bauer, da Kunden, no dia 04/10."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:32:03.275Z",
+      "msg": "PQ? era teste?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:32:11.718Z",
+      "msg": "como conserto isso ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:32:26.967Z",
+      "msg": "Seria necessário importar uma nova planilha de inventário com os estoques certos."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:32:51.738Z",
+      "msg": "todos os itens?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-02T18:33:30.638Z",
+      "msg": "Para maior acuracidade de estoque, sim!"
+    }
+  ],
+  "domain": "tawk.to"
+}

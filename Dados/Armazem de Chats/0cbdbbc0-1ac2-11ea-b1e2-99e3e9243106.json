@@ -1,0 +1,286 @@
+{
+  "id": "0cbdbbc0-1ac2-11ea-b1e2-99e3e9243106",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Raquel Ferraz",
+    "id": "082081785f27fa0bb08717ae64c99ea9634a41e8a5d5e5e49eea23d464580a14",
+    "email": "financeiro.yesiamstore@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 30,
+  "chatDuration": 2119,
+  "rating": 0,
+  "createdOn": "2019-12-09T20:26:48.632Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:26:48.632Z",
+      "msg": "Nome : Raquel Ferraz\r\nE-mail/Usuário : financeiro.yesiamstore@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:26:48.654Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:27:03.273Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:27:10.310Z",
+      "msg": "Olá Ana"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:27:12.730Z",
+      "msg": "tudo bem?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:27:29.826Z",
+      "msg": "Pergunta: Quando eu faço um pedido, faturo e não emito NF. Ele da baixa no meu estoque?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:27:43.490Z",
+      "msg": "Tudo bem e você?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:27:58.905Z",
+      "msg": "Sim quando você fatura, ele movimenta o estoque e cria o financeiro."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:28:13.307Z",
+      "msg": "E no PDV"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:28:30.722Z",
+      "msg": "tenho como emitir cupom fiscal sem cpf?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:28:37.026Z",
+      "msg": "só pra dar saída no produto."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:29:28.576Z",
+      "msg": "Sim, se você não selecionar nenhum cliente no momento da venda no PDV, ele emite nota para Consumidor Final. neste caso, não precisa ser informado nenhum CPF e não precisa selecionar nenhum cliente."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:31:14.694Z",
+      "msg": "muito obrigado"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:31:25.081Z",
+      "msg": "Imagina! Disponha!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:31:43.601Z",
+      "msg": "outra coisa"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:31:43.647Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:31:58.201Z",
+      "msg": "tenho outra dúvida."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:32:42.928Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:34:35.372Z",
+      "msg": "eu tenho alguns estoques"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:34:48.998Z",
+      "msg": "eu queria muito saber sobre isso"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:34:51.866Z",
+      "msg": "porque eu tenho alguns pdf"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:34:53.703Z",
+      "msg": "PDV *"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:35:00.782Z",
+      "msg": "e locais de estocagem diferentes"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:35:13.503Z",
+      "msg": "eu queria mto q esses cadastros de outros pdv e outros locais de estocagem"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:35:19.545Z",
+      "msg": "dessem saídas nos locais q são deles"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:35:23.203Z",
+      "msg": "não no meu estoque central"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:35:26.801Z",
+      "msg": "isso ta me dando mto problema."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:37:09.221Z",
+      "msg": "Para todas as vendas no PDV, o sistema pega automaticamente do Local de Estocagem chamado Loja, infelizmente não é possível alterar, ele vem por padrão.\nPara as vendas através de pedidos,  devoluções/ trocas, e outros tipos de notas, é possível selecionar o Local de estocagem que será realizado o ajuste de estoque."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:42:50.466Z",
+      "msg": "e nao tem como o   arrumar isso?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:42:54.995Z",
+      "msg": "porque isso prejudica demais a gente."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T20:43:48.584Z",
+      "msg": "Infelizmente hoje não temos outra opção. Peço por favor, para abrir um Chamado referente a este caso, para que possa ser melhor analisado por nossa Equipe Técnica, e se aprovado, eles possam estar melhorando a ferramenta."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T21:01:57.647Z",
+      "msg": "Nosso atendimento encerra agora as 18hrs. Em caso de dúvida, por favor, abrir um Chamado ou entrar em contato pelo Chat, amanhã de manhã, a partir das 8hrs, para continuarmos o atendimento!"
+    }
+  ],
+  "domain": "tawk.to"
+}

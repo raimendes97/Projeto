@@ -1,0 +1,253 @@
+{
+  "id": "3431b2b0-1a8b-11ea-8d57-4d9b9008030c",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Edson",
+    "id": "eca652e409dff20fb021b9ee4baf76a2805e29da4ff84057765864232b669902",
+    "email": "miloccacosmeticos@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Curitiba"
+  },
+  "messageCount": 26,
+  "chatDuration": 1618,
+  "rating": 0,
+  "createdOn": "2019-12-09T13:55:01.731Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:55:01.731Z",
+      "msg": "Nome : Edson\r\nE-mail/Usuário : miloccacosmeticos@gmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:55:01.756Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:55:12.402Z",
+      "msg": "Caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:55:30.546Z",
+      "msg": "Pode nos possar um acesso do team viewer, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:56:00.426Z",
+      "msg": "Ok. Só um momento."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-09T13:56:48.632Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:57:19.793Z",
+      "msg": "573 936 449."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:57:32.337Z",
+      "msg": "33kb"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:57:58.146Z",
+      "msg": "Você consegue baixar a versão 12 do team viewer, por favor? Infelizmente não temos licenças para a nova versão."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:57:59.172Z",
+      "msg": "https"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:02:29.251Z",
+      "msg": "Um momento que estou tentando desinstalar a versão 14"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:03:13.007Z",
+      "msg": "Certo, obrigada"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:13:00.653Z",
+      "msg": "583 909 409"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:13:11.673Z",
+      "msg": "2857"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:13:33.739Z",
+      "msg": "Vamos conectar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:17:35.630Z",
+      "msg": "Edson, não localizamos o PDV neste acesso que nos passou."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:17:40.032Z",
+      "msg": "Seria esse mesmo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:04.190Z",
+      "msg": "Não . O PDV fica só nos computadores da loja."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:28.427Z",
+      "msg": "Quer que eu peça para alguem conectar la?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:18:41.608Z",
+      "msg": "Sim, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:19:02.450Z",
+      "msg": "Um momento"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:19:07.953Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:20:26.420Z",
+      "msg": "OI. A menina do caixa está atendendo no momento."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:21:14.927Z",
+      "msg": "Acho melhor fazermos a conexão na parte da tarde. Dai eu posso estar lá e acompanhar. Pode ser?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:21:34.764Z",
+      "msg": "Combinado! Aguardamos o seu contato para verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:21:45.696Z",
+      "msg": "OK. Obrigado."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T14:21:52.016Z",
+      "msg": "Imagina! Disponha!"
+    }
+  ],
+  "domain": "tawk.to"
+}

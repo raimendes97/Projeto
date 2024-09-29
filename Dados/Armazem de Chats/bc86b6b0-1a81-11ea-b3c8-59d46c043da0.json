@@ -1,0 +1,217 @@
+{
+  "id": "bc86b6b0-1a81-11ea-b3c8-59d46c043da0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Lucas",
+    "id": "bf3d301f1306457298b01158463ad9d78af411b235de6eb741541aea39d8e4d7",
+    "email": "santabirra@hotmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 20,
+  "chatDuration": 3832,
+  "rating": 0,
+  "createdOn": "2019-12-09T12:45:12.998Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:45:12.998Z",
+      "msg": "Nome : Lucas\r\nE-mail/Usuário : santabirra@hotmail.com\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:45:13.095Z",
+      "msg": "Bom dia! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:45:23.665Z",
+      "msg": "Bom dia, tudo bem?\nPreciso de ajuda!!!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:45:25.479Z",
+      "msg": "Bom dia! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:45:58.958Z",
+      "msg": "Não estou conseguindo ver a NFe que foi emitida, esta dando erro!!!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:46:20.224Z",
+      "msg": "Pode me passar um print do erro, por favor? Para entendermos melhor."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:46:28.326Z",
+      "msg": "Tudo bem e você?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:46:41.652Z",
+      "msg": "NFe 6761"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T12:49:19.620Z",
+      "msg": "Consegue me explicar melhor, por favor, qual erro ocorre para você?\nAcessei em Vendas > Notas Eletrônicas > Consultar,  localizei a nota e consegui abrir o PDF dela."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-09T12:49:30.786Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:09:14.465Z",
+      "msg": "Sim!!!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:09:33.702Z",
+      "msg": "tenta abrir o PDf da NFe."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:10:36.087Z",
+      "msg": "Eu tentei aqui e abriu normalmente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:10:49.423Z",
+      "msg": "Pode me passar o print do erro, por favor?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-09T13:14:02.659Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-09T13:23:17.611Z",
+      "data": {
+        "uri": "https",
+        "name": "NFe erro.jpeg",
+        "mime": "image/jpeg"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:23:31.271Z",
+      "msg": "O meu fica assim."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:25:56.586Z",
+      "msg": "Certo, vamos verificar, um segundo, por favor."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:32:27.747Z",
+      "msg": "Vou lhe passar o PDF aqui no chat, enquanto ajustamos no sistema."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-09T13:32:33.874Z",
+      "data": {
+        "uri": "https",
+        "name": "35191210348102000156550010000067611047980897 (1).pdf",
+        "mime": "application/pdf"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-09T13:49:04.904Z",
+      "msg": "Pode nos passar um acesso do team viewer, por favor? Para verificarmos"
+    }
+  ],
+  "domain": "tawk.to"
+}

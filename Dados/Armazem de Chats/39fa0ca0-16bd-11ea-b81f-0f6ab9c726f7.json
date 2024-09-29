@@ -1,0 +1,459 @@
+{
+  "id": "39fa0ca0-16bd-11ea-b81f-0f6ab9c726f7",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "mayara",
+    "id": "8cbaf32736405cfd16df6f642505d22df07e5ca34f19e15d9c4cd0a9c364d4ec",
+    "email": "gerencia@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 51,
+  "chatDuration": 3900,
+  "rating": 0,
+  "createdOn": "2019-12-04T17:41:05.714Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:41:05.714Z",
+      "msg": "Nome : mayara\r\nE-mail/Usuário : gerencia@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:41:05.731Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:41:21.592Z",
+      "msg": "Olá, caiu o chat"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T17:41:24.068Z",
+      "msg": "deu certo?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:00:25.725Z",
+      "msg": "nao"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:00:54.124Z",
+      "msg": "os produtos que a cliente trouxe nao aparece"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:01:23.646Z",
+      "msg": "tentei fazer mais outra troca agora e tamabém nao consegui"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:01:56.366Z",
+      "msg": "Você não conseguiu selecionar os itens após informar os dados da nota?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:03:09.913Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:03:48.268Z",
+      "msg": "Pode me passar um exemplo de produto, por favor? Para verificarmos"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:04:07.361Z",
+      "msg": "vela alecrim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:04:20.338Z",
+      "msg": "Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:04:27.273Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:05:22.652Z",
+      "msg": "Esta trazendo esse item e esta permitindo que seja selecionado para mim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "file",
+      "time": "2019-12-04T18:05:28.646Z",
+      "data": {
+        "uri": "https",
+        "name": "image.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:05:51.549Z",
+      "msg": "Para você aparece alguma mensagem de erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:07:13.517Z",
+      "msg": "só um momento que vamos tentar fazer de novo e vamos te mandar o print"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:07:29.746Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:09:51.315Z",
+      "msg": "no caso, a troca é de outro sistema, pois a cliente comprou em outra loja e veio trocar aqui, eu coloco gerar NF ou cupom fiscal eletronico SAT?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:11:24.212Z",
+      "msg": "essa troca que ela veio fazer, foi de uma venda que foi passada em nota fiscal ou cupom fiscal? Ela trouxe a nota?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:11:53.525Z",
+      "msg": "sim, até te passamos o número da série e cupom"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:12:53.268Z",
+      "msg": "então você seleciona cupom fiscal SAT, já que ela trouxe o cupom."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T18:15:50.084Z",
+      "data": {
+        "uri": "https",
+        "name": "Sem título.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:15:59.930Z",
+      "msg": "não aparece o produto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:17:09.729Z",
+      "msg": "Você precisa clicar no Botão Adicionar Produtos"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:17:24.048Z",
+      "msg": "e selecionar os itens e informar a quantidade e valor deles, caso esteja diferente"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:17:26.465Z",
+      "msg": "Manualmente"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-04T18:18:02.398Z",
+      "data": {
+        "uri": "https",
+        "name": "Sem título...png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:18:12.217Z",
+      "msg": "fizemos manualmente e apareceu isso"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:18:34.057Z",
+      "msg": "Vamos verificar o motivo do erro, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:18:38.377Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:31:37.706Z",
+      "msg": "Podemos tentar emitir a nota, por aqui\n?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:31:45.090Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:31:51.551Z",
+      "msg": "Certo, um segundo, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:33:34.150Z",
+      "msg": "Conseguimos emitir a nota dela, gerou o voucher ZSPIRYCF. Pode verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:35:08.838Z",
+      "msg": "só um minuto"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:35:12.170Z",
+      "msg": "Certo"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:36:13.551Z",
+      "msg": "foi  emitida"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:36:50.279Z",
+      "msg": "Essa da Cliente Antonia Mendonça, você também precisa emitir e esta ocorrendo o mesmo erro?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:37:38.985Z",
+      "msg": "sim, essa tbm aparece a mesma mensagem que te mandei print"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:36.575Z",
+      "msg": "Podemos tentar emitir por aqui?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:39:43.461Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:41:01.390Z",
+      "msg": "Um segundo, por favor, vamos tentar emitir."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:41:29.056Z",
+      "msg": "ok"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:41:52.589Z",
+      "msg": "Conseguimos emitir, gerou o voucher 01T5CCT3"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:41:59.438Z",
+      "msg": "Você consegue verificar, por favor?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:42:28.534Z",
+      "msg": "só um momento"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:44:15.317Z",
+      "msg": "Certo.\nJá repassei o problema para nossa Equipe Técnica, eles já estão verificando o porque esta apresentando essa mensagem de erro quando você tenta emitir, para que seja corrigido o mais breve possível."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:45:52.453Z",
+      "msg": "Foi emitida também. Obrigada"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T18:46:05.246Z",
+      "msg": "Imagina! peço desculpas pelo transtorno!"
+    }
+  ],
+  "domain": "tawk.to"
+}

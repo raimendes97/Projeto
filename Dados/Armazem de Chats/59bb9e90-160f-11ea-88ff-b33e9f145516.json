@@ -1,0 +1,131 @@
+{
+  "id": "59bb9e90-160f-11ea-88ff-b33e9f145516",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Pedro Siqueira",
+    "id": "e4fe6f94ccd4b9ea0b8407c315371fd33cef1001700a8cf4268874e2c05a064d",
+    "email": "administrativo2@estudio.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 15,
+  "chatDuration": 459,
+  "rating": 0,
+  "createdOn": "2019-12-03T20:56:20.445Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:56:20.445Z",
+      "msg": "Nome : Pedro Siqueira\r\nE-mail/Usuário : administrativo2@estudio.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:56:20.462Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:56:27.710Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:56:36.315Z",
+      "msg": "Boa tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:56:44.568Z",
+      "msg": "estou tentando salvar uma nf de transferencia e esta dando um erro"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:56:50.719Z",
+      "msg": "Certo, Pedro. Qual é o erro em questão?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:58:13.475Z",
+      "msg": "erro 504"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T20:58:28.935Z",
+      "msg": "Você pode tentar realizar o processo novamente?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:00:17.093Z",
+      "msg": "está dando a mesma coisa"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:00:40.567Z",
+      "msg": "Um instante."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:01:48.301Z",
+      "msg": "Temos muitos produtos na nota de transferência?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:02:00.885Z",
+      "msg": "sim"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Suporte"
+      },
+      "type": "msg",
+      "time": "2019-12-03T21:03:59.300Z",
+      "msg": "Certo, Pedro. Como são muitos produtos, seria possível você quebrar a nota em duas para realizar a transferência?"
+    }
+  ],
+  "domain": "tawk.to"
+}

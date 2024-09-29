@@ -1,0 +1,113 @@
+{
+  "id": "b98d5f40-16d0-11ea-8fba-29a21c391dcf",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Adilton",
+    "id": "e872598e6dd4a721103839b1e5c861e802b361a5f594feb520dc14b8c90b90fc",
+    "email": "adilton@lumo.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Caxias do Sul"
+  },
+  "messageCount": 10,
+  "chatDuration": 1907,
+  "rating": 0,
+  "createdOn": "2019-12-04T20:00:54.781Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:00:54.781Z",
+      "msg": "Nome : Adilton\r\nE-mail/Usuário : adilton@lumo.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:00:54.798Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:01:02.007Z",
+      "msg": "Boa Tarde"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:01:12.791Z",
+      "msg": "Estou com um problema em uma nota"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:01:19.157Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:01:47.712Z",
+      "msg": "a nota 6383/1"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:02:18.959Z",
+      "msg": "qnd confeccionei a nota o valor dos produtos ficou diferente do valor total da nota"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:03:08.046Z",
+      "msg": "o sistema acrescentou 1 centavo sem motivo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:03:50.421Z",
+      "msg": "Um momento, por favor, vou verificar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:16:47.470Z",
+      "msg": "Estamos verificando, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-04T20:32:41.979Z",
+      "msg": "Identificamos que o   arredondou o valor \"para cima\", inserindo esse R$ 0,01 a mais na nota. Pedimos desculpas pelo transtorno, a Equipe Técnica vai analisar o porque isso ocorreu.\nVocê já pode duplicar o pedido, que ele já vai pegar o pedido com o ajuste e vai emitir com o valor correto."
+    }
+  ],
+  "domain": "tawk.to"
+}

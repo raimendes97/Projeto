@@ -1,0 +1,90 @@
+{
+  "id": "7fe89390-186a-11ea-9d93-1b40c69cfed0",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Marlos",
+    "id": "b4f4d2166b1f801fca51a17614377f4034ce7df59ae58ecfade6123909dd855d",
+    "email": "marlos@piratadolago.com.br"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "Porto Alegre"
+  },
+  "messageCount": 6,
+  "chatDuration": 431,
+  "rating": 1,
+  "createdOn": "2019-12-06T20:53:52.161Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:53:52.161Z",
+      "msg": "Nome : Marlos\r\nE-mail/Usuário : marlos@piratadolago.com.br\r\nDepartamento : Suporte Técnico"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:53:52.228Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:54:00.302Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:54:15.808Z",
+      "msg": "boa tarde, o sistema tem algum alerta para \"brinde\""
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:54:50.294Z",
+      "msg": "por exemplo, eu coloquei uma promoção que compras acima de 200, ganha um brinde.\n\ndaí gostaria que o sistema me avisasse"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:55:43.286Z",
+      "msg": "Infelizmente não temos nenhum tipo de alerta no sistema hoje. Orientamos abrir um chamado solicitando, para que possa ser melhor analisado por nossa Equipe Técnica e se aprovado, possamos desenvolver a ferramenta e melhorar o sistema."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "rating",
+      "time": "2019-12-06T20:55:57.993Z",
+      "data": {
+        "rating": 1
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-06T20:59:18.676Z",
+      "msg": "Podemos continuar o atendimento na segunda de manhã, por favor? Nosso atendimento encerra agora as 18hrs e retornamos na segunda a partir das 08hrs."
+    }
+  ],
+  "domain": "tawk.to"
+}

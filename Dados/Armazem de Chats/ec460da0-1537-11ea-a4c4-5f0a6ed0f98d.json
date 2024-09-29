@@ -1,0 +1,151 @@
+{
+  "id": "ec460da0-1537-11ea-a4c4-5f0a6ed0f98d",
+  "type": "chat",
+  "pageId": "57c872ad1105e45f7b39ef32",
+  "visitor": {
+    "name": "Jessica",
+    "id": "69bd8983310d4d0c518d0be972c29935fb6e0e8c9826e939c81c3b78073b45cb",
+    "email": "jeholiveiramaria17@gmail.com"
+  },
+  "location": {
+    "countryCode": "BR",
+    "city": "São Paulo"
+  },
+  "messageCount": 14,
+  "chatDuration": 1085,
+  "rating": 0,
+  "createdOn": "2019-12-02T19:14:29.483Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:14:29.483Z",
+      "msg": "Ola boa tarde 1"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:14:29.511Z",
+      "msg": "Boa tarde! Por favor aguarde até um de nossos atendentes entrar na conversa."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:14:36.499Z",
+      "msg": "Boa tarde! Como posso ajudar?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:15:26.063Z",
+      "msg": "Estou tentando fazer duas trocas, uma diz que já foi emitido a cupom fiscal porem não apareceu o voucher para a troca."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "file",
+      "time": "2019-12-02T19:15:38.295Z",
+      "data": {
+        "uri": "https",
+        "name": "trocas.png",
+        "mime": "image/png"
+      }
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:15:53.387Z",
+      "msg": "Vamos verificar, um momento, por favor"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:16:31.736Z",
+      "msg": "Essa do número 3346 é que não aparece o codigo"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:17:55.173Z",
+      "msg": "Me confirma o seu email de acesso ao   Web, por favor? Não localizamos o usuário jeholiveiramaria12327@gmail.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:18:41.233Z",
+      "msg": "Do   é Jessica@estudr4iopapel.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:19:12.696Z",
+      "msg": "Do quiosque de higienopolis"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:19:16.218Z",
+      "msg": "Perfeito! Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:21:21.248Z",
+      "msg": "Okay, essa troca que esta sem número e é nome da Shawane, é de outra loja, do quiosque do iguatemi cupom é 5958 - serie 524568"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:22:00.802Z",
+      "msg": "Perfeito! Um momento, por favor, vamos verificar"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:23:38.095Z",
+      "msg": "okay"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Ana"
+      },
+      "type": "msg",
+      "time": "2019-12-02T19:32:34.169Z",
+      "msg": "Mais um momento, por favor, a Equipe Técnica já esta verificando essa situação"
+    }
+  ],
+  "domain": "tawk.to"
+}
