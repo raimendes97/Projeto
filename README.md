@@ -1,20 +1,18 @@
-Projeto de Análise de Chats
+# Projeto de Análise de Chats
+
 Este projeto visa analisar o atendimento ao cliente por meio de chats, com o objetivo de identificar padrões de comportamento, eficiência e áreas de melhoria.
 
-Objetivos
-Identificar padrões de volume de chats.
+## Objetivos
 
-Avaliar a duração dos chats.
+- Identificar padrões de volume de chats.
+- Avaliar a duração dos chats.
+- Analisar as avaliações dos atendimentos (NPS).
 
-Analisar as avaliações dos atendimentos (NPS).
+## Como Utilizar
 
-Como Utilizar
-Clone este repositório:
-
-bash
-
-Copiar
-git clone https://github.com/raimendes97/Projeto.git
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/raimendes97/Projeto.git
 Instale as dependências necessárias:
 
 bash
